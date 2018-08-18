@@ -1,0 +1,2143 @@
+                                                                                                                                    Form 2322
+                            Red Light Camera: Post-Activation                                                                      (Rev. 07/14)
+                                      Annual Report                                                                                 Page 1 of 6
+
+
+
+
+INTERSECTION DEMOGRAPHICS
+
+COUNTY                                   Dallas - Enter the name of the County in which the intersection is located.
+
+CITY                                     Irving - Enter the name of the City/Town in which the intersection is located.
+
+PRIMARY STREET                  Belt Line Road - Enter the official street name, number or letter of the primary street of the intersection.
+                                                  If the road is a designated highway, enter the highway designation and number.
+CROSS STREET                     Pioneer Drive - Enter the official street name, number or letter of the cross street of the intersection.
+                                                  If the road is a designated highway, enter the highway designation and number.
+
+
+DATE OF CAMERA                    May 1, 2007 - Enter the date the camera was activated.
+ACTIVATION
+DATE OF CAMERA                                   - If applicable, enter the date the camera was deactivated. Otherwise leave blank.
+DEACTIVATION
+(if applicable)
+                                                                                                                                            Form 2322
+                                        Red Light Camera: Post-Activation                                                                  (Rev. 07/14)
+                                                  Annual Report                                                                             Page 2 of 6
+
+
+PRIMARY STREET DEMOGRAPHICS
+
+STREET NAME ALIASES                                                 - Enter all the names the primary street of the intersection is known as,
+                                                                      other than the street name listed above.
+
+
+
+
+Is the Primary Street on the State                             No - Select Yes or No. If “yes”, the highway designation and number should be
+Highway System?                                                       entered in “Primary Street” in the section for “Intersection Demographics”.
+
+If “Yes”, is it an Access Road/                                     - Select Yes or No.
+Frontage Road?
+TRAFFIC DIRECTION OF TRAVEL                       North - South - Select the traffic direction of travel for this street.
+
+ANNUAL DAILY TRAFFIC (ADT)                                 45000 - Enter the most current Annual Daily Traffic count (ADT) for the primary
+                                                                      street at the intersection.
+
+SPEED LIMIT                                                     40 - Enter the posted speed limit for the primary street.
+
+NUMBER OF THROUGH LANES                                          3 - Enter the number of through lanes on the primary street at the intersection.
+
+NUMBER OF TURN LANES                                             2 - Enter the number of turn lanes (left and right) on the primary street at
+                                                                      the intersection.
+
+YELLOW SIGNAL TIMING                                           4.8 - Enter yellow duration.
+
+ALL RED SIGNAL TIMING (if applicable)                            1 - Enter all red duration.
+
+CAMERA 1 APPROACH DIRECTION                       North - South - Enter the direction traffic is traveling on the approach the camera is
+                                                                      monitoring.
+
+CAMERA 2 APPROACH DIRECTION                                         - Enter the direction traffic is traveling on the approach camera # 2 is
+                                                                      monitoring if more than one approach is monitored.
+
+CAMERA 3 APPROACH DIRECTION                                         - Enter the direction traffic is traveling on the approach camera # 3 is
+                                                                      monitoring if more than one approach is monitored.
+
+CAMERA 4 APPROACH DIRECTION                                         - Enter the direction traffic is traveling on the approach camera # 4 is
+                                                                      monitoring if more than one approach is monitored.
+                                                                                                                                           Form 2322
+                                        Red Light Camera: Post-Activation                                                                 (Rev. 07/14)
+                                                  Annual Report                                                                            Page 3 of 6
+
+
+CROSS STREET DEMOGRAPHICS
+STREET NAME ALIASES                                                 - Enter all the names the cross street of the intersection is known as, other
+                                                                      than the street name listed above.
+
+
+
+
+Is the Cross Street on the State                               No - Select Yes or No. If “yes”, the highway designation and number should be
+Highway System?                                                      entered in “Cross Street” in the section for “Intersection Demographics”.
+
+If “Yes”, is it an Access Road/                                     - Select Yes or No.
+Frontage Road?
+TRAFFIC DIRECTION OF TRAVEL                         East - West - Select the traffic direction of travel for this street.
+
+ANNUAL DAILY TRAFFIC (ADT)                                15900 - Enter the most current Annual Daily Traffic count (ADT) for the cross
+                                                                     street at the intersection.
+
+SPEED LIMIT                                                    35 - Enter the posted speed limit for the cross street.
+
+NUMBER OF THROUGH LANES                                          2 - Enter the number of through lanes on the cross street at the intersection.
+
+NUMBER OF TURN LANES                                             1 - Enter the number of turn lanes (left and right) on the cross street at the
+                                                                     intersection.
+YELLOW SIGNAL TIMING                                                - Enter yellow duration.
+
+ALL RED SIGNAL TIMING (if applicable)                               - Enter all red duration.
+
+CAMERA 1 APPROACH DIRECTION                                         - Enter the direction traffic is traveling on the approach the camera is
+                                                                      monitoring.
+CAMERA 2 APPROACH DIRECTION                                         - Enter the direction traffic is traveling on the approach camera # 2 is
+                                                                      monitoring if more than one approach is monitored.
+
+CAMERA 3 APPROACH DIRECTION                                         - Enter the direction traffic is traveling on the approach camera # 3 is
+                                                                      monitoring if more than one approach is monitored.
+
+CAMERA 4 APPROACH DIRECTION                                         - Enter the direction traffic is traveling on the approach camera # 4 is
+                                                                      monitoring if more than one approach is monitored.
+CITATION INFORMATION
+
+TOTAL NUMBER OF RED LIGHT CAMERA VIOLATION CITATIONS ISSUED (POST ACTIVATION) 10,897
+                                                                                                                                       Form 2322
+                                                       Red Light Camera: Post-Activation                                              (Rev. 07/14)
+                                                                 Annual Report                                                         Page 4 of 6
+
+
+
+
+         CRASH AND INJURY DATA – REPORTING PERIOD JULY 1, 2012
+                                                          2016 THROUGH JUNE 30, 2013
+                                                                                2017
+
+
+ALL INTERSECTION CRASHES - This section is for data concerning crashes that occurred within the intersection or were related to the
+intersection. Click here for the definition of an intersection crash.
+
+TOTAL - all crashes at this intersection that meet the definition of an intersection crash:
+                                               TOTAL NUMBER OF                         TOTAL NUMBER OF           TOTAL NUMBER OF
+      TOTAL NUMBER OF                            RIGHT ANGLE                                REAR-END                  OTHER
+   INTERSECTION CRASHES                    INTERSECTION CRASHES                    INTERSECTION CRASHES       INTERSECTION CRASHES
+                9                                       2                                      6                        1
+
+RED LIGHT RELATED - all crashes at this intersection that meet the definition of a Red Light Related intersection crash:
+                                          TOTAL NUMBER OF                          TOTAL NUMBER OF                       TOTAL NUMBER OF
+      TOTAL NUMBER OF                     RED LIGHT RELATED                       RED LIGHT RELATED                     RED LIGHT RELATED
+     RED LIGHT RELATED                        RIGHT ANGLE                             REAR-END                                OTHER
+  INTERSECTION CRASHES                INTERSECTION CRASHES                    INTERSECTION CRASHES                   INTERSECTION CRASHES
+             7                                      2                                      4                                    1
+
+NON-RED LIGHT RELATED - all crashes at this intersection that meet the definition of a Non - Red Light Related intersection crash:
+                                       TOTAL NUMBER OF                          TOTAL NUMBER OF                       TOTAL NUMBER OF
+     TOTAL NUMBER OF               NON-RED LIGHT RELATED                    NON-RED LIGHT RELATED                  NON-RED LIGHT RELATED
+  NON-RED LIGHT RELATED                    RIGHT ANGLE                                REAR-END                                OTHER
+   INTERSECTION CRASHES            INTERSECTION CRASHES                     INTERSECTION CRASHES                   INTERSECTION CRASHES
+            2                                     0                                       2                                     0
+                                                                                                                                           Form 2322
+                                                       Red Light Camera: Post-Activation                                                  (Rev. 07/14)
+                                                                 Annual Report                                                             Page 5 of 6
+
+
+FATAL INTERSECTION CRASHES - This section is for data concerning FATAL crashes and FATALITIES that occurred within the
+intersection or were related to the intersection. Click here for the definition of an intersection crash.
+TOTAL - all FATAL crashes and FATALITIES at this intersection that meet the definition of an intersection crash:
+                                       TOTAL NUMBER OF                          TOTAL NUMBER OF                        TOTAL NUMBER OF
+      TOTAL NUMBER OF                      RIGHT ANGLE                                REAR-END                               OTHER
+        INTERSECTION                      INTERSECTION                            INTERSECTION                           INTERSECTION
+       FATAL CRASHES                     FATAL CRASHES                           FATAL CRASHES                          FATAL CRASHES
+               0                                   0                                       0                                   0
+                                       TOTAL NUMBER OF                          TOTAL NUMBER OF                        TOTAL NUMBER OF
+     TOTAL NUMBER OF                       RIGHT ANGLE                               REAR-END                                OTHER
+  INTERSECTION FATALITIES          INTERSECTION FATALITIES                 INTERSECTION FATALITIES                 INTERSECTION FATALITIES
+               0                                   0                                       0                                   0
+
+RED LIGHT RELATED - all FATAL crashes and FATALITIES at this intersection that meet the definition of a Red Light Related intersection crash:
+                                       TOTAL NUMBER OF                      TOTAL NUMBER OF                        TOTAL NUMBER OF
+      TOTAL NUMBER OF                 RED LIGHT RELATED                     RED LIGHT RELATED                      RED LIGHT RELATED
+     RED LIGHT RELATED                    RIGHT ANGLE                            REAR-END                                 OTHER
+        INTERSECTION                     INTERSECTION                          INTERSECTION                           INTERSECTION
+       FATAL CRASHES                    FATAL CRASHES                        FATAL CRASHES                           FATAL CRASHES
+              0                                0                                      0                                       0
+      TOTAL NUMBER OF                  TOTAL NUMBER OF                      TOTAL NUMBER OF                         TOTAL NUMBER OF
+     RED LIGHT RELATED                RED LIGHT RELATED                    RED LIGHT RELATED                       RED LIGHT RELATED
+        INTERSECTION                      RIGHT ANGLE                             REAR-END                                OTHER
+          FATALITIES                       FATALITIES                            FATALITIES                             FATALITIES
+              0                                0                                      0                                       0
+
+NON-RED LIGHT RELATED - all FATAL crashes and FATALITIES at this intersection that meet the definition of a Non - Red Light Related
+intersection crash:
+                                     TOTAL NUMBER OF                      TOTAL NUMBER OF                         TOTAL NUMBER OF
+       TOTAL NUMBER OF            NON-RED LIGHT RELATED                NON-RED LIGHT RELATED                  NON-RED LIGHT RELATED
+     NON-RED LIGHT RELATED              RIGHT ANGLE                             REAR-END                                 OTHER
+           INTERSECTION                INTERSECTION                          INTERSECTION                           INTERSECTION
+         FATAL CRASHES                FATAL CRASHES                         FATAL CRASHES                          FATAL CRASHES
+                  0                           0                                     0                                      0
+                                     TOTAL NUMBER OF                      TOTAL NUMBER OF                         TOTAL NUMBER OF
+       TOTAL NUMBER OF            NON-RED LIGHT RELATED                NON-RED LIGHT RELATED                  NON-RED LIGHT RELATED
+    NON-RED LIGHT RELATED               RIGHT ANGLE                             REAR-END                                 OTHER
+   INTERSECTION FATALITIES       INTERSECTION FATALITIES             INTERSECTION FATALITIES                 INTERSECTION FATALITIES
+                  0                           0                                     0                                      0
+                                                       Red Light Camera: Post-Activation                                                   Form 2322
+                                                                                                                                          (Rev. 07/14)
+                                                                 Annual Report                                                             Page 6 of 6
+
+
+INJURY INTERSECTION CRASHES - This section is for data concerning INJURY crashes and INJURIES that occurred within the
+intersection or were related to the intersection. Click here for the definition of an intersection crash.
+TOTAL - all INJURY crashes and INJURIES at this intersection that meet the definition of an intersection crash:
+                                        TOTAL NUMBER OF                         TOTAL NUMBER OF                      TOTAL NUMBER OF
+     TOTAL NUMBER OF                        RIGHT ANGLE                               REAR-END                             OTHER
+        INTERSECTION                       INTERSECTION                             INTERSECTION                        INTERSECTION
+      INJURY CRASHES                     INJURY CRASHES                          INJURY CRASHES                       INJURY CRASHES
+               6                                   2                                       4                                 0
+                                        TOTAL NUMBER OF                         TOTAL NUMBER OF                      TOTAL NUMBER OF
+     TOTAL NUMBER OF                        RIGHT ANGLE                               REAR-END                             OTHER
+  INTERSECTION INJURIES              INTERSECTION INJURIES                  INTERSECTION INJURIES                 INTERSECTION INJURIES
+               8                                   2                                       6                                 0
+
+
+RED LIGHT RELATED - all INJURY crashes and INJURIES at this intersection that meet the definition of a Red Light Related intersection crash:
+                                       TOTAL NUMBER OF                      TOTAL NUMBER OF                         TOTAL NUMBER OF
+      TOTAL NUMBER OF                RED LIGHT RELATED                     RED LIGHT RELATED                      RED LIGHT RELATED
+     RED LIGHT RELATED                    RIGHT ANGLE                            REAR-END                                  OTHER
+         INTERSECTION                    INTERSECTION                          INTERSECTION                           INTERSECTION
+       INJURY CRASHES                  INJURY CRASHES                        INJURY CRASHES                         INJURY CRASHES
+              4                                2                                      2                                       0
+                                       TOTAL NUMBER OF                      TOTAL NUMBER OF                        TOTAL NUMBER OF
+      TOTAL NUMBER OF                RED LIGHT RELATED                     RED LIGHT RELATED                      RED LIGHT RELATED
+     RED LIGHT RELATED                    RIGHT ANGLE                            REAR-END                                  OTHER
+  INTERSECTION INJURIES            INTERSECTION INJURIES                 INTERSECTION INJURIES                  INTERSECTION INJURIES
+              5                                2                                      3                                       0
+
+
+NON-RED LIGHT RELATED - all INJURY crashes and INJURIES at this intersection that meet the definition of a Non - Red Light Related intersection
+crash:
+                                      TOTAL NUMBER OF                      TOTAL NUMBER OF                        TOTAL NUMBER OF
+       TOTAL NUMBER OF             NON-RED LIGHT RELATED               NON-RED LIGHT RELATED                   NON-RED LIGHT RELATED
+    NON-RED LIGHT RELATED                 RIGHT ANGLE                           REAR-END                                  OTHER
+          INTERSECTION                   INTERSECTION                         INTERSECTION                           INTERSECTION
+        INJURY CRASHES                 INJURY CRASHES                       INJURY CRASHES                         INJURY CRASHES
+               2                               0                                    2                                       0
+                                      TOTAL NUMBER OF                      TOTAL NUMBER OF                        TOTAL NUMBER OF
+       TOTAL NUMBER OF             NON-RED LIGHT RELATED               NON-RED LIGHT RELATED                   NON-RED LIGHT RELATED
+    NON-RED LIGHT RELATED                 RIGHT ANGLE                           REAR-END                                  OTHER
+    INTERSECTION INJURIES          INTERSECTION INJURIES               INTERSECTION INJURIES                   INTERSECTION INJURIES
+               3                               0                                    3                                       0
+                                                                                                                                    Form 2322
+                            Red Light Camera: Post-Activation                                                                      (Rev. 07/14)
+                                      Annual Report                                                                                 Page 1 of 6
+
+
+
+
+INTERSECTION DEMOGRAPHICS
+
+COUNTY                                   Dallas - Enter the name of the County in which the intersection is located.
+
+CITY                                     Irving - Enter the name of the City/Town in which the intersection is located.
+
+PRIMARY STREET                  Belt Line Road - Enter the official street name, number or letter of the primary street of the intersection.
+                                                  If the road is a designated highway, enter the highway designation and number.
+CROSS STREET                    Rochelle Road - Enter the official street name, number or letter of the cross street of the intersection.
+                                                  If the road is a designated highway, enter the highway designation and number.
+
+
+DATE OF CAMERA                 August 15, 2005 - Enter the date the camera was activated.
+ACTIVATION
+DATE OF CAMERA                                  - If applicable, enter the date the camera was deactivated. Otherwise leave blank.
+DEACTIVATION
+(if applicable)
+                                                                                                                                            Form 2322
+                                        Red Light Camera: Post-Activation                                                                  (Rev. 07/14)
+                                                  Annual Report                                                                             Page 2 of 6
+
+
+PRIMARY STREET DEMOGRAPHICS
+
+STREET NAME ALIASES                                                 - Enter all the names the primary street of the intersection is known as,
+                                                                      other than the street name listed above.
+
+
+
+
+Is the Primary Street on the State                             No - Select Yes or No. If “yes”, the highway designation and number should be
+Highway System?                                                       entered in “Primary Street” in the section for “Intersection Demographics”.
+
+If “Yes”, is it an Access Road/                                     - Select Yes or No.
+Frontage Road?
+TRAFFIC DIRECTION OF TRAVEL                       North - South - Select the traffic direction of travel for this street.
+
+ANNUAL DAILY TRAFFIC (ADT)                                 43300 - Enter the most current Annual Daily Traffic count (ADT) for the primary
+                                                                      street at the intersection.
+
+SPEED LIMIT                                                     35 - Enter the posted speed limit for the primary street.
+
+NUMBER OF THROUGH LANES                                          3 - Enter the number of through lanes on the primary street at the intersection.
+
+NUMBER OF TURN LANES                                             3 - Enter the number of turn lanes (left and right) on the primary street at
+                                                                      the intersection.
+
+YELLOW SIGNAL TIMING                                                - Enter yellow duration.
+
+ALL RED SIGNAL TIMING (if applicable)                               - Enter all red duration.
+
+CAMERA 1 APPROACH DIRECTION                       North - South - Enter the direction traffic is traveling on the approach the camera is
+                                                                      monitoring.
+
+CAMERA 2 APPROACH DIRECTION                                         - Enter the direction traffic is traveling on the approach camera # 2 is
+                                                                      monitoring if more than one approach is monitored.
+
+CAMERA 3 APPROACH DIRECTION                                         - Enter the direction traffic is traveling on the approach camera # 3 is
+                                                                      monitoring if more than one approach is monitored.
+
+CAMERA 4 APPROACH DIRECTION                                         - Enter the direction traffic is traveling on the approach camera # 4 is
+                                                                      monitoring if more than one approach is monitored.
+                                                                                                                                           Form 2322
+                                        Red Light Camera: Post-Activation                                                                 (Rev. 07/14)
+                                                  Annual Report                                                                            Page 3 of 6
+
+
+CROSS STREET DEMOGRAPHICS
+STREET NAME ALIASES                                                 - Enter all the names the cross street of the intersection is known as, other
+                                                                      than the street name listed above.
+
+
+
+
+Is the Cross Street on the State                               No - Select Yes or No. If “yes”, the highway designation and number should be
+Highway System?                                                      entered in “Cross Street” in the section for “Intersection Demographics”.
+
+If “Yes”, is it an Access Road/                                     - Select Yes or No.
+Frontage Road?
+TRAFFIC DIRECTION OF TRAVEL                         West - East - Select the traffic direction of travel for this street.
+
+ANNUAL DAILY TRAFFIC (ADT)                                10900 - Enter the most current Annual Daily Traffic count (ADT) for the cross
+                                                                     street at the intersection.
+
+SPEED LIMIT                                                    30 - Enter the posted speed limit for the cross street.
+
+NUMBER OF THROUGH LANES                                          2 - Enter the number of through lanes on the cross street at the intersection.
+
+NUMBER OF TURN LANES                                             1 - Enter the number of turn lanes (left and right) on the cross street at the
+                                                                     intersection.
+YELLOW SIGNAL TIMING                                                - Enter yellow duration.
+
+ALL RED SIGNAL TIMING (if applicable)                               - Enter all red duration.
+
+CAMERA 1 APPROACH DIRECTION                                         - Enter the direction traffic is traveling on the approach the camera is
+                                                                      monitoring.
+CAMERA 2 APPROACH DIRECTION                                         - Enter the direction traffic is traveling on the approach camera # 2 is
+                                                                      monitoring if more than one approach is monitored.
+
+CAMERA 3 APPROACH DIRECTION                                         - Enter the direction traffic is traveling on the approach camera # 3 is
+                                                                      monitoring if more than one approach is monitored.
+
+CAMERA 4 APPROACH DIRECTION                                         - Enter the direction traffic is traveling on the approach camera # 4 is
+                                                                      monitoring if more than one approach is monitored.
+CITATION INFORMATION
+
+TOTAL NUMBER OF RED LIGHT CAMERA VIOLATION CITATIONS ISSUED (POST ACTIVATION) 11,930
+                                                                                                                                       Form 2322
+                                                       Red Light Camera: Post-Activation                                              (Rev. 07/14)
+                                                                 Annual Report                                                         Page 4 of 6
+
+
+
+
+         CRASH AND INJURY DATA – REPORTING PERIOD JULY 1, 2012
+                                                          2016 THROUGH JUNE 30, 2013
+                                                                                2017
+
+
+ALL INTERSECTION CRASHES - This section is for data concerning crashes that occurred within the intersection or were related to the
+intersection. Click here for the definition of an intersection crash.
+
+TOTAL - all crashes at this intersection that meet the definition of an intersection crash:
+                                               TOTAL NUMBER OF                         TOTAL NUMBER OF           TOTAL NUMBER OF
+      TOTAL NUMBER OF                            RIGHT ANGLE                                REAR-END                  OTHER
+   INTERSECTION CRASHES                    INTERSECTION CRASHES                    INTERSECTION CRASHES       INTERSECTION CRASHES
+                6                                       2                                      2                        2
+
+RED LIGHT RELATED - all crashes at this intersection that meet the definition of a Red Light Related intersection crash:
+                                          TOTAL NUMBER OF                          TOTAL NUMBER OF                       TOTAL NUMBER OF
+      TOTAL NUMBER OF                     RED LIGHT RELATED                       RED LIGHT RELATED                     RED LIGHT RELATED
+     RED LIGHT RELATED                        RIGHT ANGLE                             REAR-END                                OTHER
+  INTERSECTION CRASHES                INTERSECTION CRASHES                    INTERSECTION CRASHES                   INTERSECTION CRASHES
+             4                                      1                                      1                                    2
+
+NON-RED LIGHT RELATED - all crashes at this intersection that meet the definition of a Non - Red Light Related intersection crash:
+                                       TOTAL NUMBER OF                          TOTAL NUMBER OF                       TOTAL NUMBER OF
+     TOTAL NUMBER OF               NON-RED LIGHT RELATED                    NON-RED LIGHT RELATED                  NON-RED LIGHT RELATED
+  NON-RED LIGHT RELATED                    RIGHT ANGLE                                REAR-END                                OTHER
+   INTERSECTION CRASHES            INTERSECTION CRASHES                     INTERSECTION CRASHES                   INTERSECTION CRASHES
+            2                                     1                                       1                                     0
+                                                                                                                                           Form 2322
+                                                       Red Light Camera: Post-Activation                                                  (Rev. 07/14)
+                                                                 Annual Report                                                             Page 5 of 6
+
+
+FATAL INTERSECTION CRASHES - This section is for data concerning FATAL crashes and FATALITIES that occurred within the
+intersection or were related to the intersection. Click here for the definition of an intersection crash.
+TOTAL - all FATAL crashes and FATALITIES at this intersection that meet the definition of an intersection crash:
+                                       TOTAL NUMBER OF                          TOTAL NUMBER OF                        TOTAL NUMBER OF
+      TOTAL NUMBER OF                      RIGHT ANGLE                                REAR-END                               OTHER
+        INTERSECTION                      INTERSECTION                            INTERSECTION                           INTERSECTION
+       FATAL CRASHES                     FATAL CRASHES                           FATAL CRASHES                          FATAL CRASHES
+               0                                   0                                       0                                   0
+                                       TOTAL NUMBER OF                          TOTAL NUMBER OF                        TOTAL NUMBER OF
+     TOTAL NUMBER OF                       RIGHT ANGLE                               REAR-END                                OTHER
+  INTERSECTION FATALITIES          INTERSECTION FATALITIES                 INTERSECTION FATALITIES                 INTERSECTION FATALITIES
+               0                                   0                                       0                                   0
+
+RED LIGHT RELATED - all FATAL crashes and FATALITIES at this intersection that meet the definition of a Red Light Related intersection crash:
+                                       TOTAL NUMBER OF                      TOTAL NUMBER OF                        TOTAL NUMBER OF
+      TOTAL NUMBER OF                 RED LIGHT RELATED                     RED LIGHT RELATED                      RED LIGHT RELATED
+     RED LIGHT RELATED                    RIGHT ANGLE                            REAR-END                                 OTHER
+        INTERSECTION                     INTERSECTION                          INTERSECTION                           INTERSECTION
+       FATAL CRASHES                    FATAL CRASHES                        FATAL CRASHES                           FATAL CRASHES
+              0                                0                                      0                                       0
+      TOTAL NUMBER OF                  TOTAL NUMBER OF                      TOTAL NUMBER OF                         TOTAL NUMBER OF
+     RED LIGHT RELATED                RED LIGHT RELATED                    RED LIGHT RELATED                       RED LIGHT RELATED
+        INTERSECTION                      RIGHT ANGLE                             REAR-END                                OTHER
+          FATALITIES                       FATALITIES                            FATALITIES                             FATALITIES
+              0                                0                                      0                                       0
+
+NON-RED LIGHT RELATED - all FATAL crashes and FATALITIES at this intersection that meet the definition of a Non - Red Light Related
+intersection crash:
+                                     TOTAL NUMBER OF                      TOTAL NUMBER OF                         TOTAL NUMBER OF
+       TOTAL NUMBER OF            NON-RED LIGHT RELATED                NON-RED LIGHT RELATED                  NON-RED LIGHT RELATED
+     NON-RED LIGHT RELATED              RIGHT ANGLE                             REAR-END                                 OTHER
+           INTERSECTION                INTERSECTION                          INTERSECTION                           INTERSECTION
+         FATAL CRASHES                FATAL CRASHES                         FATAL CRASHES                          FATAL CRASHES
+                  0                           0                                     0                                      0
+                                     TOTAL NUMBER OF                      TOTAL NUMBER OF                         TOTAL NUMBER OF
+       TOTAL NUMBER OF            NON-RED LIGHT RELATED                NON-RED LIGHT RELATED                  NON-RED LIGHT RELATED
+    NON-RED LIGHT RELATED               RIGHT ANGLE                             REAR-END                                 OTHER
+   INTERSECTION FATALITIES       INTERSECTION FATALITIES             INTERSECTION FATALITIES                 INTERSECTION FATALITIES
+                  0                           0                                     0                                      0
+                                                       Red Light Camera: Post-Activation                                                   Form 2322
+                                                                                                                                          (Rev. 07/14)
+                                                                 Annual Report                                                             Page 6 of 6
+
+
+INJURY INTERSECTION CRASHES - This section is for data concerning INJURY crashes and INJURIES that occurred within the
+intersection or were related to the intersection. Click here for the definition of an intersection crash.
+TOTAL - all INJURY crashes and INJURIES at this intersection that meet the definition of an intersection crash:
+                                        TOTAL NUMBER OF                         TOTAL NUMBER OF                      TOTAL NUMBER OF
+     TOTAL NUMBER OF                        RIGHT ANGLE                               REAR-END                             OTHER
+        INTERSECTION                       INTERSECTION                             INTERSECTION                        INTERSECTION
+      INJURY CRASHES                     INJURY CRASHES                          INJURY CRASHES                       INJURY CRASHES
+               1                                   1                                       0                                 0
+                                        TOTAL NUMBER OF                         TOTAL NUMBER OF                      TOTAL NUMBER OF
+     TOTAL NUMBER OF                        RIGHT ANGLE                               REAR-END                             OTHER
+  INTERSECTION INJURIES              INTERSECTION INJURIES                  INTERSECTION INJURIES                 INTERSECTION INJURIES
+               1                                   1                                       0                                 0
+
+
+RED LIGHT RELATED - all INJURY crashes and INJURIES at this intersection that meet the definition of a Red Light Related intersection crash:
+                                       TOTAL NUMBER OF                      TOTAL NUMBER OF                         TOTAL NUMBER OF
+      TOTAL NUMBER OF                RED LIGHT RELATED                     RED LIGHT RELATED                      RED LIGHT RELATED
+     RED LIGHT RELATED                    RIGHT ANGLE                            REAR-END                                  OTHER
+         INTERSECTION                    INTERSECTION                          INTERSECTION                           INTERSECTION
+       INJURY CRASHES                  INJURY CRASHES                        INJURY CRASHES                         INJURY CRASHES
+              1                                1                                      0                                       0
+                                       TOTAL NUMBER OF                      TOTAL NUMBER OF                        TOTAL NUMBER OF
+      TOTAL NUMBER OF                RED LIGHT RELATED                     RED LIGHT RELATED                      RED LIGHT RELATED
+     RED LIGHT RELATED                    RIGHT ANGLE                            REAR-END                                  OTHER
+  INTERSECTION INJURIES            INTERSECTION INJURIES                 INTERSECTION INJURIES                  INTERSECTION INJURIES
+              1                                1                                      0                                       0
+
+
+NON-RED LIGHT RELATED - all INJURY crashes and INJURIES at this intersection that meet the definition of a Non - Red Light Related intersection
+crash:
+                                      TOTAL NUMBER OF                      TOTAL NUMBER OF                        TOTAL NUMBER OF
+       TOTAL NUMBER OF             NON-RED LIGHT RELATED               NON-RED LIGHT RELATED                   NON-RED LIGHT RELATED
+    NON-RED LIGHT RELATED                 RIGHT ANGLE                           REAR-END                                  OTHER
+          INTERSECTION                   INTERSECTION                         INTERSECTION                           INTERSECTION
+        INJURY CRASHES                 INJURY CRASHES                       INJURY CRASHES                         INJURY CRASHES
+               0                               0                                    0                                       0
+                                      TOTAL NUMBER OF                      TOTAL NUMBER OF                        TOTAL NUMBER OF
+       TOTAL NUMBER OF             NON-RED LIGHT RELATED               NON-RED LIGHT RELATED                   NON-RED LIGHT RELATED
+    NON-RED LIGHT RELATED                 RIGHT ANGLE                           REAR-END                                  OTHER
+    INTERSECTION INJURIES          INTERSECTION INJURIES               INTERSECTION INJURIES                   INTERSECTION INJURIES
+               0                               0                                    0                                       0
+                                                                                                                                         Form 2322
+                                Red Light Camera: Post-Activation                                                                       (Rev. 07/14)
+                                          Annual Report                                                                                  Page 1 of 6
+
+
+
+
+INTERSECTION DEMOGRAPHICS
+
+COUNTY                                         Dallas - Enter the name of the County in which the intersection is located.
+
+CITY                                            Irving - Enter the name of the City/Town in which the intersection is located.
+
+PRIMARY STREET                 MacArthur Boulevard - Enter the official street name, number or letter of the primary street of the intersection.
+                                                         If the road is a designated highway, enter the highway designation and number.
+CROSS STREET           Interstate Highway 635 WBFR - Enter the official street name, number or letter of the cross street of the intersection.
+                                                         If the road is a designated highway, enter the highway designation and number.
+
+
+DATE OF CAMERA                      October 10, 2009 - Enter the date the camera was activated.
+ACTIVATION
+DATE OF CAMERA                                         - If applicable, enter the date the camera was deactivated. Otherwise leave blank.
+DEACTIVATION
+(if applicable)
+                                                                                                                                            Form 2322
+                                        Red Light Camera: Post-Activation                                                                  (Rev. 07/14)
+                                                  Annual Report                                                                             Page 2 of 6
+
+
+PRIMARY STREET DEMOGRAPHICS
+
+STREET NAME ALIASES                                                 - Enter all the names the primary street of the intersection is known as,
+                                                                      other than the street name listed above.
+
+
+
+
+Is the Primary Street on the State                             No - Select Yes or No. If “yes”, the highway designation and number should be
+Highway System?                                                       entered in “Primary Street” in the section for “Intersection Demographics”.
+
+If “Yes”, is it an Access Road/                                     - Select Yes or No.
+Frontage Road?
+TRAFFIC DIRECTION OF TRAVEL                       North - South - Select the traffic direction of travel for this street.
+
+ANNUAL DAILY TRAFFIC (ADT)                                 45300 - Enter the most current Annual Daily Traffic count (ADT) for the primary
+                                                                      street at the intersection.
+
+SPEED LIMIT                                                     35 - Enter the posted speed limit for the primary street.
+
+NUMBER OF THROUGH LANES                                          3 - Enter the number of through lanes on the primary street at the intersection.
+
+NUMBER OF TURN LANES                                             1 - Enter the number of turn lanes (left and right) on the primary street at
+                                                                      the intersection.
+
+YELLOW SIGNAL TIMING                                           4.4 - Enter yellow duration.
+
+ALL RED SIGNAL TIMING (if applicable)                            2 - Enter all red duration.
+
+CAMERA 1 APPROACH DIRECTION                       North - South - Enter the direction traffic is traveling on the approach the camera is
+                                                                      monitoring.
+
+CAMERA 2 APPROACH DIRECTION                                         - Enter the direction traffic is traveling on the approach camera # 2 is
+                                                                      monitoring if more than one approach is monitored.
+
+CAMERA 3 APPROACH DIRECTION                                         - Enter the direction traffic is traveling on the approach camera # 3 is
+                                                                      monitoring if more than one approach is monitored.
+
+CAMERA 4 APPROACH DIRECTION                                         - Enter the direction traffic is traveling on the approach camera # 4 is
+                                                                      monitoring if more than one approach is monitored.
+                                                                                                                                                Form 2322
+                                        Red Light Camera: Post-Activation                                                                      (Rev. 07/14)
+                                                  Annual Report                                                                                 Page 3 of 6
+
+
+CROSS STREET DEMOGRAPHICS
+STREET NAME ALIASES                     W Lyndon B. Johnson Fwy - Enter all the names the cross street of the intersection is known as, other
+                                                                          than the street name listed above.
+
+
+
+
+Is the Cross Street on the State                                   Yes - Select Yes or No. If “yes”, the highway designation and number should be
+Highway System?                                                           entered in “Cross Street” in the section for “Intersection Demographics”.
+
+If “Yes”, is it an Access Road/                                    Yes - Select Yes or No.
+Frontage Road?
+TRAFFIC DIRECTION OF TRAVEL                              East - West - Select the traffic direction of travel for this street.
+
+ANNUAL DAILY TRAFFIC (ADT)                                               - Enter the most current Annual Daily Traffic count (ADT) for the cross
+                                                                           street at the intersection.
+
+SPEED LIMIT                                                         50 - Enter the posted speed limit for the cross street.
+
+NUMBER OF THROUGH LANES                                               2 - Enter the number of through lanes on the cross street at the intersection.
+
+NUMBER OF TURN LANES                                                  2 - Enter the number of turn lanes (left and right) on the cross street at the
+                                                                          intersection.
+YELLOW SIGNAL TIMING                                                     - Enter yellow duration.
+
+ALL RED SIGNAL TIMING (if applicable)                                    - Enter all red duration.
+
+CAMERA 1 APPROACH DIRECTION                                              - Enter the direction traffic is traveling on the approach the camera is
+                                                                           monitoring.
+CAMERA 2 APPROACH DIRECTION                                              - Enter the direction traffic is traveling on the approach camera # 2 is
+                                                                           monitoring if more than one approach is monitored.
+
+CAMERA 3 APPROACH DIRECTION                                              - Enter the direction traffic is traveling on the approach camera # 3 is
+                                                                           monitoring if more than one approach is monitored.
+
+CAMERA 4 APPROACH DIRECTION                                              - Enter the direction traffic is traveling on the approach camera # 4 is
+                                                                           monitoring if more than one approach is monitored.
+CITATION INFORMATION
+
+TOTAL NUMBER OF RED LIGHT CAMERA VIOLATION CITATIONS ISSUED (POST ACTIVATION) 20,252
+                                                                                                                                       Form 2322
+                                                       Red Light Camera: Post-Activation                                              (Rev. 07/14)
+                                                                 Annual Report                                                         Page 4 of 6
+
+
+
+
+         CRASH AND INJURY DATA – REPORTING PERIOD JULY 1, 2012
+                                                          2016 THROUGH JUNE 30, 2013
+                                                                                2017
+
+
+ALL INTERSECTION CRASHES - This section is for data concerning crashes that occurred within the intersection or were related to the
+intersection. Click here for the definition of an intersection crash.
+
+TOTAL - all crashes at this intersection that meet the definition of an intersection crash:
+                                               TOTAL NUMBER OF                         TOTAL NUMBER OF           TOTAL NUMBER OF
+      TOTAL NUMBER OF                            RIGHT ANGLE                                REAR-END                  OTHER
+   INTERSECTION CRASHES                    INTERSECTION CRASHES                    INTERSECTION CRASHES       INTERSECTION CRASHES
+                22                                      12                                     6                        4
+
+RED LIGHT RELATED - all crashes at this intersection that meet the definition of a Red Light Related intersection crash:
+                                          TOTAL NUMBER OF                          TOTAL NUMBER OF                       TOTAL NUMBER OF
+      TOTAL NUMBER OF                     RED LIGHT RELATED                       RED LIGHT RELATED                     RED LIGHT RELATED
+     RED LIGHT RELATED                        RIGHT ANGLE                             REAR-END                                OTHER
+  INTERSECTION CRASHES                INTERSECTION CRASHES                    INTERSECTION CRASHES                   INTERSECTION CRASHES
+             6                                      3                                      3                                    0
+
+NON-RED LIGHT RELATED - all crashes at this intersection that meet the definition of a Non - Red Light Related intersection crash:
+                                       TOTAL NUMBER OF                          TOTAL NUMBER OF                       TOTAL NUMBER OF
+     TOTAL NUMBER OF               NON-RED LIGHT RELATED                    NON-RED LIGHT RELATED                  NON-RED LIGHT RELATED
+  NON-RED LIGHT RELATED                    RIGHT ANGLE                                REAR-END                                OTHER
+   INTERSECTION CRASHES            INTERSECTION CRASHES                     INTERSECTION CRASHES                   INTERSECTION CRASHES
+            16                                    9                                       3                                     4
+                                                                                                                                           Form 2322
+                                                       Red Light Camera: Post-Activation                                                  (Rev. 07/14)
+                                                                 Annual Report                                                             Page 5 of 6
+
+
+FATAL INTERSECTION CRASHES - This section is for data concerning FATAL crashes and FATALITIES that occurred within the
+intersection or were related to the intersection. Click here for the definition of an intersection crash.
+TOTAL - all FATAL crashes and FATALITIES at this intersection that meet the definition of an intersection crash:
+                                       TOTAL NUMBER OF                          TOTAL NUMBER OF                        TOTAL NUMBER OF
+      TOTAL NUMBER OF                      RIGHT ANGLE                                REAR-END                               OTHER
+        INTERSECTION                      INTERSECTION                            INTERSECTION                           INTERSECTION
+       FATAL CRASHES                     FATAL CRASHES                           FATAL CRASHES                          FATAL CRASHES
+               0                                   0                                       0                                   0
+                                       TOTAL NUMBER OF                          TOTAL NUMBER OF                        TOTAL NUMBER OF
+     TOTAL NUMBER OF                       RIGHT ANGLE                               REAR-END                                OTHER
+  INTERSECTION FATALITIES          INTERSECTION FATALITIES                 INTERSECTION FATALITIES                 INTERSECTION FATALITIES
+               0                                   0                                       0                                   0
+
+RED LIGHT RELATED - all FATAL crashes and FATALITIES at this intersection that meet the definition of a Red Light Related intersection crash:
+                                       TOTAL NUMBER OF                      TOTAL NUMBER OF                        TOTAL NUMBER OF
+      TOTAL NUMBER OF                 RED LIGHT RELATED                     RED LIGHT RELATED                      RED LIGHT RELATED
+     RED LIGHT RELATED                    RIGHT ANGLE                            REAR-END                                 OTHER
+        INTERSECTION                     INTERSECTION                          INTERSECTION                           INTERSECTION
+       FATAL CRASHES                    FATAL CRASHES                        FATAL CRASHES                           FATAL CRASHES
+              0                                0                                      0                                       0
+      TOTAL NUMBER OF                  TOTAL NUMBER OF                      TOTAL NUMBER OF                         TOTAL NUMBER OF
+     RED LIGHT RELATED                RED LIGHT RELATED                    RED LIGHT RELATED                       RED LIGHT RELATED
+        INTERSECTION                      RIGHT ANGLE                             REAR-END                                OTHER
+          FATALITIES                       FATALITIES                            FATALITIES                             FATALITIES
+              0                                0                                      0                                       0
+
+NON-RED LIGHT RELATED - all FATAL crashes and FATALITIES at this intersection that meet the definition of a Non - Red Light Related
+intersection crash:
+                                     TOTAL NUMBER OF                      TOTAL NUMBER OF                         TOTAL NUMBER OF
+       TOTAL NUMBER OF            NON-RED LIGHT RELATED                NON-RED LIGHT RELATED                  NON-RED LIGHT RELATED
+     NON-RED LIGHT RELATED              RIGHT ANGLE                             REAR-END                                 OTHER
+           INTERSECTION                INTERSECTION                          INTERSECTION                           INTERSECTION
+         FATAL CRASHES                FATAL CRASHES                         FATAL CRASHES                          FATAL CRASHES
+                  0                           0                                     0                                      0
+                                     TOTAL NUMBER OF                      TOTAL NUMBER OF                         TOTAL NUMBER OF
+       TOTAL NUMBER OF            NON-RED LIGHT RELATED                NON-RED LIGHT RELATED                  NON-RED LIGHT RELATED
+    NON-RED LIGHT RELATED               RIGHT ANGLE                             REAR-END                                 OTHER
+   INTERSECTION FATALITIES       INTERSECTION FATALITIES             INTERSECTION FATALITIES                 INTERSECTION FATALITIES
+                  0                           0                                     0                                      0
+                                                       Red Light Camera: Post-Activation                                                   Form 2322
+                                                                                                                                          (Rev. 07/14)
+                                                                 Annual Report                                                             Page 6 of 6
+
+
+INJURY INTERSECTION CRASHES - This section is for data concerning INJURY crashes and INJURIES that occurred within the
+intersection or were related to the intersection. Click here for the definition of an intersection crash.
+TOTAL - all INJURY crashes and INJURIES at this intersection that meet the definition of an intersection crash:
+                                        TOTAL NUMBER OF                         TOTAL NUMBER OF                      TOTAL NUMBER OF
+     TOTAL NUMBER OF                        RIGHT ANGLE                               REAR-END                             OTHER
+        INTERSECTION                       INTERSECTION                             INTERSECTION                        INTERSECTION
+      INJURY CRASHES                     INJURY CRASHES                          INJURY CRASHES                       INJURY CRASHES
+               14                                 10                                       3                                 1
+                                        TOTAL NUMBER OF                         TOTAL NUMBER OF                      TOTAL NUMBER OF
+     TOTAL NUMBER OF                        RIGHT ANGLE                               REAR-END                             OTHER
+  INTERSECTION INJURIES              INTERSECTION INJURIES                  INTERSECTION INJURIES                 INTERSECTION INJURIES
+               20                                 15                                       4                                 1
+
+
+RED LIGHT RELATED - all INJURY crashes and INJURIES at this intersection that meet the definition of a Red Light Related intersection crash:
+                                       TOTAL NUMBER OF                      TOTAL NUMBER OF                         TOTAL NUMBER OF
+      TOTAL NUMBER OF                RED LIGHT RELATED                     RED LIGHT RELATED                      RED LIGHT RELATED
+     RED LIGHT RELATED                    RIGHT ANGLE                            REAR-END                                  OTHER
+         INTERSECTION                    INTERSECTION                          INTERSECTION                           INTERSECTION
+       INJURY CRASHES                  INJURY CRASHES                        INJURY CRASHES                         INJURY CRASHES
+              2                                2                                      0                                       0
+                                       TOTAL NUMBER OF                      TOTAL NUMBER OF                        TOTAL NUMBER OF
+      TOTAL NUMBER OF                RED LIGHT RELATED                     RED LIGHT RELATED                      RED LIGHT RELATED
+     RED LIGHT RELATED                    RIGHT ANGLE                            REAR-END                                  OTHER
+  INTERSECTION INJURIES            INTERSECTION INJURIES                 INTERSECTION INJURIES                  INTERSECTION INJURIES
+              3                                3                                      0                                       0
+
+
+NON-RED LIGHT RELATED - all INJURY crashes and INJURIES at this intersection that meet the definition of a Non - Red Light Related intersection
+crash:
+                                      TOTAL NUMBER OF                      TOTAL NUMBER OF                        TOTAL NUMBER OF
+       TOTAL NUMBER OF             NON-RED LIGHT RELATED               NON-RED LIGHT RELATED                   NON-RED LIGHT RELATED
+    NON-RED LIGHT RELATED                 RIGHT ANGLE                           REAR-END                                  OTHER
+          INTERSECTION                   INTERSECTION                         INTERSECTION                           INTERSECTION
+        INJURY CRASHES                 INJURY CRASHES                       INJURY CRASHES                         INJURY CRASHES
+               12                              8                                    3                                       1
+                                      TOTAL NUMBER OF                      TOTAL NUMBER OF                        TOTAL NUMBER OF
+       TOTAL NUMBER OF             NON-RED LIGHT RELATED               NON-RED LIGHT RELATED                   NON-RED LIGHT RELATED
+    NON-RED LIGHT RELATED                 RIGHT ANGLE                           REAR-END                                  OTHER
+    INTERSECTION INJURIES          INTERSECTION INJURIES               INTERSECTION INJURIES                   INTERSECTION INJURIES
+               17                             12                                    4                                       1
+                                                                                                                                    Form 2322
+                            Red Light Camera: Post-Activation                                                                      (Rev. 07/14)
+                                      Annual Report                                                                                 Page 1 of 6
+
+
+
+
+INTERSECTION DEMOGRAPHICS
+
+COUNTY                                  Dallas - Enter the name of the County in which the intersection is located.
+
+CITY                                     Irving - Enter the name of the City/Town in which the intersection is located.
+
+PRIMARY STREET                 O'Connor Road - Enter the official street name, number or letter of the primary street of the intersection.
+                                                  If the road is a designated highway, enter the highway designation and number.
+CROSS STREET                        Lane Steet - Enter the official street name, number or letter of the cross street of the intersection.
+                                                  If the road is a designated highway, enter the highway designation and number.
+
+
+DATE OF CAMERA                    May 1, 2007 - Enter the date the camera was activated.
+ACTIVATION
+DATE OF CAMERA                                  - If applicable, enter the date the camera was deactivated. Otherwise leave blank.
+DEACTIVATION
+(if applicable)
+                                                                                                                                            Form 2322
+                                        Red Light Camera: Post-Activation                                                                  (Rev. 07/14)
+                                                  Annual Report                                                                             Page 2 of 6
+
+
+PRIMARY STREET DEMOGRAPHICS
+
+STREET NAME ALIASES                                                 - Enter all the names the primary street of the intersection is known as,
+                                                                      other than the street name listed above.
+
+
+
+
+Is the Primary Street on the State                             No - Select Yes or No. If “yes”, the highway designation and number should be
+Highway System?                                                       entered in “Primary Street” in the section for “Intersection Demographics”.
+
+If “Yes”, is it an Access Road/                                     - Select Yes or No.
+Frontage Road?
+TRAFFIC DIRECTION OF TRAVEL                       North - South - Select the traffic direction of travel for this street.
+
+ANNUAL DAILY TRAFFIC (ADT)                                 30000 - Enter the most current Annual Daily Traffic count (ADT) for the primary
+                                                                      street at the intersection.
+
+SPEED LIMIT                                                     35 - Enter the posted speed limit for the primary street.
+
+NUMBER OF THROUGH LANES                                          2 - Enter the number of through lanes on the primary street at the intersection.
+
+NUMBER OF TURN LANES                                             1 - Enter the number of turn lanes (left and right) on the primary street at
+                                                                      the intersection.
+
+YELLOW SIGNAL TIMING                                           4.1 - Enter yellow duration.
+
+ALL RED SIGNAL TIMING (if applicable)                            2 - Enter all red duration.
+
+CAMERA 1 APPROACH DIRECTION                       North - South - Enter the direction traffic is traveling on the approach the camera is
+                                                                      monitoring.
+
+CAMERA 2 APPROACH DIRECTION                                         - Enter the direction traffic is traveling on the approach camera # 2 is
+                                                                      monitoring if more than one approach is monitored.
+
+CAMERA 3 APPROACH DIRECTION                                         - Enter the direction traffic is traveling on the approach camera # 3 is
+                                                                      monitoring if more than one approach is monitored.
+
+CAMERA 4 APPROACH DIRECTION                                         - Enter the direction traffic is traveling on the approach camera # 4 is
+                                                                      monitoring if more than one approach is monitored.
+                                                                                                                                            Form 2322
+                                        Red Light Camera: Post-Activation                                                                  (Rev. 07/14)
+                                                  Annual Report                                                                             Page 3 of 6
+
+
+CROSS STREET DEMOGRAPHICS
+STREET NAME ALIASES                                                 - Enter all the names the cross street of the intersection is known as, other
+                                                                      than the street name listed above.
+
+
+
+
+Is the Cross Street on the State                               No - Select Yes or No. If “yes”, the highway designation and number should be
+Highway System?                                                      entered in “Cross Street” in the section for “Intersection Demographics”.
+
+If “Yes”, is it an Access Road/                                     - Select Yes or No.
+Frontage Road?
+TRAFFIC DIRECTION OF TRAVEL                         East - West - Select the traffic direction of travel for this street.
+
+ANNUAL DAILY TRAFFIC (ADT)                                          - Enter the most current Annual Daily Traffic count (ADT) for the cross
+                                                                      street at the intersection.
+
+SPEED LIMIT                                                    30 - Enter the posted speed limit for the cross street.
+
+NUMBER OF THROUGH LANES                                          1 - Enter the number of through lanes on the cross street at the intersection.
+
+NUMBER OF TURN LANES                                                - Enter the number of turn lanes (left and right) on the cross street at the
+                                                                      intersection.
+YELLOW SIGNAL TIMING                                                - Enter yellow duration.
+
+ALL RED SIGNAL TIMING (if applicable)                               - Enter all red duration.
+
+CAMERA 1 APPROACH DIRECTION                                         - Enter the direction traffic is traveling on the approach the camera is
+                                                                      monitoring.
+CAMERA 2 APPROACH DIRECTION                                         - Enter the direction traffic is traveling on the approach camera # 2 is
+                                                                      monitoring if more than one approach is monitored.
+
+CAMERA 3 APPROACH DIRECTION                                         - Enter the direction traffic is traveling on the approach camera # 3 is
+                                                                      monitoring if more than one approach is monitored.
+
+CAMERA 4 APPROACH DIRECTION                                         - Enter the direction traffic is traveling on the approach camera # 4 is
+                                                                      monitoring if more than one approach is monitored.
+CITATION INFORMATION
+
+TOTAL NUMBER OF RED LIGHT CAMERA VIOLATION CITATIONS ISSUED (POST ACTIVATION) 21,719
+                                                                                                                                       Form 2322
+                                                       Red Light Camera: Post-Activation                                              (Rev. 07/14)
+                                                                 Annual Report                                                         Page 4 of 6
+
+
+
+
+         CRASH AND INJURY DATA – REPORTING PERIOD JULY 1, 2012
+                                                          2016 THROUGH JUNE 30, 2013
+                                                                                2017
+
+
+ALL INTERSECTION CRASHES - This section is for data concerning crashes that occurred within the intersection or were related to the
+intersection. Click here for the definition of an intersection crash.
+
+TOTAL - all crashes at this intersection that meet the definition of an intersection crash:
+                                               TOTAL NUMBER OF                         TOTAL NUMBER OF           TOTAL NUMBER OF
+      TOTAL NUMBER OF                            RIGHT ANGLE                                REAR-END                  OTHER
+   INTERSECTION CRASHES                    INTERSECTION CRASHES                    INTERSECTION CRASHES       INTERSECTION CRASHES
+                3                                       0                                      1                        2
+
+RED LIGHT RELATED - all crashes at this intersection that meet the definition of a Red Light Related intersection crash:
+                                          TOTAL NUMBER OF                          TOTAL NUMBER OF                       TOTAL NUMBER OF
+      TOTAL NUMBER OF                     RED LIGHT RELATED                       RED LIGHT RELATED                     RED LIGHT RELATED
+     RED LIGHT RELATED                        RIGHT ANGLE                             REAR-END                                OTHER
+  INTERSECTION CRASHES                INTERSECTION CRASHES                    INTERSECTION CRASHES                   INTERSECTION CRASHES
+             0                                      0                                      0                                    0
+
+NON-RED LIGHT RELATED - all crashes at this intersection that meet the definition of a Non - Red Light Related intersection crash:
+                                       TOTAL NUMBER OF                          TOTAL NUMBER OF                       TOTAL NUMBER OF
+     TOTAL NUMBER OF               NON-RED LIGHT RELATED                    NON-RED LIGHT RELATED                  NON-RED LIGHT RELATED
+  NON-RED LIGHT RELATED                    RIGHT ANGLE                                REAR-END                                OTHER
+   INTERSECTION CRASHES            INTERSECTION CRASHES                     INTERSECTION CRASHES                   INTERSECTION CRASHES
+            3                                     0                                       1                                     2
+                                                                                                                                           Form 2322
+                                                       Red Light Camera: Post-Activation                                                  (Rev. 07/14)
+                                                                 Annual Report                                                             Page 5 of 6
+
+
+FATAL INTERSECTION CRASHES - This section is for data concerning FATAL crashes and FATALITIES that occurred within the
+intersection or were related to the intersection. Click here for the definition of an intersection crash.
+TOTAL - all FATAL crashes and FATALITIES at this intersection that meet the definition of an intersection crash:
+                                       TOTAL NUMBER OF                          TOTAL NUMBER OF                        TOTAL NUMBER OF
+      TOTAL NUMBER OF                      RIGHT ANGLE                                REAR-END                               OTHER
+        INTERSECTION                      INTERSECTION                            INTERSECTION                           INTERSECTION
+       FATAL CRASHES                     FATAL CRASHES                           FATAL CRASHES                          FATAL CRASHES
+               0                                   0                                       0                                   0
+                                       TOTAL NUMBER OF                          TOTAL NUMBER OF                        TOTAL NUMBER OF
+     TOTAL NUMBER OF                       RIGHT ANGLE                               REAR-END                                OTHER
+  INTERSECTION FATALITIES          INTERSECTION FATALITIES                 INTERSECTION FATALITIES                 INTERSECTION FATALITIES
+               0                                   0                                       0                                   0
+
+RED LIGHT RELATED - all FATAL crashes and FATALITIES at this intersection that meet the definition of a Red Light Related intersection crash:
+                                       TOTAL NUMBER OF                      TOTAL NUMBER OF                        TOTAL NUMBER OF
+      TOTAL NUMBER OF                 RED LIGHT RELATED                     RED LIGHT RELATED                      RED LIGHT RELATED
+     RED LIGHT RELATED                    RIGHT ANGLE                            REAR-END                                 OTHER
+        INTERSECTION                     INTERSECTION                          INTERSECTION                           INTERSECTION
+       FATAL CRASHES                    FATAL CRASHES                        FATAL CRASHES                           FATAL CRASHES
+              0                                0                                      0                                       0
+      TOTAL NUMBER OF                  TOTAL NUMBER OF                      TOTAL NUMBER OF                         TOTAL NUMBER OF
+     RED LIGHT RELATED                RED LIGHT RELATED                    RED LIGHT RELATED                       RED LIGHT RELATED
+        INTERSECTION                      RIGHT ANGLE                             REAR-END                                OTHER
+          FATALITIES                       FATALITIES                            FATALITIES                             FATALITIES
+              0                                0                                      0                                       0
+
+NON-RED LIGHT RELATED - all FATAL crashes and FATALITIES at this intersection that meet the definition of a Non - Red Light Related
+intersection crash:
+                                     TOTAL NUMBER OF                      TOTAL NUMBER OF                         TOTAL NUMBER OF
+       TOTAL NUMBER OF            NON-RED LIGHT RELATED                NON-RED LIGHT RELATED                  NON-RED LIGHT RELATED
+     NON-RED LIGHT RELATED              RIGHT ANGLE                             REAR-END                                 OTHER
+           INTERSECTION                INTERSECTION                          INTERSECTION                           INTERSECTION
+         FATAL CRASHES                FATAL CRASHES                         FATAL CRASHES                          FATAL CRASHES
+                  0                           0                                     0                                      0
+                                     TOTAL NUMBER OF                      TOTAL NUMBER OF                         TOTAL NUMBER OF
+       TOTAL NUMBER OF            NON-RED LIGHT RELATED                NON-RED LIGHT RELATED                  NON-RED LIGHT RELATED
+    NON-RED LIGHT RELATED               RIGHT ANGLE                             REAR-END                                 OTHER
+   INTERSECTION FATALITIES       INTERSECTION FATALITIES             INTERSECTION FATALITIES                 INTERSECTION FATALITIES
+                  0                           0                                     0                                      0
+                                                       Red Light Camera: Post-Activation                                                   Form 2322
+                                                                                                                                          (Rev. 07/14)
+                                                                 Annual Report                                                             Page 6 of 6
+
+
+INJURY INTERSECTION CRASHES - This section is for data concerning INJURY crashes and INJURIES that occurred within the
+intersection or were related to the intersection. Click here for the definition of an intersection crash.
+TOTAL - all INJURY crashes and INJURIES at this intersection that meet the definition of an intersection crash:
+                                        TOTAL NUMBER OF                         TOTAL NUMBER OF                      TOTAL NUMBER OF
+     TOTAL NUMBER OF                        RIGHT ANGLE                               REAR-END                             OTHER
+        INTERSECTION                       INTERSECTION                             INTERSECTION                        INTERSECTION
+      INJURY CRASHES                     INJURY CRASHES                          INJURY CRASHES                       INJURY CRASHES
+               1                                   0                                       1                                 0
+                                        TOTAL NUMBER OF                         TOTAL NUMBER OF                      TOTAL NUMBER OF
+     TOTAL NUMBER OF                        RIGHT ANGLE                               REAR-END                             OTHER
+  INTERSECTION INJURIES              INTERSECTION INJURIES                  INTERSECTION INJURIES                 INTERSECTION INJURIES
+               1                                   0                                       1                                 0
+
+
+RED LIGHT RELATED - all INJURY crashes and INJURIES at this intersection that meet the definition of a Red Light Related intersection crash:
+                                       TOTAL NUMBER OF                      TOTAL NUMBER OF                         TOTAL NUMBER OF
+      TOTAL NUMBER OF                RED LIGHT RELATED                     RED LIGHT RELATED                      RED LIGHT RELATED
+     RED LIGHT RELATED                    RIGHT ANGLE                            REAR-END                                  OTHER
+         INTERSECTION                    INTERSECTION                          INTERSECTION                           INTERSECTION
+       INJURY CRASHES                  INJURY CRASHES                        INJURY CRASHES                         INJURY CRASHES
+              0                                0                                      0                                       0
+                                       TOTAL NUMBER OF                      TOTAL NUMBER OF                        TOTAL NUMBER OF
+      TOTAL NUMBER OF                RED LIGHT RELATED                     RED LIGHT RELATED                      RED LIGHT RELATED
+     RED LIGHT RELATED                    RIGHT ANGLE                            REAR-END                                  OTHER
+  INTERSECTION INJURIES            INTERSECTION INJURIES                 INTERSECTION INJURIES                  INTERSECTION INJURIES
+              0                                0                                      0                                       0
+
+
+NON-RED LIGHT RELATED - all INJURY crashes and INJURIES at this intersection that meet the definition of a Non - Red Light Related intersection
+crash:
+                                      TOTAL NUMBER OF                      TOTAL NUMBER OF                        TOTAL NUMBER OF
+       TOTAL NUMBER OF             NON-RED LIGHT RELATED               NON-RED LIGHT RELATED                   NON-RED LIGHT RELATED
+    NON-RED LIGHT RELATED                 RIGHT ANGLE                           REAR-END                                  OTHER
+          INTERSECTION                   INTERSECTION                         INTERSECTION                           INTERSECTION
+        INJURY CRASHES                 INJURY CRASHES                       INJURY CRASHES                         INJURY CRASHES
+               1                               0                                    1                                       0
+                                      TOTAL NUMBER OF                      TOTAL NUMBER OF                        TOTAL NUMBER OF
+       TOTAL NUMBER OF             NON-RED LIGHT RELATED               NON-RED LIGHT RELATED                   NON-RED LIGHT RELATED
+    NON-RED LIGHT RELATED                 RIGHT ANGLE                           REAR-END                                  OTHER
+    INTERSECTION INJURIES          INTERSECTION INJURIES               INTERSECTION INJURIES                   INTERSECTION INJURIES
+               1                               0                                    1                                       0
+                                                                                                                                         Form 2322
+                                Red Light Camera: Post-Activation                                                                       (Rev. 07/14)
+                                          Annual Report                                                                                  Page 1 of 6
+
+
+
+
+INTERSECTION DEMOGRAPHICS
+
+COUNTY                                          Dallas - Enter the name of the County in which the intersection is located.
+
+CITY                                            Irving - Enter the name of the City/Town in which the intersection is located.
+
+PRIMARY STREET              State Highway 114 WBFR - Enter the official street name, number or letter of the primary street of the intersection.
+                                                         If the road is a designated highway, enter the highway designation and number.
+CROSS STREET                   MacArthur Boulevard - Enter the official street name, number or letter of the cross street of the intersection.
+                                                         If the road is a designated highway, enter the highway designation and number.
+
+
+DATE OF CAMERA                           May 1, 2016 - Enter the date the camera was activated.
+ACTIVATION
+DATE OF CAMERA                                         - If applicable, enter the date the camera was deactivated. Otherwise leave blank.
+DEACTIVATION
+(if applicable)
+                                                                                                                                             Form 2322
+                                        Red Light Camera: Post-Activation                                                                   (Rev. 07/14)
+                                                  Annual Report                                                                              Page 2 of 6
+
+
+PRIMARY STREET DEMOGRAPHICS
+
+STREET NAME ALIASES                              John Carpenter - Enter all the names the primary street of the intersection is known as,
+                                                                      other than the street name listed above.
+
+
+
+
+Is the Primary Street on the State                             Yes - Select Yes or No. If “yes”, the highway designation and number should be
+Highway System?                                                       entered in “Primary Street” in the section for “Intersection Demographics”.
+
+If “Yes”, is it an Access Road/                                Yes - Select Yes or No.
+Frontage Road?
+TRAFFIC DIRECTION OF TRAVEL                          East - West - Select the traffic direction of travel for this street.
+
+ANNUAL DAILY TRAFFIC (ADT)                                           - Enter the most current Annual Daily Traffic count (ADT) for the primary
+                                                                       street at the intersection.
+
+SPEED LIMIT                                                     55 - Enter the posted speed limit for the primary street.
+
+NUMBER OF THROUGH LANES                                           1 - Enter the number of through lanes on the primary street at the intersection.
+
+NUMBER OF TURN LANES                                              3 - Enter the number of turn lanes (left and right) on the primary street at
+                                                                       the intersection.
+
+YELLOW SIGNAL TIMING                                                 - Enter yellow duration.
+
+ALL RED SIGNAL TIMING (if applicable)                                - Enter all red duration.
+
+CAMERA 1 APPROACH DIRECTION                          East - West - Enter the direction traffic is traveling on the approach the camera is
+                                                                       monitoring.
+
+CAMERA 2 APPROACH DIRECTION                                          - Enter the direction traffic is traveling on the approach camera # 2 is
+                                                                       monitoring if more than one approach is monitored.
+
+CAMERA 3 APPROACH DIRECTION                                          - Enter the direction traffic is traveling on the approach camera # 3 is
+                                                                       monitoring if more than one approach is monitored.
+
+CAMERA 4 APPROACH DIRECTION                                          - Enter the direction traffic is traveling on the approach camera # 4 is
+                                                                       monitoring if more than one approach is monitored.
+                                                                                                                                            Form 2322
+                                        Red Light Camera: Post-Activation                                                                  (Rev. 07/14)
+                                                  Annual Report                                                                             Page 3 of 6
+
+
+CROSS STREET DEMOGRAPHICS
+STREET NAME ALIASES                                                  - Enter all the names the cross street of the intersection is known as, other
+                                                                       than the street name listed above.
+
+
+
+
+Is the Cross Street on the State                                No - Select Yes or No. If “yes”, the highway designation and number should be
+Highway System?                                                       entered in “Cross Street” in the section for “Intersection Demographics”.
+
+If “Yes”, is it an Access Road/                                      - Select Yes or No.
+Frontage Road?
+TRAFFIC DIRECTION OF TRAVEL                        North - South - Select the traffic direction of travel for this street.
+
+ANNUAL DAILY TRAFFIC (ADT)                                  45700 - Enter the most current Annual Daily Traffic count (ADT) for the cross
+                                                                       street at the intersection.
+
+SPEED LIMIT                                                      35 - Enter the posted speed limit for the cross street.
+
+NUMBER OF THROUGH LANES                                           3 - Enter the number of through lanes on the cross street at the intersection.
+
+NUMBER OF TURN LANES                                              1 - Enter the number of turn lanes (left and right) on the cross street at the
+                                                                       intersection.
+YELLOW SIGNAL TIMING                                                 - Enter yellow duration.
+
+ALL RED SIGNAL TIMING (if applicable)                                - Enter all red duration.
+
+CAMERA 1 APPROACH DIRECTION                                          - Enter the direction traffic is traveling on the approach the camera is
+                                                                       monitoring.
+CAMERA 2 APPROACH DIRECTION                                          - Enter the direction traffic is traveling on the approach camera # 2 is
+                                                                       monitoring if more than one approach is monitored.
+
+CAMERA 3 APPROACH DIRECTION                                          - Enter the direction traffic is traveling on the approach camera # 3 is
+                                                                       monitoring if more than one approach is monitored.
+
+CAMERA 4 APPROACH DIRECTION                                          - Enter the direction traffic is traveling on the approach camera # 4 is
+                                                                       monitoring if more than one approach is monitored.
+CITATION INFORMATION
+
+TOTAL NUMBER OF RED LIGHT CAMERA VIOLATION CITATIONS ISSUED (POST ACTIVATION) 21,970
+                                                                                                                                       Form 2322
+                                                       Red Light Camera: Post-Activation                                              (Rev. 07/14)
+                                                                 Annual Report                                                         Page 4 of 6
+
+
+
+
+         CRASH AND INJURY DATA – REPORTING PERIOD JULY 1, 2012
+                                                          2016 THROUGH JUNE 30, 2013
+                                                                                2017
+
+
+ALL INTERSECTION CRASHES - This section is for data concerning crashes that occurred within the intersection or were related to the
+intersection. Click here for the definition of an intersection crash.
+
+TOTAL - all crashes at this intersection that meet the definition of an intersection crash:
+                                               TOTAL NUMBER OF                         TOTAL NUMBER OF           TOTAL NUMBER OF
+      TOTAL NUMBER OF                            RIGHT ANGLE                                REAR-END                  OTHER
+   INTERSECTION CRASHES                    INTERSECTION CRASHES                    INTERSECTION CRASHES       INTERSECTION CRASHES
+                4                                       1                                      3                        0
+
+RED LIGHT RELATED - all crashes at this intersection that meet the definition of a Red Light Related intersection crash:
+                                          TOTAL NUMBER OF                          TOTAL NUMBER OF                       TOTAL NUMBER OF
+      TOTAL NUMBER OF                     RED LIGHT RELATED                       RED LIGHT RELATED                     RED LIGHT RELATED
+     RED LIGHT RELATED                        RIGHT ANGLE                             REAR-END                                OTHER
+  INTERSECTION CRASHES                INTERSECTION CRASHES                    INTERSECTION CRASHES                   INTERSECTION CRASHES
+             3                                      1                                      2                                    0
+
+NON-RED LIGHT RELATED - all crashes at this intersection that meet the definition of a Non - Red Light Related intersection crash:
+                                       TOTAL NUMBER OF                          TOTAL NUMBER OF                       TOTAL NUMBER OF
+     TOTAL NUMBER OF               NON-RED LIGHT RELATED                    NON-RED LIGHT RELATED                  NON-RED LIGHT RELATED
+  NON-RED LIGHT RELATED                    RIGHT ANGLE                                REAR-END                                OTHER
+   INTERSECTION CRASHES            INTERSECTION CRASHES                     INTERSECTION CRASHES                   INTERSECTION CRASHES
+            1                                     0                                       1                                     0
+                                                                                                                                           Form 2322
+                                                       Red Light Camera: Post-Activation                                                  (Rev. 07/14)
+                                                                 Annual Report                                                             Page 5 of 6
+
+
+FATAL INTERSECTION CRASHES - This section is for data concerning FATAL crashes and FATALITIES that occurred within the
+intersection or were related to the intersection. Click here for the definition of an intersection crash.
+TOTAL - all FATAL crashes and FATALITIES at this intersection that meet the definition of an intersection crash:
+                                       TOTAL NUMBER OF                          TOTAL NUMBER OF                        TOTAL NUMBER OF
+      TOTAL NUMBER OF                      RIGHT ANGLE                                REAR-END                               OTHER
+        INTERSECTION                      INTERSECTION                            INTERSECTION                           INTERSECTION
+       FATAL CRASHES                     FATAL CRASHES                           FATAL CRASHES                          FATAL CRASHES
+               0                                   0                                       0                                   0
+                                       TOTAL NUMBER OF                          TOTAL NUMBER OF                        TOTAL NUMBER OF
+     TOTAL NUMBER OF                       RIGHT ANGLE                               REAR-END                                OTHER
+  INTERSECTION FATALITIES          INTERSECTION FATALITIES                 INTERSECTION FATALITIES                 INTERSECTION FATALITIES
+               0                                   0                                       0                                   0
+
+RED LIGHT RELATED - all FATAL crashes and FATALITIES at this intersection that meet the definition of a Red Light Related intersection crash:
+                                       TOTAL NUMBER OF                      TOTAL NUMBER OF                        TOTAL NUMBER OF
+      TOTAL NUMBER OF                 RED LIGHT RELATED                     RED LIGHT RELATED                      RED LIGHT RELATED
+     RED LIGHT RELATED                    RIGHT ANGLE                            REAR-END                                 OTHER
+        INTERSECTION                     INTERSECTION                          INTERSECTION                           INTERSECTION
+       FATAL CRASHES                    FATAL CRASHES                        FATAL CRASHES                           FATAL CRASHES
+              0                                0                                      0                                       0
+      TOTAL NUMBER OF                  TOTAL NUMBER OF                      TOTAL NUMBER OF                         TOTAL NUMBER OF
+     RED LIGHT RELATED                RED LIGHT RELATED                    RED LIGHT RELATED                       RED LIGHT RELATED
+        INTERSECTION                      RIGHT ANGLE                             REAR-END                                OTHER
+          FATALITIES                       FATALITIES                            FATALITIES                             FATALITIES
+              0                                0                                      0                                       0
+
+NON-RED LIGHT RELATED - all FATAL crashes and FATALITIES at this intersection that meet the definition of a Non - Red Light Related
+intersection crash:
+                                     TOTAL NUMBER OF                      TOTAL NUMBER OF                         TOTAL NUMBER OF
+       TOTAL NUMBER OF            NON-RED LIGHT RELATED                NON-RED LIGHT RELATED                  NON-RED LIGHT RELATED
+     NON-RED LIGHT RELATED              RIGHT ANGLE                             REAR-END                                 OTHER
+           INTERSECTION                INTERSECTION                          INTERSECTION                           INTERSECTION
+         FATAL CRASHES                FATAL CRASHES                         FATAL CRASHES                          FATAL CRASHES
+                  0                           0                                     0                                      0
+                                     TOTAL NUMBER OF                      TOTAL NUMBER OF                         TOTAL NUMBER OF
+       TOTAL NUMBER OF            NON-RED LIGHT RELATED                NON-RED LIGHT RELATED                  NON-RED LIGHT RELATED
+    NON-RED LIGHT RELATED               RIGHT ANGLE                             REAR-END                                 OTHER
+   INTERSECTION FATALITIES       INTERSECTION FATALITIES             INTERSECTION FATALITIES                 INTERSECTION FATALITIES
+                  0                           0                                     0                                      0
+                                                       Red Light Camera: Post-Activation                                                   Form 2322
+                                                                                                                                          (Rev. 07/14)
+                                                                 Annual Report                                                             Page 6 of 6
+
+
+INJURY INTERSECTION CRASHES - This section is for data concerning INJURY crashes and INJURIES that occurred within the
+intersection or were related to the intersection. Click here for the definition of an intersection crash.
+TOTAL - all INJURY crashes and INJURIES at this intersection that meet the definition of an intersection crash:
+                                        TOTAL NUMBER OF                         TOTAL NUMBER OF                      TOTAL NUMBER OF
+     TOTAL NUMBER OF                        RIGHT ANGLE                               REAR-END                             OTHER
+        INTERSECTION                       INTERSECTION                             INTERSECTION                        INTERSECTION
+      INJURY CRASHES                     INJURY CRASHES                          INJURY CRASHES                       INJURY CRASHES
+               2                                   1                                       1                                 0
+                                        TOTAL NUMBER OF                         TOTAL NUMBER OF                      TOTAL NUMBER OF
+     TOTAL NUMBER OF                        RIGHT ANGLE                               REAR-END                             OTHER
+  INTERSECTION INJURIES              INTERSECTION INJURIES                  INTERSECTION INJURIES                 INTERSECTION INJURIES
+               4                                   1                                       3                                 0
+
+
+RED LIGHT RELATED - all INJURY crashes and INJURIES at this intersection that meet the definition of a Red Light Related intersection crash:
+                                       TOTAL NUMBER OF                      TOTAL NUMBER OF                         TOTAL NUMBER OF
+      TOTAL NUMBER OF                RED LIGHT RELATED                     RED LIGHT RELATED                      RED LIGHT RELATED
+     RED LIGHT RELATED                    RIGHT ANGLE                            REAR-END                                  OTHER
+         INTERSECTION                    INTERSECTION                          INTERSECTION                           INTERSECTION
+       INJURY CRASHES                  INJURY CRASHES                        INJURY CRASHES                         INJURY CRASHES
+              2                                1                                      1                                       0
+                                       TOTAL NUMBER OF                      TOTAL NUMBER OF                        TOTAL NUMBER OF
+      TOTAL NUMBER OF                RED LIGHT RELATED                     RED LIGHT RELATED                      RED LIGHT RELATED
+     RED LIGHT RELATED                    RIGHT ANGLE                            REAR-END                                  OTHER
+  INTERSECTION INJURIES            INTERSECTION INJURIES                 INTERSECTION INJURIES                  INTERSECTION INJURIES
+              4                                1                                      3                                       0
+
+
+NON-RED LIGHT RELATED - all INJURY crashes and INJURIES at this intersection that meet the definition of a Non - Red Light Related intersection
+crash:
+                                      TOTAL NUMBER OF                      TOTAL NUMBER OF                        TOTAL NUMBER OF
+       TOTAL NUMBER OF             NON-RED LIGHT RELATED               NON-RED LIGHT RELATED                   NON-RED LIGHT RELATED
+    NON-RED LIGHT RELATED                 RIGHT ANGLE                           REAR-END                                  OTHER
+          INTERSECTION                   INTERSECTION                         INTERSECTION                           INTERSECTION
+        INJURY CRASHES                 INJURY CRASHES                       INJURY CRASHES                         INJURY CRASHES
+               0                               0                                    0                                       0
+                                      TOTAL NUMBER OF                      TOTAL NUMBER OF                        TOTAL NUMBER OF
+       TOTAL NUMBER OF             NON-RED LIGHT RELATED               NON-RED LIGHT RELATED                   NON-RED LIGHT RELATED
+    NON-RED LIGHT RELATED                 RIGHT ANGLE                           REAR-END                                  OTHER
+    INTERSECTION INJURIES          INTERSECTION INJURIES               INTERSECTION INJURIES                   INTERSECTION INJURIES
+               0                               0                                    0                                       0
+                                                                                                                                   Form 2322
+                            Red Light Camera: Post-Activation                                                                     (Rev. 07/14)
+                                      Annual Report                                                                                Page 1 of 6
+
+
+
+
+INTERSECTION DEMOGRAPHICS
+
+COUNTY                                  Dallas - Enter the name of the County in which the intersection is located.
+
+CITY                                     Irving - Enter the name of the City/Town in which the intersection is located.
+
+PRIMARY STREET                   SH 114 WBFR - Enter the official street name, number or letter of the primary street of the intersection.
+                                                  If the road is a designated highway, enter the highway designation and number.
+CROSS STREET                     SH 161 NBFR - Enter the official street name, number or letter of the cross street of the intersection.
+                                                  If the road is a designated highway, enter the highway designation and number.
+
+
+DATE OF CAMERA                   July 16, 2007 - Enter the date the camera was activated.
+ACTIVATION
+DATE OF CAMERA                                  - If applicable, enter the date the camera was deactivated. Otherwise leave blank.
+DEACTIVATION
+(if applicable)
+                                                                                                                                             Form 2322
+                                        Red Light Camera: Post-Activation                                                                   (Rev. 07/14)
+                                                  Annual Report                                                                              Page 2 of 6
+
+
+PRIMARY STREET DEMOGRAPHICS
+
+STREET NAME ALIASES                              John Carpenter - Enter all the names the primary street of the intersection is known as,
+                                                                      other than the street name listed above.
+
+
+
+
+Is the Primary Street on the State                             Yes - Select Yes or No. If “yes”, the highway designation and number should be
+Highway System?                                                       entered in “Primary Street” in the section for “Intersection Demographics”.
+
+If “Yes”, is it an Access Road/                                Yes - Select Yes or No.
+Frontage Road?
+TRAFFIC DIRECTION OF TRAVEL                          East - West - Select the traffic direction of travel for this street.
+
+ANNUAL DAILY TRAFFIC (ADT)                                           - Enter the most current Annual Daily Traffic count (ADT) for the primary
+                                                                       street at the intersection.
+
+SPEED LIMIT                                                     55 - Enter the posted speed limit for the primary street.
+
+NUMBER OF THROUGH LANES                                           4 - Enter the number of through lanes on the primary street at the intersection.
+
+NUMBER OF TURN LANES                                                 - Enter the number of turn lanes (left and right) on the primary street at
+                                                                       the intersection.
+
+YELLOW SIGNAL TIMING                                              5 - Enter yellow duration.
+
+ALL RED SIGNAL TIMING (if applicable)                             2 - Enter all red duration.
+
+CAMERA 1 APPROACH DIRECTION                          East - West - Enter the direction traffic is traveling on the approach the camera is
+                                                                       monitoring.
+
+CAMERA 2 APPROACH DIRECTION                                          - Enter the direction traffic is traveling on the approach camera # 2 is
+                                                                       monitoring if more than one approach is monitored.
+
+CAMERA 3 APPROACH DIRECTION                                          - Enter the direction traffic is traveling on the approach camera # 3 is
+                                                                       monitoring if more than one approach is monitored.
+
+CAMERA 4 APPROACH DIRECTION                                          - Enter the direction traffic is traveling on the approach camera # 4 is
+                                                                       monitoring if more than one approach is monitored.
+                                                                                                                                            Form 2322
+                                        Red Light Camera: Post-Activation                                                                  (Rev. 07/14)
+                                                  Annual Report                                                                             Page 3 of 6
+
+
+CROSS STREET DEMOGRAPHICS
+STREET NAME ALIASES                                George Bush - Enter all the names the cross street of the intersection is known as, other
+                                                                       than the street name listed above.
+
+
+
+
+Is the Cross Street on the State                               Yes - Select Yes or No. If “yes”, the highway designation and number should be
+Highway System?                                                       entered in “Cross Street” in the section for “Intersection Demographics”.
+
+If “Yes”, is it an Access Road/                                Yes - Select Yes or No.
+Frontage Road?
+TRAFFIC DIRECTION OF TRAVEL                        South - North - Select the traffic direction of travel for this street.
+
+ANNUAL DAILY TRAFFIC (ADT)                                           - Enter the most current Annual Daily Traffic count (ADT) for the cross
+                                                                       street at the intersection.
+
+SPEED LIMIT                                                      45 - Enter the posted speed limit for the cross street.
+
+NUMBER OF THROUGH LANES                                           2 - Enter the number of through lanes on the cross street at the intersection.
+
+NUMBER OF TURN LANES                                              1 - Enter the number of turn lanes (left and right) on the cross street at the
+                                                                       intersection.
+YELLOW SIGNAL TIMING                                                 - Enter yellow duration.
+
+ALL RED SIGNAL TIMING (if applicable)                                - Enter all red duration.
+
+CAMERA 1 APPROACH DIRECTION                                          - Enter the direction traffic is traveling on the approach the camera is
+                                                                       monitoring.
+CAMERA 2 APPROACH DIRECTION                                          - Enter the direction traffic is traveling on the approach camera # 2 is
+                                                                       monitoring if more than one approach is monitored.
+
+CAMERA 3 APPROACH DIRECTION                                          - Enter the direction traffic is traveling on the approach camera # 3 is
+                                                                       monitoring if more than one approach is monitored.
+
+CAMERA 4 APPROACH DIRECTION                                          - Enter the direction traffic is traveling on the approach camera # 4 is
+                                                                       monitoring if more than one approach is monitored.
+CITATION INFORMATION
+
+TOTAL NUMBER OF RED LIGHT CAMERA VIOLATION CITATIONS ISSUED (POST ACTIVATION) 54,067
+                                                                                                                                       Form 2322
+                                                       Red Light Camera: Post-Activation                                              (Rev. 07/14)
+                                                                 Annual Report                                                         Page 4 of 6
+
+
+
+
+         CRASH AND INJURY DATA – REPORTING PERIOD JULY 1, 2012
+                                                          2016 THROUGH JUNE 30, 2013
+                                                                                2017
+
+
+ALL INTERSECTION CRASHES - This section is for data concerning crashes that occurred within the intersection or were related to the
+intersection. Click here for the definition of an intersection crash.
+
+TOTAL - all crashes at this intersection that meet the definition of an intersection crash:
+                                               TOTAL NUMBER OF                         TOTAL NUMBER OF           TOTAL NUMBER OF
+      TOTAL NUMBER OF                            RIGHT ANGLE                                REAR-END                  OTHER
+   INTERSECTION CRASHES                    INTERSECTION CRASHES                    INTERSECTION CRASHES       INTERSECTION CRASHES
+                3                                       2                                      0                        1
+
+RED LIGHT RELATED - all crashes at this intersection that meet the definition of a Red Light Related intersection crash:
+                                          TOTAL NUMBER OF                          TOTAL NUMBER OF                       TOTAL NUMBER OF
+      TOTAL NUMBER OF                     RED LIGHT RELATED                       RED LIGHT RELATED                     RED LIGHT RELATED
+     RED LIGHT RELATED                        RIGHT ANGLE                             REAR-END                                OTHER
+  INTERSECTION CRASHES                INTERSECTION CRASHES                    INTERSECTION CRASHES                   INTERSECTION CRASHES
+             2                                      2                                      0                                    0
+
+NON-RED LIGHT RELATED - all crashes at this intersection that meet the definition of a Non - Red Light Related intersection crash:
+                                       TOTAL NUMBER OF                          TOTAL NUMBER OF                       TOTAL NUMBER OF
+     TOTAL NUMBER OF               NON-RED LIGHT RELATED                    NON-RED LIGHT RELATED                  NON-RED LIGHT RELATED
+  NON-RED LIGHT RELATED                    RIGHT ANGLE                                REAR-END                                OTHER
+   INTERSECTION CRASHES            INTERSECTION CRASHES                     INTERSECTION CRASHES                   INTERSECTION CRASHES
+            1                                     0                                       0                                     1
+                                                                                                                                           Form 2322
+                                                       Red Light Camera: Post-Activation                                                  (Rev. 07/14)
+                                                                 Annual Report                                                             Page 5 of 6
+
+
+FATAL INTERSECTION CRASHES - This section is for data concerning FATAL crashes and FATALITIES that occurred within the
+intersection or were related to the intersection. Click here for the definition of an intersection crash.
+TOTAL - all FATAL crashes and FATALITIES at this intersection that meet the definition of an intersection crash:
+                                       TOTAL NUMBER OF                          TOTAL NUMBER OF                        TOTAL NUMBER OF
+      TOTAL NUMBER OF                      RIGHT ANGLE                                REAR-END                               OTHER
+        INTERSECTION                      INTERSECTION                            INTERSECTION                           INTERSECTION
+       FATAL CRASHES                     FATAL CRASHES                           FATAL CRASHES                          FATAL CRASHES
+               0                                   0                                       0                                   0
+                                       TOTAL NUMBER OF                          TOTAL NUMBER OF                        TOTAL NUMBER OF
+     TOTAL NUMBER OF                       RIGHT ANGLE                               REAR-END                                OTHER
+  INTERSECTION FATALITIES          INTERSECTION FATALITIES                 INTERSECTION FATALITIES                 INTERSECTION FATALITIES
+               0                                   0                                       0                                   0
+
+RED LIGHT RELATED - all FATAL crashes and FATALITIES at this intersection that meet the definition of a Red Light Related intersection crash:
+                                       TOTAL NUMBER OF                      TOTAL NUMBER OF                        TOTAL NUMBER OF
+      TOTAL NUMBER OF                 RED LIGHT RELATED                     RED LIGHT RELATED                      RED LIGHT RELATED
+     RED LIGHT RELATED                    RIGHT ANGLE                            REAR-END                                 OTHER
+        INTERSECTION                     INTERSECTION                          INTERSECTION                           INTERSECTION
+       FATAL CRASHES                    FATAL CRASHES                        FATAL CRASHES                           FATAL CRASHES
+              0                                0                                      0                                       0
+      TOTAL NUMBER OF                  TOTAL NUMBER OF                      TOTAL NUMBER OF                         TOTAL NUMBER OF
+     RED LIGHT RELATED                RED LIGHT RELATED                    RED LIGHT RELATED                       RED LIGHT RELATED
+        INTERSECTION                      RIGHT ANGLE                             REAR-END                                OTHER
+          FATALITIES                       FATALITIES                            FATALITIES                             FATALITIES
+              0                                0                                      0                                       0
+
+NON-RED LIGHT RELATED - all FATAL crashes and FATALITIES at this intersection that meet the definition of a Non - Red Light Related
+intersection crash:
+                                     TOTAL NUMBER OF                      TOTAL NUMBER OF                         TOTAL NUMBER OF
+       TOTAL NUMBER OF            NON-RED LIGHT RELATED                NON-RED LIGHT RELATED                  NON-RED LIGHT RELATED
+     NON-RED LIGHT RELATED              RIGHT ANGLE                             REAR-END                                 OTHER
+           INTERSECTION                INTERSECTION                          INTERSECTION                           INTERSECTION
+         FATAL CRASHES                FATAL CRASHES                         FATAL CRASHES                          FATAL CRASHES
+                  0                           0                                     0                                      0
+                                     TOTAL NUMBER OF                      TOTAL NUMBER OF                         TOTAL NUMBER OF
+       TOTAL NUMBER OF            NON-RED LIGHT RELATED                NON-RED LIGHT RELATED                  NON-RED LIGHT RELATED
+    NON-RED LIGHT RELATED               RIGHT ANGLE                             REAR-END                                 OTHER
+   INTERSECTION FATALITIES       INTERSECTION FATALITIES             INTERSECTION FATALITIES                 INTERSECTION FATALITIES
+                  0                           0                                     0                                      0
+                                                       Red Light Camera: Post-Activation                                                   Form 2322
+                                                                                                                                          (Rev. 07/14)
+                                                                 Annual Report                                                             Page 6 of 6
+
+
+INJURY INTERSECTION CRASHES - This section is for data concerning INJURY crashes and INJURIES that occurred within the
+intersection or were related to the intersection. Click here for the definition of an intersection crash.
+TOTAL - all INJURY crashes and INJURIES at this intersection that meet the definition of an intersection crash:
+                                        TOTAL NUMBER OF                         TOTAL NUMBER OF                      TOTAL NUMBER OF
+     TOTAL NUMBER OF                        RIGHT ANGLE                               REAR-END                             OTHER
+        INTERSECTION                       INTERSECTION                             INTERSECTION                        INTERSECTION
+      INJURY CRASHES                     INJURY CRASHES                          INJURY CRASHES                       INJURY CRASHES
+               3                                   2                                       0                                 1
+                                        TOTAL NUMBER OF                         TOTAL NUMBER OF                      TOTAL NUMBER OF
+     TOTAL NUMBER OF                        RIGHT ANGLE                               REAR-END                             OTHER
+  INTERSECTION INJURIES              INTERSECTION INJURIES                  INTERSECTION INJURIES                 INTERSECTION INJURIES
+               5                                   4                                       0                                 1
+
+
+RED LIGHT RELATED - all INJURY crashes and INJURIES at this intersection that meet the definition of a Red Light Related intersection crash:
+                                       TOTAL NUMBER OF                      TOTAL NUMBER OF                         TOTAL NUMBER OF
+      TOTAL NUMBER OF                RED LIGHT RELATED                     RED LIGHT RELATED                      RED LIGHT RELATED
+     RED LIGHT RELATED                    RIGHT ANGLE                            REAR-END                                  OTHER
+         INTERSECTION                    INTERSECTION                          INTERSECTION                           INTERSECTION
+       INJURY CRASHES                  INJURY CRASHES                        INJURY CRASHES                         INJURY CRASHES
+              2                                2                                      0                                       0
+                                       TOTAL NUMBER OF                      TOTAL NUMBER OF                        TOTAL NUMBER OF
+      TOTAL NUMBER OF                RED LIGHT RELATED                     RED LIGHT RELATED                      RED LIGHT RELATED
+     RED LIGHT RELATED                    RIGHT ANGLE                            REAR-END                                  OTHER
+  INTERSECTION INJURIES            INTERSECTION INJURIES                 INTERSECTION INJURIES                  INTERSECTION INJURIES
+              4                                4                                      0                                       0
+
+
+NON-RED LIGHT RELATED - all INJURY crashes and INJURIES at this intersection that meet the definition of a Non - Red Light Related intersection
+crash:
+                                      TOTAL NUMBER OF                      TOTAL NUMBER OF                        TOTAL NUMBER OF
+       TOTAL NUMBER OF             NON-RED LIGHT RELATED               NON-RED LIGHT RELATED                   NON-RED LIGHT RELATED
+    NON-RED LIGHT RELATED                 RIGHT ANGLE                           REAR-END                                  OTHER
+          INTERSECTION                   INTERSECTION                         INTERSECTION                           INTERSECTION
+        INJURY CRASHES                 INJURY CRASHES                       INJURY CRASHES                         INJURY CRASHES
+               1                               0                                    0                                       1
+                                      TOTAL NUMBER OF                      TOTAL NUMBER OF                        TOTAL NUMBER OF
+       TOTAL NUMBER OF             NON-RED LIGHT RELATED               NON-RED LIGHT RELATED                   NON-RED LIGHT RELATED
+    NON-RED LIGHT RELATED                 RIGHT ANGLE                           REAR-END                                  OTHER
+    INTERSECTION INJURIES          INTERSECTION INJURIES               INTERSECTION INJURIES                   INTERSECTION INJURIES
+               1                               0                                    0                                       1
+                                                                                                                                    Form 2322
+                            Red Light Camera: Post-Activation                                                                      (Rev. 07/14)
+                                      Annual Report                                                                                 Page 1 of 6
+
+
+
+
+INTERSECTION DEMOGRAPHICS
+
+COUNTY                                   Dallas - Enter the name of the County in which the intersection is located.
+
+CITY                                     Irving - Enter the name of the City/Town in which the intersection is located.
+
+PRIMARY STREET                   SH 161 NBFR - Enter the official street name, number or letter of the primary street of the intersection.
+                                                  If the road is a designated highway, enter the highway designation and number.
+CROSS STREET                    Gateway Drive - Enter the official street name, number or letter of the cross street of the intersection.
+                                                  If the road is a designated highway, enter the highway designation and number.
+
+
+DATE OF CAMERA                   July 16, 2007 - Enter the date the camera was activated.
+ACTIVATION
+DATE OF CAMERA                                   - If applicable, enter the date the camera was deactivated. Otherwise leave blank.
+DEACTIVATION
+(if applicable)
+                                                                                                                                            Form 2322
+                                        Red Light Camera: Post-Activation                                                                  (Rev. 07/14)
+                                                  Annual Report                                                                             Page 2 of 6
+
+
+PRIMARY STREET DEMOGRAPHICS
+
+STREET NAME ALIASES                                George Bush - Enter all the names the primary street of the intersection is known as,
+                                                                      other than the street name listed above.
+
+
+
+
+Is the Primary Street on the State                            Yes - Select Yes or No. If “yes”, the highway designation and number should be
+Highway System?                                                       entered in “Primary Street” in the section for “Intersection Demographics”.
+
+If “Yes”, is it an Access Road/                               Yes - Select Yes or No.
+Frontage Road?
+TRAFFIC DIRECTION OF TRAVEL                       South - North - Select the traffic direction of travel for this street.
+
+ANNUAL DAILY TRAFFIC (ADT)                                          - Enter the most current Annual Daily Traffic count (ADT) for the primary
+                                                                      street at the intersection.
+
+SPEED LIMIT                                                     45 - Enter the posted speed limit for the primary street.
+
+NUMBER OF THROUGH LANES                                          3 - Enter the number of through lanes on the primary street at the intersection.
+
+NUMBER OF TURN LANES                                             2 - Enter the number of turn lanes (left and right) on the primary street at
+                                                                      the intersection.
+
+YELLOW SIGNAL TIMING                                           4.9 - Enter yellow duration.
+
+ALL RED SIGNAL TIMING (if applicable)                            2 - Enter all red duration.
+
+CAMERA 1 APPROACH DIRECTION                       South - North - Enter the direction traffic is traveling on the approach the camera is
+                                                                      monitoring.
+
+CAMERA 2 APPROACH DIRECTION                                         - Enter the direction traffic is traveling on the approach camera # 2 is
+                                                                      monitoring if more than one approach is monitored.
+
+CAMERA 3 APPROACH DIRECTION                                         - Enter the direction traffic is traveling on the approach camera # 3 is
+                                                                      monitoring if more than one approach is monitored.
+
+CAMERA 4 APPROACH DIRECTION                                         - Enter the direction traffic is traveling on the approach camera # 4 is
+                                                                      monitoring if more than one approach is monitored.
+                                                                                                                                            Form 2322
+                                        Red Light Camera: Post-Activation                                                                  (Rev. 07/14)
+                                                  Annual Report                                                                             Page 3 of 6
+
+
+CROSS STREET DEMOGRAPHICS
+STREET NAME ALIASES                                                 - Enter all the names the cross street of the intersection is known as, other
+                                                                      than the street name listed above.
+
+
+
+
+Is the Cross Street on the State                               No - Select Yes or No. If “yes”, the highway designation and number should be
+Highway System?                                                      entered in “Cross Street” in the section for “Intersection Demographics”.
+
+If “Yes”, is it an Access Road/                                     - Select Yes or No.
+Frontage Road?
+TRAFFIC DIRECTION OF TRAVEL                         East - West - Select the traffic direction of travel for this street.
+
+ANNUAL DAILY TRAFFIC (ADT)                                          - Enter the most current Annual Daily Traffic count (ADT) for the cross
+                                                                      street at the intersection.
+
+SPEED LIMIT                                                    35 - Enter the posted speed limit for the cross street.
+
+NUMBER OF THROUGH LANES                                          2 - Enter the number of through lanes on the cross street at the intersection.
+
+NUMBER OF TURN LANES                                                - Enter the number of turn lanes (left and right) on the cross street at the
+                                                                      intersection.
+YELLOW SIGNAL TIMING                                                - Enter yellow duration.
+
+ALL RED SIGNAL TIMING (if applicable)                               - Enter all red duration.
+
+CAMERA 1 APPROACH DIRECTION                                         - Enter the direction traffic is traveling on the approach the camera is
+                                                                      monitoring.
+CAMERA 2 APPROACH DIRECTION                                         - Enter the direction traffic is traveling on the approach camera # 2 is
+                                                                      monitoring if more than one approach is monitored.
+
+CAMERA 3 APPROACH DIRECTION                                         - Enter the direction traffic is traveling on the approach camera # 3 is
+                                                                      monitoring if more than one approach is monitored.
+
+CAMERA 4 APPROACH DIRECTION                                         - Enter the direction traffic is traveling on the approach camera # 4 is
+                                                                      monitoring if more than one approach is monitored.
+CITATION INFORMATION
+
+TOTAL NUMBER OF RED LIGHT CAMERA VIOLATION CITATIONS ISSUED (POST ACTIVATION) 35,930
+                                                                                                                                       Form 2322
+                                                       Red Light Camera: Post-Activation                                              (Rev. 07/14)
+                                                                 Annual Report                                                         Page 4 of 6
+
+
+
+
+         CRASH AND INJURY DATA – REPORTING PERIOD JULY 1, 2012
+                                                          2016 THROUGH JUNE 30, 2013
+                                                                                2017
+
+
+ALL INTERSECTION CRASHES - This section is for data concerning crashes that occurred within the intersection or were related to the
+intersection. Click here for the definition of an intersection crash.
+
+TOTAL - all crashes at this intersection that meet the definition of an intersection crash:
+                                               TOTAL NUMBER OF                         TOTAL NUMBER OF           TOTAL NUMBER OF
+      TOTAL NUMBER OF                            RIGHT ANGLE                                REAR-END                  OTHER
+   INTERSECTION CRASHES                    INTERSECTION CRASHES                    INTERSECTION CRASHES       INTERSECTION CRASHES
+                11                                      8                                      2                        1
+
+RED LIGHT RELATED - all crashes at this intersection that meet the definition of a Red Light Related intersection crash:
+                                          TOTAL NUMBER OF                          TOTAL NUMBER OF                       TOTAL NUMBER OF
+      TOTAL NUMBER OF                     RED LIGHT RELATED                       RED LIGHT RELATED                     RED LIGHT RELATED
+     RED LIGHT RELATED                        RIGHT ANGLE                             REAR-END                                OTHER
+  INTERSECTION CRASHES                INTERSECTION CRASHES                    INTERSECTION CRASHES                   INTERSECTION CRASHES
+             9                                      7                                      2                                    0
+
+NON-RED LIGHT RELATED - all crashes at this intersection that meet the definition of a Non - Red Light Related intersection crash:
+                                       TOTAL NUMBER OF                          TOTAL NUMBER OF                       TOTAL NUMBER OF
+     TOTAL NUMBER OF               NON-RED LIGHT RELATED                    NON-RED LIGHT RELATED                  NON-RED LIGHT RELATED
+  NON-RED LIGHT RELATED                    RIGHT ANGLE                                REAR-END                                OTHER
+   INTERSECTION CRASHES            INTERSECTION CRASHES                     INTERSECTION CRASHES                   INTERSECTION CRASHES
+            2                                     1                                       0                                     1
+                                                                                                                                           Form 2322
+                                                       Red Light Camera: Post-Activation                                                  (Rev. 07/14)
+                                                                 Annual Report                                                             Page 5 of 6
+
+
+FATAL INTERSECTION CRASHES - This section is for data concerning FATAL crashes and FATALITIES that occurred within the
+intersection or were related to the intersection. Click here for the definition of an intersection crash.
+TOTAL - all FATAL crashes and FATALITIES at this intersection that meet the definition of an intersection crash:
+                                       TOTAL NUMBER OF                          TOTAL NUMBER OF                        TOTAL NUMBER OF
+      TOTAL NUMBER OF                      RIGHT ANGLE                                REAR-END                               OTHER
+        INTERSECTION                      INTERSECTION                            INTERSECTION                           INTERSECTION
+       FATAL CRASHES                     FATAL CRASHES                           FATAL CRASHES                          FATAL CRASHES
+               0                                   0                                       0                                   0
+                                       TOTAL NUMBER OF                          TOTAL NUMBER OF                        TOTAL NUMBER OF
+     TOTAL NUMBER OF                       RIGHT ANGLE                               REAR-END                                OTHER
+  INTERSECTION FATALITIES          INTERSECTION FATALITIES                 INTERSECTION FATALITIES                 INTERSECTION FATALITIES
+               0                                   0                                       0                                   0
+
+RED LIGHT RELATED - all FATAL crashes and FATALITIES at this intersection that meet the definition of a Red Light Related intersection crash:
+                                       TOTAL NUMBER OF                      TOTAL NUMBER OF                        TOTAL NUMBER OF
+      TOTAL NUMBER OF                 RED LIGHT RELATED                     RED LIGHT RELATED                      RED LIGHT RELATED
+     RED LIGHT RELATED                    RIGHT ANGLE                            REAR-END                                 OTHER
+        INTERSECTION                     INTERSECTION                          INTERSECTION                           INTERSECTION
+       FATAL CRASHES                    FATAL CRASHES                        FATAL CRASHES                           FATAL CRASHES
+              0                                0                                      0                                       0
+      TOTAL NUMBER OF                  TOTAL NUMBER OF                      TOTAL NUMBER OF                         TOTAL NUMBER OF
+     RED LIGHT RELATED                RED LIGHT RELATED                    RED LIGHT RELATED                       RED LIGHT RELATED
+        INTERSECTION                      RIGHT ANGLE                             REAR-END                                OTHER
+          FATALITIES                       FATALITIES                            FATALITIES                             FATALITIES
+              0                                0                                      0                                       0
+
+NON-RED LIGHT RELATED - all FATAL crashes and FATALITIES at this intersection that meet the definition of a Non - Red Light Related
+intersection crash:
+                                     TOTAL NUMBER OF                      TOTAL NUMBER OF                         TOTAL NUMBER OF
+       TOTAL NUMBER OF            NON-RED LIGHT RELATED                NON-RED LIGHT RELATED                  NON-RED LIGHT RELATED
+     NON-RED LIGHT RELATED              RIGHT ANGLE                             REAR-END                                 OTHER
+           INTERSECTION                INTERSECTION                          INTERSECTION                           INTERSECTION
+         FATAL CRASHES                FATAL CRASHES                         FATAL CRASHES                          FATAL CRASHES
+                  0                           0                                     0                                      0
+                                     TOTAL NUMBER OF                      TOTAL NUMBER OF                         TOTAL NUMBER OF
+       TOTAL NUMBER OF            NON-RED LIGHT RELATED                NON-RED LIGHT RELATED                  NON-RED LIGHT RELATED
+    NON-RED LIGHT RELATED               RIGHT ANGLE                             REAR-END                                 OTHER
+   INTERSECTION FATALITIES       INTERSECTION FATALITIES             INTERSECTION FATALITIES                 INTERSECTION FATALITIES
+                  0                           0                                     0                                      0
+                                                       Red Light Camera: Post-Activation                                                   Form 2322
+                                                                                                                                          (Rev. 07/14)
+                                                                 Annual Report                                                             Page 6 of 6
+
+
+INJURY INTERSECTION CRASHES - This section is for data concerning INJURY crashes and INJURIES that occurred within the
+intersection or were related to the intersection. Click here for the definition of an intersection crash.
+TOTAL - all INJURY crashes and INJURIES at this intersection that meet the definition of an intersection crash:
+                                        TOTAL NUMBER OF                         TOTAL NUMBER OF                      TOTAL NUMBER OF
+     TOTAL NUMBER OF                        RIGHT ANGLE                               REAR-END                             OTHER
+        INTERSECTION                       INTERSECTION                             INTERSECTION                        INTERSECTION
+      INJURY CRASHES                     INJURY CRASHES                          INJURY CRASHES                       INJURY CRASHES
+                8                                  7                                       1                                 0
+                                        TOTAL NUMBER OF                         TOTAL NUMBER OF                      TOTAL NUMBER OF
+     TOTAL NUMBER OF                        RIGHT ANGLE                               REAR-END                             OTHER
+  INTERSECTION INJURIES              INTERSECTION INJURIES                  INTERSECTION INJURIES                 INTERSECTION INJURIES
+               20                                 19                                       1                                 0
+
+
+RED LIGHT RELATED - all INJURY crashes and INJURIES at this intersection that meet the definition of a Red Light Related intersection crash:
+                                       TOTAL NUMBER OF                      TOTAL NUMBER OF                         TOTAL NUMBER OF
+      TOTAL NUMBER OF                RED LIGHT RELATED                     RED LIGHT RELATED                      RED LIGHT RELATED
+     RED LIGHT RELATED                    RIGHT ANGLE                            REAR-END                                  OTHER
+         INTERSECTION                    INTERSECTION                          INTERSECTION                           INTERSECTION
+       INJURY CRASHES                  INJURY CRASHES                        INJURY CRASHES                         INJURY CRASHES
+               7                                6                                     1                                       0
+                                       TOTAL NUMBER OF                      TOTAL NUMBER OF                        TOTAL NUMBER OF
+      TOTAL NUMBER OF                RED LIGHT RELATED                     RED LIGHT RELATED                      RED LIGHT RELATED
+     RED LIGHT RELATED                    RIGHT ANGLE                            REAR-END                                  OTHER
+  INTERSECTION INJURIES            INTERSECTION INJURIES                 INTERSECTION INJURIES                  INTERSECTION INJURIES
+              18                               17                                     1                                       0
+
+
+NON-RED LIGHT RELATED - all INJURY crashes and INJURIES at this intersection that meet the definition of a Non - Red Light Related intersection
+crash:
+                                      TOTAL NUMBER OF                      TOTAL NUMBER OF                        TOTAL NUMBER OF
+       TOTAL NUMBER OF             NON-RED LIGHT RELATED               NON-RED LIGHT RELATED                   NON-RED LIGHT RELATED
+    NON-RED LIGHT RELATED                 RIGHT ANGLE                           REAR-END                                  OTHER
+          INTERSECTION                   INTERSECTION                         INTERSECTION                           INTERSECTION
+        INJURY CRASHES                 INJURY CRASHES                       INJURY CRASHES                         INJURY CRASHES
+               1                               1                                    0                                       0
+                                      TOTAL NUMBER OF                      TOTAL NUMBER OF                        TOTAL NUMBER OF
+       TOTAL NUMBER OF             NON-RED LIGHT RELATED               NON-RED LIGHT RELATED                   NON-RED LIGHT RELATED
+    NON-RED LIGHT RELATED                 RIGHT ANGLE                           REAR-END                                  OTHER
+    INTERSECTION INJURIES          INTERSECTION INJURIES               INTERSECTION INJURIES                   INTERSECTION INJURIES
+               2                               2                                    0                                       0
+                                                                                                                                         Form 2322
+                                Red Light Camera: Post-Activation                                                                       (Rev. 07/14)
+                                          Annual Report                                                                                  Page 1 of 6
+
+
+
+
+INTERSECTION DEMOGRAPHICS
+
+COUNTY                                         Dallas - Enter the name of the County in which the intersection is located.
+
+CITY                                            Irving - Enter the name of the City/Town in which the intersection is located.
+
+PRIMARY STREET                    State Highway 356 - Enter the official street name, number or letter of the primary street of the intersection.
+                                                         If the road is a designated highway, enter the highway designation and number.
+CROSS STREET            State Highway Loop 12 SBFR - Enter the official street name, number or letter of the cross street of the intersection.
+                                                         If the road is a designated highway, enter the highway designation and number.
+
+
+DATE OF CAMERA                          July 16, 2007 - Enter the date the camera was activated.
+ACTIVATION
+DATE OF CAMERA                                         - If applicable, enter the date the camera was deactivated. Otherwise leave blank.
+DEACTIVATION
+(if applicable)
+                                                                                                                                             Form 2322
+                                        Red Light Camera: Post-Activation                                                                   (Rev. 07/14)
+                                                  Annual Report                                                                              Page 2 of 6
+
+
+PRIMARY STREET DEMOGRAPHICS
+
+STREET NAME ALIASES                             Irving Boulevard - Enter all the names the primary street of the intersection is known as,
+                                                                      other than the street name listed above.
+
+
+
+
+Is the Primary Street on the State                             Yes - Select Yes or No. If “yes”, the highway designation and number should be
+Highway System?                                                       entered in “Primary Street” in the section for “Intersection Demographics”.
+
+If “Yes”, is it an Access Road/                                 No - Select Yes or No.
+Frontage Road?
+TRAFFIC DIRECTION OF TRAVEL                          West - East - Select the traffic direction of travel for this street.
+
+ANNUAL DAILY TRAFFIC (ADT)                                  33000 - Enter the most current Annual Daily Traffic count (ADT) for the primary
+                                                                      street at the intersection.
+
+SPEED LIMIT                                                     30 - Enter the posted speed limit for the primary street.
+
+NUMBER OF THROUGH LANES                                           3 - Enter the number of through lanes on the primary street at the intersection.
+
+NUMBER OF TURN LANES                                              2 - Enter the number of turn lanes (left and right) on the primary street at
+                                                                       the intersection.
+
+YELLOW SIGNAL TIMING                                            4.1 - Enter yellow duration.
+
+ALL RED SIGNAL TIMING (if applicable)                             2 - Enter all red duration.
+
+CAMERA 1 APPROACH DIRECTION                          West - East - Enter the direction traffic is traveling on the approach the camera is
+                                                                       monitoring.
+
+CAMERA 2 APPROACH DIRECTION                                          - Enter the direction traffic is traveling on the approach camera # 2 is
+                                                                       monitoring if more than one approach is monitored.
+
+CAMERA 3 APPROACH DIRECTION                                          - Enter the direction traffic is traveling on the approach camera # 3 is
+                                                                       monitoring if more than one approach is monitored.
+
+CAMERA 4 APPROACH DIRECTION                                          - Enter the direction traffic is traveling on the approach camera # 4 is
+                                                                       monitoring if more than one approach is monitored.
+                                                                                                                                            Form 2322
+                                        Red Light Camera: Post-Activation                                                                  (Rev. 07/14)
+                                                  Annual Report                                                                             Page 3 of 6
+
+
+CROSS STREET DEMOGRAPHICS
+STREET NAME ALIASES                               Walton Walker - Enter all the names the cross street of the intersection is known as, other
+                                                                       than the street name listed above.
+
+
+
+
+Is the Cross Street on the State                               Yes - Select Yes or No. If “yes”, the highway designation and number should be
+Highway System?                                                       entered in “Cross Street” in the section for “Intersection Demographics”.
+
+If “Yes”, is it an Access Road/                                Yes - Select Yes or No.
+Frontage Road?
+TRAFFIC DIRECTION OF TRAVEL                        North - South - Select the traffic direction of travel for this street.
+
+ANNUAL DAILY TRAFFIC (ADT)                                           - Enter the most current Annual Daily Traffic count (ADT) for the cross
+                                                                       street at the intersection.
+
+SPEED LIMIT                                                      35 - Enter the posted speed limit for the cross street.
+
+NUMBER OF THROUGH LANES                                           1 - Enter the number of through lanes on the cross street at the intersection.
+
+NUMBER OF TURN LANES                                              2 - Enter the number of turn lanes (left and right) on the cross street at the
+                                                                       intersection.
+YELLOW SIGNAL TIMING                                                 - Enter yellow duration.
+
+ALL RED SIGNAL TIMING (if applicable)                                - Enter all red duration.
+
+CAMERA 1 APPROACH DIRECTION                                          - Enter the direction traffic is traveling on the approach the camera is
+                                                                       monitoring.
+CAMERA 2 APPROACH DIRECTION                                          - Enter the direction traffic is traveling on the approach camera # 2 is
+                                                                       monitoring if more than one approach is monitored.
+
+CAMERA 3 APPROACH DIRECTION                                          - Enter the direction traffic is traveling on the approach camera # 3 is
+                                                                       monitoring if more than one approach is monitored.
+
+CAMERA 4 APPROACH DIRECTION                                          - Enter the direction traffic is traveling on the approach camera # 4 is
+                                                                       monitoring if more than one approach is monitored.
+CITATION INFORMATION
+
+TOTAL NUMBER OF RED LIGHT CAMERA VIOLATION CITATIONS ISSUED (POST ACTIVATION) 71,556
+                                                                                                                                       Form 2322
+                                                       Red Light Camera: Post-Activation                                              (Rev. 07/14)
+                                                                 Annual Report                                                         Page 4 of 6
+
+
+
+
+         CRASH AND INJURY DATA – REPORTING PERIOD JULY 1, 2012
+                                                          2016 THROUGH JUNE 30, 2013
+                                                                                2017
+
+
+ALL INTERSECTION CRASHES - This section is for data concerning crashes that occurred within the intersection or were related to the
+intersection. Click here for the definition of an intersection crash.
+
+TOTAL - all crashes at this intersection that meet the definition of an intersection crash:
+                                               TOTAL NUMBER OF                         TOTAL NUMBER OF           TOTAL NUMBER OF
+      TOTAL NUMBER OF                            RIGHT ANGLE                                REAR-END                  OTHER
+   INTERSECTION CRASHES                    INTERSECTION CRASHES                    INTERSECTION CRASHES       INTERSECTION CRASHES
+                15                                      6                                      5                        4
+
+RED LIGHT RELATED - all crashes at this intersection that meet the definition of a Red Light Related intersection crash:
+                                          TOTAL NUMBER OF                          TOTAL NUMBER OF                       TOTAL NUMBER OF
+      TOTAL NUMBER OF                     RED LIGHT RELATED                       RED LIGHT RELATED                     RED LIGHT RELATED
+     RED LIGHT RELATED                        RIGHT ANGLE                             REAR-END                                OTHER
+  INTERSECTION CRASHES                INTERSECTION CRASHES                    INTERSECTION CRASHES                   INTERSECTION CRASHES
+             12                                     6                                      4                                    2
+
+NON-RED LIGHT RELATED - all crashes at this intersection that meet the definition of a Non - Red Light Related intersection crash:
+                                       TOTAL NUMBER OF                          TOTAL NUMBER OF                       TOTAL NUMBER OF
+     TOTAL NUMBER OF               NON-RED LIGHT RELATED                    NON-RED LIGHT RELATED                  NON-RED LIGHT RELATED
+  NON-RED LIGHT RELATED                    RIGHT ANGLE                                REAR-END                                OTHER
+   INTERSECTION CRASHES            INTERSECTION CRASHES                     INTERSECTION CRASHES                   INTERSECTION CRASHES
+            3                                     0                                       1                                     2
+                                                                                                                                           Form 2322
+                                                       Red Light Camera: Post-Activation                                                  (Rev. 07/14)
+                                                                 Annual Report                                                             Page 5 of 6
+
+
+FATAL INTERSECTION CRASHES - This section is for data concerning FATAL crashes and FATALITIES that occurred within the
+intersection or were related to the intersection. Click here for the definition of an intersection crash.
+TOTAL - all FATAL crashes and FATALITIES at this intersection that meet the definition of an intersection crash:
+                                       TOTAL NUMBER OF                          TOTAL NUMBER OF                        TOTAL NUMBER OF
+      TOTAL NUMBER OF                      RIGHT ANGLE                                REAR-END                               OTHER
+        INTERSECTION                      INTERSECTION                            INTERSECTION                           INTERSECTION
+       FATAL CRASHES                     FATAL CRASHES                           FATAL CRASHES                          FATAL CRASHES
+               0                                   0                                       0                                   0
+                                       TOTAL NUMBER OF                          TOTAL NUMBER OF                        TOTAL NUMBER OF
+     TOTAL NUMBER OF                       RIGHT ANGLE                               REAR-END                                OTHER
+  INTERSECTION FATALITIES          INTERSECTION FATALITIES                 INTERSECTION FATALITIES                 INTERSECTION FATALITIES
+               0                                   0                                       0                                   0
+
+RED LIGHT RELATED - all FATAL crashes and FATALITIES at this intersection that meet the definition of a Red Light Related intersection crash:
+                                       TOTAL NUMBER OF                      TOTAL NUMBER OF                        TOTAL NUMBER OF
+      TOTAL NUMBER OF                 RED LIGHT RELATED                     RED LIGHT RELATED                      RED LIGHT RELATED
+     RED LIGHT RELATED                    RIGHT ANGLE                            REAR-END                                 OTHER
+        INTERSECTION                     INTERSECTION                          INTERSECTION                           INTERSECTION
+       FATAL CRASHES                    FATAL CRASHES                        FATAL CRASHES                           FATAL CRASHES
+              0                                0                                      0                                       0
+      TOTAL NUMBER OF                  TOTAL NUMBER OF                      TOTAL NUMBER OF                         TOTAL NUMBER OF
+     RED LIGHT RELATED                RED LIGHT RELATED                    RED LIGHT RELATED                       RED LIGHT RELATED
+        INTERSECTION                      RIGHT ANGLE                             REAR-END                                OTHER
+          FATALITIES                       FATALITIES                            FATALITIES                             FATALITIES
+              0                                0                                      0                                       0
+
+NON-RED LIGHT RELATED - all FATAL crashes and FATALITIES at this intersection that meet the definition of a Non - Red Light Related
+intersection crash:
+                                     TOTAL NUMBER OF                      TOTAL NUMBER OF                         TOTAL NUMBER OF
+       TOTAL NUMBER OF            NON-RED LIGHT RELATED                NON-RED LIGHT RELATED                  NON-RED LIGHT RELATED
+     NON-RED LIGHT RELATED              RIGHT ANGLE                             REAR-END                                 OTHER
+           INTERSECTION                INTERSECTION                          INTERSECTION                           INTERSECTION
+         FATAL CRASHES                FATAL CRASHES                         FATAL CRASHES                          FATAL CRASHES
+                  0                           0                                     0                                      0
+                                     TOTAL NUMBER OF                      TOTAL NUMBER OF                         TOTAL NUMBER OF
+       TOTAL NUMBER OF            NON-RED LIGHT RELATED                NON-RED LIGHT RELATED                  NON-RED LIGHT RELATED
+    NON-RED LIGHT RELATED               RIGHT ANGLE                             REAR-END                                 OTHER
+   INTERSECTION FATALITIES       INTERSECTION FATALITIES             INTERSECTION FATALITIES                 INTERSECTION FATALITIES
+                  0                           0                                     0                                      0
+                                                       Red Light Camera: Post-Activation                                                   Form 2322
+                                                                                                                                          (Rev. 07/14)
+                                                                 Annual Report                                                             Page 6 of 6
+
+
+INJURY INTERSECTION CRASHES - This section is for data concerning INJURY crashes and INJURIES that occurred within the
+intersection or were related to the intersection. Click here for the definition of an intersection crash.
+TOTAL - all INJURY crashes and INJURIES at this intersection that meet the definition of an intersection crash:
+                                        TOTAL NUMBER OF                         TOTAL NUMBER OF                      TOTAL NUMBER OF
+     TOTAL NUMBER OF                        RIGHT ANGLE                               REAR-END                             OTHER
+        INTERSECTION                       INTERSECTION                             INTERSECTION                        INTERSECTION
+      INJURY CRASHES                     INJURY CRASHES                          INJURY CRASHES                       INJURY CRASHES
+               4                                   2                                       2                                 0
+                                        TOTAL NUMBER OF                         TOTAL NUMBER OF                      TOTAL NUMBER OF
+     TOTAL NUMBER OF                        RIGHT ANGLE                               REAR-END                             OTHER
+  INTERSECTION INJURIES              INTERSECTION INJURIES                  INTERSECTION INJURIES                 INTERSECTION INJURIES
+               4                                   2                                       2                                 0
+
+
+RED LIGHT RELATED - all INJURY crashes and INJURIES at this intersection that meet the definition of a Red Light Related intersection crash:
+                                       TOTAL NUMBER OF                      TOTAL NUMBER OF                         TOTAL NUMBER OF
+      TOTAL NUMBER OF                RED LIGHT RELATED                     RED LIGHT RELATED                      RED LIGHT RELATED
+     RED LIGHT RELATED                    RIGHT ANGLE                            REAR-END                                  OTHER
+         INTERSECTION                    INTERSECTION                          INTERSECTION                           INTERSECTION
+       INJURY CRASHES                  INJURY CRASHES                        INJURY CRASHES                         INJURY CRASHES
+              4                                2                                      2                                       0
+                                       TOTAL NUMBER OF                      TOTAL NUMBER OF                        TOTAL NUMBER OF
+      TOTAL NUMBER OF                RED LIGHT RELATED                     RED LIGHT RELATED                      RED LIGHT RELATED
+     RED LIGHT RELATED                    RIGHT ANGLE                            REAR-END                                  OTHER
+  INTERSECTION INJURIES            INTERSECTION INJURIES                 INTERSECTION INJURIES                  INTERSECTION INJURIES
+              4                                2                                      2                                       0
+
+
+NON-RED LIGHT RELATED - all INJURY crashes and INJURIES at this intersection that meet the definition of a Non - Red Light Related intersection
+crash:
+                                      TOTAL NUMBER OF                      TOTAL NUMBER OF                        TOTAL NUMBER OF
+       TOTAL NUMBER OF             NON-RED LIGHT RELATED               NON-RED LIGHT RELATED                   NON-RED LIGHT RELATED
+    NON-RED LIGHT RELATED                 RIGHT ANGLE                           REAR-END                                  OTHER
+          INTERSECTION                   INTERSECTION                         INTERSECTION                           INTERSECTION
+        INJURY CRASHES                 INJURY CRASHES                       INJURY CRASHES                         INJURY CRASHES
+               0                               0                                    0                                       0
+                                      TOTAL NUMBER OF                      TOTAL NUMBER OF                        TOTAL NUMBER OF
+       TOTAL NUMBER OF             NON-RED LIGHT RELATED               NON-RED LIGHT RELATED                   NON-RED LIGHT RELATED
+    NON-RED LIGHT RELATED                 RIGHT ANGLE                           REAR-END                                  OTHER
+    INTERSECTION INJURIES          INTERSECTION INJURIES               INTERSECTION INJURIES                   INTERSECTION INJURIES
+               0                               0                                    0                                       0
+                                                                                                                                     Form 2322
+                            Red Light Camera: Post-Activation                                                                       (Rev. 07/14)
+                                      Annual Report                                                                                  Page 1 of 6
+
+
+
+
+INTERSECTION DEMOGRAPHICS
+
+COUNTY                                    Dallas - Enter the name of the County in which the intersection is located.
+
+CITY                                      Irving - Enter the name of the City/Town in which the intersection is located.
+
+PRIMARY STREET               State Highway 356 - Enter the official street name, number or letter of the primary street of the intersection.
+                                                   If the road is a designated highway, enter the highway designation and number.
+CROSS STREET                         Story Road - Enter the official street name, number or letter of the cross street of the intersection.
+                                                   If the road is a designated highway, enter the highway designation and number.
+
+
+DATE OF CAMERA                October 10, 2009 - Enter the date the camera was activated.
+ACTIVATION
+DATE OF CAMERA                                    - If applicable, enter the date the camera was deactivated. Otherwise leave blank.
+DEACTIVATION
+(if applicable)
+                                                                                                                                             Form 2322
+                                        Red Light Camera: Post-Activation                                                                   (Rev. 07/14)
+                                                  Annual Report                                                                              Page 2 of 6
+
+
+PRIMARY STREET DEMOGRAPHICS
+
+STREET NAME ALIASES                             Irving Boulevard - Enter all the names the primary street of the intersection is known as,
+                                                                      other than the street name listed above.
+
+
+
+
+Is the Primary Street on the State                             Yes - Select Yes or No. If “yes”, the highway designation and number should be
+Highway System?                                                       entered in “Primary Street” in the section for “Intersection Demographics”.
+
+If “Yes”, is it an Access Road/                                 No - Select Yes or No.
+Frontage Road?
+TRAFFIC DIRECTION OF TRAVEL                          East - West - Select the traffic direction of travel for this street.
+
+ANNUAL DAILY TRAFFIC (ADT)                                  23000 - Enter the most current Annual Daily Traffic count (ADT) for the primary
+                                                                      street at the intersection.
+
+SPEED LIMIT                                                     45 - Enter the posted speed limit for the primary street.
+
+NUMBER OF THROUGH LANES                                           2 - Enter the number of through lanes on the primary street at the intersection.
+
+NUMBER OF TURN LANES                                              2 - Enter the number of turn lanes (left and right) on the primary street at
+                                                                       the intersection.
+
+YELLOW SIGNAL TIMING                                            4.3 - Enter yellow duration.
+
+ALL RED SIGNAL TIMING (if applicable)                           2.7 - Enter all red duration.
+
+CAMERA 1 APPROACH DIRECTION                          East - West - Enter the direction traffic is traveling on the approach the camera is
+                                                                       monitoring.
+
+CAMERA 2 APPROACH DIRECTION                                          - Enter the direction traffic is traveling on the approach camera # 2 is
+                                                                       monitoring if more than one approach is monitored.
+
+CAMERA 3 APPROACH DIRECTION                                          - Enter the direction traffic is traveling on the approach camera # 3 is
+                                                                       monitoring if more than one approach is monitored.
+
+CAMERA 4 APPROACH DIRECTION                                          - Enter the direction traffic is traveling on the approach camera # 4 is
+                                                                       monitoring if more than one approach is monitored.
+                                                                                                                                            Form 2322
+                                        Red Light Camera: Post-Activation                                                                  (Rev. 07/14)
+                                                  Annual Report                                                                             Page 3 of 6
+
+
+CROSS STREET DEMOGRAPHICS
+STREET NAME ALIASES                                                  - Enter all the names the cross street of the intersection is known as, other
+                                                                       than the street name listed above.
+
+
+
+
+Is the Cross Street on the State                                No - Select Yes or No. If “yes”, the highway designation and number should be
+Highway System?                                                       entered in “Cross Street” in the section for “Intersection Demographics”.
+
+If “Yes”, is it an Access Road/                                      - Select Yes or No.
+Frontage Road?
+TRAFFIC DIRECTION OF TRAVEL                        North - South - Select the traffic direction of travel for this street.
+
+ANNUAL DAILY TRAFFIC (ADT)                                  17300 - Enter the most current Annual Daily Traffic count (ADT) for the cross
+                                                                       street at the intersection.
+
+SPEED LIMIT                                                      35 - Enter the posted speed limit for the cross street.
+
+NUMBER OF THROUGH LANES                                           2 - Enter the number of through lanes on the cross street at the intersection.
+
+NUMBER OF TURN LANES                                              1 - Enter the number of turn lanes (left and right) on the cross street at the
+                                                                       intersection.
+YELLOW SIGNAL TIMING                                                 - Enter yellow duration.
+
+ALL RED SIGNAL TIMING (if applicable)                                - Enter all red duration.
+
+CAMERA 1 APPROACH DIRECTION                                          - Enter the direction traffic is traveling on the approach the camera is
+                                                                       monitoring.
+CAMERA 2 APPROACH DIRECTION                                          - Enter the direction traffic is traveling on the approach camera # 2 is
+                                                                       monitoring if more than one approach is monitored.
+
+CAMERA 3 APPROACH DIRECTION                                          - Enter the direction traffic is traveling on the approach camera # 3 is
+                                                                       monitoring if more than one approach is monitored.
+
+CAMERA 4 APPROACH DIRECTION                                          - Enter the direction traffic is traveling on the approach camera # 4 is
+                                                                       monitoring if more than one approach is monitored.
+CITATION INFORMATION
+
+TOTAL NUMBER OF RED LIGHT CAMERA VIOLATION CITATIONS ISSUED (POST ACTIVATION) 61,941
+                                                                                                                                       Form 2322
+                                                       Red Light Camera: Post-Activation                                              (Rev. 07/14)
+                                                                 Annual Report                                                         Page 4 of 6
+
+
+
+
+         CRASH AND INJURY DATA – REPORTING PERIOD JULY 1, 2012
+                                                          2016 THROUGH JUNE 30, 2013
+                                                                                2017
+
+
+ALL INTERSECTION CRASHES - This section is for data concerning crashes that occurred within the intersection or were related to the
+intersection. Click here for the definition of an intersection crash.
+
+TOTAL - all crashes at this intersection that meet the definition of an intersection crash:
+                                               TOTAL NUMBER OF                         TOTAL NUMBER OF           TOTAL NUMBER OF
+      TOTAL NUMBER OF                            RIGHT ANGLE                                REAR-END                  OTHER
+   INTERSECTION CRASHES                    INTERSECTION CRASHES                    INTERSECTION CRASHES       INTERSECTION CRASHES
+                7                                       2                                      4                        1
+
+RED LIGHT RELATED - all crashes at this intersection that meet the definition of a Red Light Related intersection crash:
+                                          TOTAL NUMBER OF                          TOTAL NUMBER OF                       TOTAL NUMBER OF
+      TOTAL NUMBER OF                     RED LIGHT RELATED                       RED LIGHT RELATED                     RED LIGHT RELATED
+     RED LIGHT RELATED                        RIGHT ANGLE                             REAR-END                                OTHER
+  INTERSECTION CRASHES                INTERSECTION CRASHES                    INTERSECTION CRASHES                   INTERSECTION CRASHES
+             4                                      2                                      2                                    0
+
+NON-RED LIGHT RELATED - all crashes at this intersection that meet the definition of a Non - Red Light Related intersection crash:
+                                       TOTAL NUMBER OF                          TOTAL NUMBER OF                       TOTAL NUMBER OF
+     TOTAL NUMBER OF               NON-RED LIGHT RELATED                    NON-RED LIGHT RELATED                  NON-RED LIGHT RELATED
+  NON-RED LIGHT RELATED                    RIGHT ANGLE                                REAR-END                                OTHER
+   INTERSECTION CRASHES            INTERSECTION CRASHES                     INTERSECTION CRASHES                   INTERSECTION CRASHES
+            3                                     0                                       2                                     1
+                                                                                                                                           Form 2322
+                                                       Red Light Camera: Post-Activation                                                  (Rev. 07/14)
+                                                                 Annual Report                                                             Page 5 of 6
+
+
+FATAL INTERSECTION CRASHES - This section is for data concerning FATAL crashes and FATALITIES that occurred within the
+intersection or were related to the intersection. Click here for the definition of an intersection crash.
+TOTAL - all FATAL crashes and FATALITIES at this intersection that meet the definition of an intersection crash:
+                                       TOTAL NUMBER OF                          TOTAL NUMBER OF                        TOTAL NUMBER OF
+      TOTAL NUMBER OF                      RIGHT ANGLE                                REAR-END                               OTHER
+        INTERSECTION                      INTERSECTION                            INTERSECTION                           INTERSECTION
+       FATAL CRASHES                     FATAL CRASHES                           FATAL CRASHES                          FATAL CRASHES
+               0                                   0                                       0                                   0
+                                       TOTAL NUMBER OF                          TOTAL NUMBER OF                        TOTAL NUMBER OF
+     TOTAL NUMBER OF                       RIGHT ANGLE                               REAR-END                                OTHER
+  INTERSECTION FATALITIES          INTERSECTION FATALITIES                 INTERSECTION FATALITIES                 INTERSECTION FATALITIES
+               0                                   0                                       0                                   0
+
+RED LIGHT RELATED - all FATAL crashes and FATALITIES at this intersection that meet the definition of a Red Light Related intersection crash:
+                                       TOTAL NUMBER OF                      TOTAL NUMBER OF                        TOTAL NUMBER OF
+      TOTAL NUMBER OF                 RED LIGHT RELATED                     RED LIGHT RELATED                      RED LIGHT RELATED
+     RED LIGHT RELATED                    RIGHT ANGLE                            REAR-END                                 OTHER
+        INTERSECTION                     INTERSECTION                          INTERSECTION                           INTERSECTION
+       FATAL CRASHES                    FATAL CRASHES                        FATAL CRASHES                           FATAL CRASHES
+              0                                0                                      0                                       0
+      TOTAL NUMBER OF                  TOTAL NUMBER OF                      TOTAL NUMBER OF                         TOTAL NUMBER OF
+     RED LIGHT RELATED                RED LIGHT RELATED                    RED LIGHT RELATED                       RED LIGHT RELATED
+        INTERSECTION                      RIGHT ANGLE                             REAR-END                                OTHER
+          FATALITIES                       FATALITIES                            FATALITIES                             FATALITIES
+              0                                0                                      0                                       0
+
+NON-RED LIGHT RELATED - all FATAL crashes and FATALITIES at this intersection that meet the definition of a Non - Red Light Related
+intersection crash:
+                                     TOTAL NUMBER OF                      TOTAL NUMBER OF                         TOTAL NUMBER OF
+       TOTAL NUMBER OF            NON-RED LIGHT RELATED                NON-RED LIGHT RELATED                  NON-RED LIGHT RELATED
+     NON-RED LIGHT RELATED              RIGHT ANGLE                             REAR-END                                 OTHER
+           INTERSECTION                INTERSECTION                          INTERSECTION                           INTERSECTION
+         FATAL CRASHES                FATAL CRASHES                         FATAL CRASHES                          FATAL CRASHES
+                  0                           0                                     0                                      0
+                                     TOTAL NUMBER OF                      TOTAL NUMBER OF                         TOTAL NUMBER OF
+       TOTAL NUMBER OF            NON-RED LIGHT RELATED                NON-RED LIGHT RELATED                  NON-RED LIGHT RELATED
+    NON-RED LIGHT RELATED               RIGHT ANGLE                             REAR-END                                 OTHER
+   INTERSECTION FATALITIES       INTERSECTION FATALITIES             INTERSECTION FATALITIES                 INTERSECTION FATALITIES
+                  0                           0                                     0                                      0
+                                                       Red Light Camera: Post-Activation                                                   Form 2322
+                                                                                                                                          (Rev. 07/14)
+                                                                 Annual Report                                                             Page 6 of 6
+
+
+INJURY INTERSECTION CRASHES - This section is for data concerning INJURY crashes and INJURIES that occurred within the
+intersection or were related to the intersection. Click here for the definition of an intersection crash.
+TOTAL - all INJURY crashes and INJURIES at this intersection that meet the definition of an intersection crash:
+                                        TOTAL NUMBER OF                         TOTAL NUMBER OF                      TOTAL NUMBER OF
+     TOTAL NUMBER OF                        RIGHT ANGLE                               REAR-END                             OTHER
+        INTERSECTION                       INTERSECTION                             INTERSECTION                        INTERSECTION
+      INJURY CRASHES                     INJURY CRASHES                          INJURY CRASHES                       INJURY CRASHES
+               2                                   0                                       2                                 0
+                                        TOTAL NUMBER OF                         TOTAL NUMBER OF                      TOTAL NUMBER OF
+     TOTAL NUMBER OF                        RIGHT ANGLE                               REAR-END                             OTHER
+  INTERSECTION INJURIES              INTERSECTION INJURIES                  INTERSECTION INJURIES                 INTERSECTION INJURIES
+               3                                   0                                       3                                 0
+
+
+RED LIGHT RELATED - all INJURY crashes and INJURIES at this intersection that meet the definition of a Red Light Related intersection crash:
+                                       TOTAL NUMBER OF                      TOTAL NUMBER OF                         TOTAL NUMBER OF
+      TOTAL NUMBER OF                RED LIGHT RELATED                     RED LIGHT RELATED                      RED LIGHT RELATED
+     RED LIGHT RELATED                    RIGHT ANGLE                            REAR-END                                  OTHER
+         INTERSECTION                    INTERSECTION                          INTERSECTION                           INTERSECTION
+       INJURY CRASHES                  INJURY CRASHES                        INJURY CRASHES                         INJURY CRASHES
+              1                                0                                      1                                       0
+                                       TOTAL NUMBER OF                      TOTAL NUMBER OF                        TOTAL NUMBER OF
+      TOTAL NUMBER OF                RED LIGHT RELATED                     RED LIGHT RELATED                      RED LIGHT RELATED
+     RED LIGHT RELATED                    RIGHT ANGLE                            REAR-END                                  OTHER
+  INTERSECTION INJURIES            INTERSECTION INJURIES                 INTERSECTION INJURIES                  INTERSECTION INJURIES
+              1                                0                                      1                                       0
+
+
+NON-RED LIGHT RELATED - all INJURY crashes and INJURIES at this intersection that meet the definition of a Non - Red Light Related intersection
+crash:
+                                      TOTAL NUMBER OF                      TOTAL NUMBER OF                        TOTAL NUMBER OF
+       TOTAL NUMBER OF             NON-RED LIGHT RELATED               NON-RED LIGHT RELATED                   NON-RED LIGHT RELATED
+    NON-RED LIGHT RELATED                 RIGHT ANGLE                           REAR-END                                  OTHER
+          INTERSECTION                   INTERSECTION                         INTERSECTION                           INTERSECTION
+        INJURY CRASHES                 INJURY CRASHES                       INJURY CRASHES                         INJURY CRASHES
+               1                               0                                    1                                       0
+                                      TOTAL NUMBER OF                      TOTAL NUMBER OF                        TOTAL NUMBER OF
+       TOTAL NUMBER OF             NON-RED LIGHT RELATED               NON-RED LIGHT RELATED                   NON-RED LIGHT RELATED
+    NON-RED LIGHT RELATED                 RIGHT ANGLE                           REAR-END                                  OTHER
+    INTERSECTION INJURIES          INTERSECTION INJURIES               INTERSECTION INJURIES                   INTERSECTION INJURIES
+               2                               0                                    2                                       0
+
