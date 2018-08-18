@@ -1,0 +1,48 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="robots" content="noindex, nofollow">
+
+    <link rel="stylesheet" href="https://cloud.typography.com/7613174/7017952/css/fonts.css">
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.45.0/mapbox-gl.css' rel='stylesheet' />
+
+
+    <link rel="stylesheet" href="css/styles.css" />
+  </head>
+  <body>
+
+    <div id="embed__container">
+      <div class="embed__chatter">
+        <h4>Red-light camera locations</h4>
+        <p>The map below shows red-light camera locations in Dallas, Fort Worth, Plano, Garland, and Irving, the five most populous North Texas cities with these programs as of 2017. Click on a location to see a breakdown of each red-light camera.</p>
+      </div>
+      <div class="embed__content">
+
+        <select id="filter">
+          <option value="all">All Cities</option>
+          <option value="Dallas">Dallas</option>
+          <option value="Fort Worth">Fort Worth</option>
+          <option value="Garland">Garland</option>
+          <option value="Irving">Irving</option>
+          <option value="Plano">Plano</option>
+        </select>
+
+        <div id='mapwrap'>
+          <div id='legend' class="map-overlay">
+            <p>Annual daily traffic</p>
+            <div id='legend-colors'></div>
+          </div>
+          <div id='map'></div>
+        </div>
+
+        <p class="source">Source: Texas Department of Transportation</p>
+        <p class="credit">Alma Washington / DMN</p>
+      </div>
+    </div>
+
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.45.0/mapbox-gl.js'></script>
+    <script src="js/scripts.js"></script>
+    <script src="https://interactives.dallasnews.com/common/scripts/embed-tracker/embed-tracker.min.js"></script>
+  </body>
+</html>
