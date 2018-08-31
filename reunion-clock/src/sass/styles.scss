@@ -1,0 +1,70 @@
+@import '../../node_modules/normalize.css/normalize';
+
+@import 'mixins';
+@import 'variables';
+@import 'base';
+
+html.embedded, html {
+  // Applied when embedded using Pym.js
+  font-size: 10px;
+}
+
+body {
+  // This helps Pym.js more more accurately measure our <body>
+  &:before,
+  &:after {
+    content: " ";
+    display: table;
+  }
+}
+
+
+// NOTE!!!! If you need ooyala code, add @import 'ooyala';  to your list of imports above
+
+// Your styles go here
+
+body{
+  font-weight: 100;
+  
+}
+
+#label {
+  font-size: 2rem;
+}
+
+#clockdiv{
+	font-family: $sans;
+	color: #fff;
+	font-weight: 100;
+	font-size: 2rem;
+  // display: flex;
+  // flex-wrap: wrap;
+  // justify-content: space-evenly;
+}
+
+.box{
+  font-family: $sans;
+  font-weight: bold;
+	padding: 1.5rem;
+	border-radius: 3px;
+  background: $chartBlue;
+  width: auto;
+  display: inline-block;
+}
+
+#clockdiv > div > span {
+	border-radius: 3px;
+  display: inline-block;
+  font-size: 20rem;
+}
+
+.text {
+	padding-top: 1rem;
+	font-size: 1.2rem;
+}
+
+@media (max-width: 400px) {
+  #clockdiv div span {
+    font-size: 10rem;
+  }
+}
