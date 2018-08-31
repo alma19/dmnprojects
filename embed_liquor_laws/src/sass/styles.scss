@@ -1,0 +1,107 @@
+// @import 'normalize/import-now';
+// @import '../../node_modules/sideboard/src/scss/styles';
+@import '../../node_modules/sideboard/src/scss/styles';
+
+@import 'mixins';
+@import 'variables';
+@import 'base';
+
+html.embedded, html {
+  // Applied when embedded using Pym.js
+  font-size: 10px;
+}
+
+body {
+  // This helps Pym.js more more accurately measure our <body>
+  &:before,
+  &:after {
+    content: " ";
+    display: table;
+  }
+}
+
+
+// NOTE!!!! If you need ooyala code, add @import 'ooyala';  to your list of imports above
+
+// Your styles go here
+
+#beverage-list {
+  width: 50%;
+  height: 600px;
+  position: relative;
+}
+
+.box {
+  display: flex;
+}
+
+.status, .status2 {
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.status2 {
+  margin-top: 1rem;
+}
+
+[data-title]:not(:first-of-type) {
+  text-align: center;
+}
+
+
+.bev-table form {
+  margin-bottom: 0;
+
+  [type="submit"] {
+    display: none;
+  }
+
+  [type="button"]{
+    font-size: 1.2rem;
+    line-height: 1.2rem;
+    background-color: $black235;
+    border: 1px solid $black215;
+    padding: 5px 10px;
+    border-radius: 3px;
+    text-transform: uppercase;
+    margin-bottom: 1.2rem;
+    cursor: pointer;
+    &:hover {
+      background-color: $dmnblue;
+      color: white;
+      border: 1px solid $dmnblue;
+    }
+  }
+}
+
+.mobile-definitions {
+  display: none;
+}
+
+.b {
+  font-weight: bold;
+}
+
+.embed__content p {
+  font-size: 1.3rem;
+  margin-top: 0;
+}
+
+.embed__content .definitions {
+  margin-bottom: 1rem!important;
+}
+
+.filter-type-searchBox label {
+  color: black;
+  font-size: 1.3rem;
+}
+
+@media screen and (max-width: 500px){
+  [data-title]:not(:first-of-type) {
+    text-align: left;
+  }
+
+  .mobile-definitions {
+    display: block;
+  }
+}

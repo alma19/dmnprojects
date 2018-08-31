@@ -1,0 +1,13 @@
+county_city_precinct,b_on,b_off,w_on,w_off,ds_off,mb,rm
+Dallas County,"<i class=""fas fa-check""></i>","<i class=""fas fa-check""></i>","<i class=""fas fa-check""></i>","<i class=""fas fa-check""></i>","<i class=""fas fa-check""></i>","<i class=""fas fa-check""></i>","<i class=""fas fa-check""></i>"
+JP1,"<i class=""fas fa-check""></i>","<i class=""fas fa-check""></i>","<i class=""fas fa-check""></i>","<i class=""fas fa-check""></i>","<i class=""fas fa-check""></i>","<i class=""fas fa-check""></i>","<i class=""fas fa-check""></i>"
+JP2,"<i class=""fas fa-check""></i>","<i class=""fas fa-check""></i>","<i class=""fas fa-check""></i>","<i class=""fas fa-check""></i>","<i class=""fas fa-check""></i>","<i class=""fas fa-check""></i>","<i class=""fas fa-check""></i>"
+JP3,"<i class=""fas fa-check""></i>","<i class=""fas fa-check""></i>","<i class=""fas fa-check""></i>","<i class=""fas fa-check""></i>","<i class=""fas fa-check""></i>","<i class=""fas fa-check""></i>","<i class=""fas fa-check""></i>"
+JP4,,"<i class=""fas fa-check""></i>",,"<i class=""fas fa-check""></i>","<i class=""fas fa-check""></i>","<i class=""fas fa-check""></i>","<i class=""fas fa-check""></i>"
+JP5,"<i class=""fas fa-check""></i>","<i class=""fas fa-check""></i>","<i class=""fas fa-check""></i>","<i class=""fas fa-check""></i>","<i class=""fas fa-check""></i>","<i class=""fas fa-check""></i>","<i class=""fas fa-check""></i>"
+Addison,"<i class=""fas fa-check""></i>","<i class=""fas fa-check""></i>","<i class=""fas fa-check""></i>","<i class=""fas fa-check""></i>","<i class=""fas fa-check""></i>",,
+Cedar Hill,,,,,,"<i class=""fas fa-check""></i>",
+Cockrell Hill,,,,,,,
+Dallas (part),"<i class=""fas fa-check""></i>",,"<i class=""fas fa-check""></i>",,"<i class=""fas fa-check""></i>","<i class=""fas fa-check""></i>",
+Farmers Branch,,,,,,"<i class=""fas fa-check""></i>",
+Richardson (part),,,,,"<i class=""fas fa-check""></i>",,
