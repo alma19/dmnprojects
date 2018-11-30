@@ -1,0 +1,523 @@
+{%extends 'base.html'%}
+{%import 'partials/img.html' as img%}
+
+
+{%block custom_meta%}
+<meta content="{{keywords|join(',')}}" name="keywords" />
+
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+<meta content="{{shareText}}" name="description" />
+<title>{{pageTitle}}</title>
+<meta property="og:url" content="{{url}}" />
+<meta property="og:title" content="{{shareTitle}}"/>
+<meta property="og:description" content="{{shareText}}" name="description"/>
+<meta property="og:image" content="{{imgURL}}"/>
+<meta property="og:image:height" content="{{imgHeight}}"/>
+<meta property="og:image:width" content="{{imgWidth}}"/>
+<meta property="og:type" content="article" />
+<meta property="article:author" content="{{authorFBProfile}}" />
+<meta property="article:publisher" content="https://www.facebook.com/dallasmorningnews/" />
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@{{sectionTwitter}}" />
+<meta name="twitter:creator" content="@{{authorTwitter}}" />
+
+<meta name="liveFyreID" content="{{id}}" />
+
+<script type="application/ld+json">
+      {
+        "@context": "http://schema.org",
+        "@type": "NewsArticle",
+        "headline": "{{shareTitle}}",
+        "url": "{{url}}",
+        "thumbnailUrl": "{{imgURL}}",
+        "dateCreated": "{{publishDate}}",
+        "articleSection": "{{section}}",
+        "creator": ["{{authors|join('","')|safe}}"],
+        "keywords": ["{{keywords|join('","')|safe}}"]
+      }
+</script>
+
+<meta property="og:keywords" content="{{keywords|join(',')}}"/>
+
+<meta name="news_keywords" content="{{keywords|join(',')}}"/>
+{%endblock%}
+
+
+{%block custom_head%}
+<link rel="canonical" href="{{url}}" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.2/css/swiper.min.css">
+
+<script>
+
+var iOS = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
+
+if (iOS === true) {
+  document.body.className += ' ' + 'ios';
+}
+
+</script>
+{%endblock%}
+
+
+{%block ad%}
+<script type="text/javascript" src="//www.googletagservices.com/tag/js/gpt.js"></script>
+<script type="text/javascript">
+DFP_networkId = "11222444";
+var DFPSlotSizes = window.isMobile ? [[320,50]] : [[728,90],[970,30]];
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+var pbjs = pbjs || {};
+pbjs.que = pbjs.que || [];
+pbjs.que.push(function() {
+  var pageAds = { //   adUnitID: "position"
+              dfpAdPositionAbove: "Top",
+              dfpAdPositionMiddle: "Top2",
+              dfpAdPositionBottom: "Top2"
+  };
+
+  for(i in pageAds){
+      var bidSlot = new Object();
+      bidSlot.code = i;
+      bidSlot.sizes = DFPSlotSizes;
+      bidSlot.bids = window.isMobile ? window.mobileBids[pageAds[i]] : window.desktopBids[pageAds[i]];
+      if(typeof bidSlot.bids != "undefined"){
+          if(typeof pbjs.addAdUnits != "undefined"){
+              pbjs.addAdUnits(bidSlot);
+          }
+          window.bidSlots[i] = bidSlot;
+      }
+  }
+});
+googletag.cmd.push(function () {
+  var DFP_sitepage = "DMN/interactives";
+  var dfpSizeMapping = googletag.sizeMapping().
+          addSize([992, 480], [[728,90],[970,30]]).
+          addSize([0, 0], [[320,50]]).
+          build();
+
+
+  var adSlot0 = googletag.defineSlot('/' + DFP_networkId + '/' + DFP_sitepage, DFPSlotSizes, "dfpAdPositionTop")
+                  .defineSizeMapping(dfpSizeMapping)
+                  .setTargeting("position", "Top")
+                  .addService(googletag.pubads());
+
+
+  var adSlot1 = googletag.defineSlot('/' + DFP_networkId + '/' + DFP_sitepage, DFPSlotSizes, "dfpAdPositionMiddle")
+                  .defineSizeMapping(dfpSizeMapping)
+                  .setTargeting("position", "Top2")
+                  .addService(googletag.pubads());
+
+
+
+  var adSlot2 = googletag.defineSlot('/' + DFP_networkId + '/' + DFP_sitepage, DFPSlotSizes, "dfpAdPositionBottom")
+                  .defineSizeMapping(dfpSizeMapping)
+                  .setTargeting("position", "Top2")
+                  .addService(googletag.pubads());
+
+
+  googletag.pubads().enableAsyncRendering();
+  googletag.pubads().enableSingleRequest();
+  googletag.enableServices();
+
+});
+</script>
+{%endblock%}
+
+
+{%block content%}
+
+<section id="content-header">
+  <video playsinline muted autoplay loop poster="images/_lizards-poster.jpg">
+    <source type="video/webm" src="images/hero.webm" />
+    <source type="video/mp4" src="images/hero.mp4" />
+  </video>
+
+</section>
+<!-- end contentHeader -->
+
+<section class="content-well clearfix">
+
+	<header id="story-head">
+		<h3>Curious Texas</h3>
+		<h1>Where have all the horny toads gone?</h1>
+		<h2>How Texans are working together to protect the state reptile </h2>
+	</header>
+		<!-- end storyHead -->
+
+    <div class="byline-block">
+        <p>By <a target="_blank" href="https://www.dallasnews.com/author/charles-scudder">Charles Scudder</a> | Staff Writer</p>
+        <p>Photos by <a target="_blank" href="https://www.dallasnews.com/author/nathan-hunsinger">Nathan Hunsinger</a> | Staff Photographer</p>
+        <p>Published Sept. 17, 2018</p>
+    </div>
+    <!-- end bylineBlock -->
+
+	<div class="shareComments shareCommentsTop">
+		<ul id="share-bar1"></ul>
+	</div>
+	<!-- end shareComments -->
+
+  <p class="intro"><span class="dropcap">M</span>ASON COUNTY — A dozen conservationists clad in khaki and forest green march into the Hill Country brush.</p>
+  <p>Noontime sun hasn’t broken through the clouds. The prickly pears are full of ripe purple fruit. Late summer rain has kept the grasses green and red dirt damp. Conditions are ideal for this rescue mission as the procession moves wordlessly onward.</p>
+  <p>In their hands are cameras and clear deli cups, the kind used to take home leftover potato salad. Inside each are tiny lizards, about the size of a quarter and only a few weeks old.</p>
+  <p>They are the latest, greatest hope for bringing their species back from the brink.</p>
+  <p>Call them horny toads, horned frogs, <em>Phrynosoma cornutum</em> or the Texas horned lizard, the state reptile is in dire straits. For several decades, they’ve been vanishing from Texas landscapes for reasons researchers cannot fully explain.</p>
+
+  <div class="side-block right-block" id="curious-texas">
+    <img src="images/curious_texas-600.jpg" />
+    <p>This story is part of Curious Texas, <a href="https://www.dallasnews.com/life/curious-texas/2017/12/18/curious-texas-wonder-texas-people-call-home" target="_blank"> an ongoing project from <em>The Dallas Morning News </em> </a> that invites you to join in our reporting process. The idea is simple: You have questions, and our journalists are trained to track down answers.</p>
+
+    <p>Last December, while the Texas horned lizards were in hibernation, Sharon Castleberry wondered where all the horn toads had gone and asked Curious Texas to investigate. We met Diane Barber at the Fort Worth Zoo, who told us about the plan to breed 300 hatchlings for release. This is the story of the partnership between zoos, Texas Christian University biologists and Texas Parks and Wildlife officials to bring the Texas state reptile back from the brink.</p>
+  </div>
+
+  <p>Now, Texas zoos, Texas Parks and Wildlife Department officials, Texas Christian University biologists and more are working together to release hundreds of horned lizard hatchlings here, on state land about 100 miles west of Austin.</p>
+  <p>The horned lizard procession arrives in a clearing surrounded by granite hills at Mason Mountain Wildlife Management Area. There’s open dirt, a few tufts of low grass, tall brush nearby, lots of termites and a few varieties of ants. Perfect horned lizard habitat.</p>
+  <p>Jim Gallagher, a wildlife biologist with Parks and Wildlife, spreads his arms wide.</p>
+  <p>“Ground zero,” he says. “Who’s got how many?”</p>
+  <p>“I’ve got 15,” says Jaimie Peltier, a zookeeper at the Fort Worth Zoo.</p>
+  <p>She kneels and pries the lid off one of the cups.</p>
+  <p>Carefully, she lifts each baby lizard and sets it on the ground. Some scurry away quickly, others hunker down and hardly move at all. Peltier’s face turns red as Diane Barber, her boss, pulls out a phone to take photos of the zookeeper.</p>
+  <p>“I’m trying not to cry,” she says, grinning.</p>
+  <p>Peltier has worked with the horned lizards for months to prepare for this day. She helped pair lizards for breeding, scooped droppings, refilled ant feeders, checked for nests, watched, waited, weighed and measured them week after week, packed the hatchlings into these cups and brought them here.</p>
+  <p>It’s emotional, she says, to finally see them scamper out of sight.</p>
+  <p>In a booming bass, Gallagher sings as the little lizards look for ants to snack on.</p>
+  <p><em>“Born free, free as the wind blows …”</em></p>
+
+</section>
+<div class="full-block image-block" id="release"></div>
+<section class="content-well">
+
+  <p class="subhead">Symbol of the West</p>
+  <p>The horned lizard hatchlings at Mason Mountain are on their own now. But before they got here, these critters were the product of the careful, calculated work of biologists, ecologists, researchers, landowners and zookeepers across the state.</p>
+  <p>It’s an uphill battle, one that has become more and more common as species like the Texas horned lizard struggle to survive.</p>
+  <p>The horned lizard is not on the brink of extinction -- yet. It is listed as “threatened” in the state, but strong populations in New Mexico and elsewhere keep it off the federal endangered species list.</p>
+  <p>Status as a state treasure helps give the lizard cultural protection, but it could easily become just another Texas legend.</p>
+  <p>“There’s a lot against us in terms of establishing these guys,” Barber said in the spring. She’s the Fort Worth Zoo’s curator of ectotherms, in charge of the cold-blooded creatures there. “There's a lot of species where people wait until the 11th hour and there’s 20 left — literally, only 20 — and people come to us. It’s far better to try to take action.”</p>
+  <p>To lose the horned lizard would be to lose something uniquely Texan, and it’s why so many people are working to bring them back.</p>
+  <p>“It’s more like a bald eagle or something,” said Dean Williams, a TCU biology professor who has worked with the lizards for a decade. “It’s symbolic of the West.”</p>
+
+  <div class="video-block inline-block">
+    <div class="video-wrapper">
+  		<iframe width="1280" height="720" src="https://www.youtube.com/embed/uE8LfNR0gTQ" frameborder="0" allowfullscreen></iframe>
+  		<!-- change out iframe code with your youtube video -->
+    </div>
+  </div>
+  <!-- end you tube video -->
+
+  <p>On fall Saturdays, just across campus from Williams’ biology lab, TCU fans dressed in purple and white fill Amon G. Carter Stadium. Just before kickoff, a gray mascot with a cartoonish head runs onto the field.</p>
+  <p>The mascot — here, it’s a “horned frog” — leads the stadium in a chant of “Go! Frogs!” After every touchdown, the stadium echoes with refrains of “Horned Frogs, we’re all for you,” but few TCU students have seen the real thing outside of zoos.</p>
+  <p>The lizards’ round, flat bodies and namesake horns make them look prehistoric. Their unique defense mechanism — shooting blood from their eyes at canine predators — only adds to their reputation as Texas tough.</p>
+  <p>The Comanche people believed that horned lizards would always run in the direction of bison, and used them to guide hunts. Other American Indian cultures saw them as symbols of strength. Cowboy stories told of horny toads that could live a century or more.</p>
+  <p>One tall tale from Eastland, Texas, <a href="https://www.dallasnews.com/life/texana/2018/09/17/strange-tale-old-rip-horny-toad-display-west-texas-courthouse">tells of a lizard that survived 30 years sealed in the cornerstone of the county courthouse without food or water</a>. As the story goes, the lizard went on to appear onstage in Dallas and meet President Calvin Coolidge in Washington, D.C. When it died a few months later, its body was embalmed and put on display at the courthouse. Tourists still stop to snap photos of “Old Rip” the horny toad.</p>
+
+  <div class="wide-block image-block grid grid--3-1">
+    <div class="grid-item grid-item--a">
+      {{img.jpg('ol-rip2', 'The old resting place for Ol’ Rip, a legendary petrified horned lizard, which is now housed in a display case in the new city hall (right above this case) in Eastland, Texas on May 11, 2018', sizes='(min-width: 740px) 75vw, 95vw')}}
+      <p class="cutline cutline--large">Above: The old resting place for Old Rip, a legendary horned lizard, which is now housed in a display case in the courthouse in Eastland, Texas. Right: Eastland County Judge Rex Fields holds Old Rip in his velvet-lined casket. (Nathan Hunsinger/Staff Photographer)</p>
+      <p class="cutline cutline--mobile">The old resting place for Old Rip, a legendary horned lizard, which is now housed in a display case in the courthouse in Eastland, Texas. (Nathan Hunsinger/Staff Photographer)</p>
+    </div>
+    <div class="grid-item grid-item--b">
+      {{img.jpg('ol-rip1', 'Eastland County Judge Rex Fields holds Ol’ Rip, a legendary petrified horned lizard, which is now housed in a display case in the new city hall in Eastland, Texas on May 11, 2018.', sizes='(min-width: 740px) 33vw, 95vw')}}
+      <p class="cutline cutline--mobile">Eastland County Judge Rex Fields holds Old Rip in his velvet-lined casket. (Nathan Hunsinger/Staff Photographer)</p>
+    </div>
+  </div>
+
+  <p>They were once so populous, the lizards were backyard favorites across the state. Slow and docile, they were easy to catch and made for fun summertime pets. Some Texans remember keeping the lizards in a shoebox under the bed. Others remember carrying pillowcases full of lizards to trade at Boy Scout jamborees.</p>
+  <p>Then, slowly and inexplicably, they started to vanish.</p>
+  <p>Fire ants, the insidious South American invaders that destroy lawns and pack painful venomous bites, are the most oft-cited perpetrators. They’ve decimated populations of harvester ants, the primary diet of the Texas horned lizard. They also destroy lizard nests and eat hatchlings.</p>
+  <p>Human interference shoulders some of the blame as well. Urban sprawl and the spread of pesticides certainly harmed the horned lizard’s prospects.</p>
+  <p>By the time researchers noticed the horned lizard was disappearing, it was almost too late. Now, you’re unlikely to find a single lizard in the wild east of the Interstate 35 corridor. You’re more likely to find them in south and far west Texas.</p>
+
+  <div id="mapwrap" class="inline-block">
+    <div class="chatter">
+      <h5>Horned lizard observations</h5>
+      <p>The website iNaturalist.org crowdsources the observation of various species in the wild. Below is a map of unconfirmed, public-submitted sightings of horned lizards in Texas by iNaturalist contributors:</p>
+    </div>
+    <div id="map"></div>
+    <p class="source">Source: <a href="https://www.inaturalist.org/">iNaturalist.org</a></p>
+  </div>
+
+  {%include "adblock1.html" %}
+
+  <p>About 10 years ago, TCU’s Williams joined an effort with Parks and Wildlife and Texas zoos to study and protect the horned lizard.</p>
+  <p>Barber’s team at the Fort Worth Zoo pioneered breeding strategies, learning how to successfully raise the lizards in captivity. <a href="https://www.dallasnews.com/life/texana/2018/09/18/dallas-zoo-sets-46-horned-lizards-loose-first-ever-wildlife-release">Others like the Dallas Zoo have joined the effort.</a></p>
+  <p>“We’re all sort of working together for the common good,” said Nathan Rains, a wildlife diversity biologist with Parks and Wildlife.</p>
+  <p>Early attempts, such as raising lizards to adulthood before release or moving wild-caught lizards from one area to another, were found to be too costly or impractical.</p>
+  <p>Last year, Parks and Wildlife released hatchlings — just a few weeks old — in an attempt to establish a stable population. Sixty-three babies from the Fort Worth Zoo were released at Mason Mountain, a trial run. It’s unclear if any of those have survived, since they were too small to carry radio monitors commonly used on adult lizards.</p>
+  <p>At the end of last year, Parks and Wildlife and the zoos settled on a new goal: 300 hatchlings for release by September 2018. That number, they guessed, would give the lizards a greater chance to reach adulthood, breed and produce their own wild offspring.</p>
+  <p>“Nobody’s more optimistic than I am,” Rains said, “but we don’t know if it’s going to work yet.”</p>
+
+</section>
+<div class="image-block full-block" id="lab"></div>
+<section class="content-well">
+
+  <p class="subhead">Tinder for lizards</p>
+  <p>Far from the pink flamingos wading near the Fort Worth Zoo’s entrance, past the saltwater crocodile floating lazily alongside his big glass window, behind the air-conditioned building where Mexican long-nosed bats dart back and forth in a darkened room, a small building away from public access serves as headquarters for the horned lizard breeding program.</p>
+  <p>The lizards spend their winters inside a walk-in refrigerator. Keepers raise the temperature to simulate the arrival of spring in late March.</p>
+  <p>At 66 degrees, it’s time for a wake-up call.</p>
+  <p>A sleepy lizard cracks open an eye as a large hand pulls her out of the sand and brushes granules from her face.</p>
+  <p>“When they come out covered in sand like this,” says Peltier, the zookeeper, “it’s adorable.”</p>
+  <p>The lizard, No. 207121 according to a spreadsheet to Peltier’s right, has three dots of nail polish on her back: Green-Green-Black. Each individual is identified by its six-digit number and the unique nail polish pattern the zookeepers apply every time the lizards shed their skin.</p>
+
+  <div class="image-block wide-block">
+    <div class="grid grid--1-1">
+      <div class="grid-item grid-item--a">
+        {{img.jpg('wakeup2', 'Robyn Doege, supervisor of aquatics, takes a cage of horned lizards out of the cooler to be woken up at the Texas native reptile center in the Fort Worth Zoo in Fort Worth, Texas on March 20, 2018.', sizes='(min-width: 740px) 75vw, 95vw')}}
+        <p class="cutline cutline--mobile">Robyn Doege, supervisor of aquatics, takes a container of horned lizards out of the cooler at the Texas Native Reptile Center at the Fort Worth Zoo. (Nathan Hunsinger/Staff Photographer)</p>
+      </div>
+      <div class="grid-item grid-item--b">
+        {{img.jpg('wakeup1', 'After four months in hibernation a horned lizard has its head uncovered at the Texas native reptile center in the Fort Worth Zoo in Fort Worth, Texas on March 20, 2018.', sizes='(min-width: 740px) 33vw, 95vw')}}
+        <p class="cutline cutline--mobile">A horned lizard pokes its head out of the sand after four months in hibernation. (Nathan Hunsinger/Staff Photographer)</p>
+      </div>
+    </div>
+      <p class="cutline cutline--large">Left: Robyn Doege, supervisor of aquatics, takes a container of horned lizards out of the cooler at the Texas Native Reptile Center at the Fort Worth Zoo. Right: A horned lizard pokes its head out of the sand after four months in hibernation. (Nathan Hunsinger/Staff Photographer)</p>
+  </div>
+
+  <p>Peltier places Green-Green-Black onto a small scale. Thirty-five grams, the same as when she went into hibernation back in November. As Peltier marks down the measurement, Robyn Doege, supervisor of aquatics, carries the lizard to a small tank with other females.</p>
+  <p>Each lizard’s DNA has been <a href="https://www.dallasnews.com/life/texana/2018/09/17/tcus-horned-frogs-helping-preserve-real-life-mascots">tested by Williams at TCU</a>. Those DNA results go into a computer program that analyzes every individual for its best possible mating match.</p>
+  <p>The goal: Pair the male and female lizards to create the most genetically diverse offspring possible. Weed out the related lizards, try to pair wild-caught critters with individuals born in the zoo.</p>
+  <p>“It’s like Tinder for horned lizards,” Doege said.</p>
+  <p>Within a few weeks of waking from hibernation, the lizards at the Fort Worth Zoo are clearly ready for action. They’ve been in bachelor and bachelorette tanks, warming up and starting to move.</p>
+
+  <div id="lizard-profiles" class="wide-block">
+    <div id="slide-container" class="grid">
+      <div id="title-card" class="lizard-profile profile-slide active">
+        <div class="profile--text table-wrapper">
+          <div class="table-content">
+            <h4>Meet the lizards</h4>
+            <p>The Fort Worth Zoo keeps a breeding stock of about 30 adult lizards. Each lizard is identified by a unique six-digit code and a series of nail polish dots painted on its back. Learn more about the stories of four of these iconic Texas critters.</p>
+          </div>
+        </div>
+      </div>
+      <div id="green-pink" class="lizard-profile profile-slide">
+        <div class="circles">
+          <span class="circle green"></span>
+          <span class="circle pink"></span>
+        </div>
+        <img src="images/_lizard-gp.jpg" alt="Profile photo of lizard 120300" />
+        <div class="profile--text">
+          <h5>Green-Pink</h5>
+          <p>This male was born in the wild and donated to the zoo in September 2017. He’s young, but it’s unclear how young. This was his first year to be paired for breeding at the zoo, and zookeepers determined his best genetic matches were two larger, more experienced females. “We’re giving him a shot,” said Robyn Doege, a supervisor at the zoo.</p>
+        </div>
+      </div>
+      <div id="purple" class="lizard-profile profile-slide">
+        <div class="circles">
+          <span class="circle purple"></span>
+        </div>
+        <img src="images/_lizard-p.jpg" alt="Profile photo of lizard 207165" />
+        <div class="profile--text">
+          <h5>Purple</h5>
+          <p>Big Purple, as she’s called by keepers, is a model lizard. She’s been photographed by TCU Athletics and featured on billboards around Fort Worth for her particularly photogenic visage. She was born in the wild, and was brought to the zoo in October 2011. Since then, she’s been paired with a number of males, but has not produced any offspring. She’s only laid one clutch of eggs, in 2014, but none of them hatched. This year, she did not lay any.</p>
+        </div>
+      </div>
+      <div id="gold-gold-black" class="lizard-profile profile-slide">
+        <div class="circles">
+          <span class="circle yellow"></span>
+          <span class="circle yellow"></span>
+          <span class="circle black"></span>
+        </div>
+        <img src="images/_lizard-gogob.jpg" alt="Profile photo of lizard 207002" />
+        <div class="profile--text">
+          <h5>Yellow-Yellow-Black</h5>
+          <p>Last year, this male was father to 15 baby lizards, all of which are still in the zoo’s captive population. He was born here in captivity in August 2011. This year, he mated with Green-Green-Black and produced another full nest of hatchlings.</p>
+        </div>
+      </div>
+      <div id="green-green-black" class="lizard-profile profile-slide">
+        <div class="circles">
+          <span class="circle green"></span>
+          <span class="circle green"></span>
+          <span class="circle black"></span>
+        </div>
+        <img src="images/_lizard-ggb.jpg" alt="Profile photo of lizard 207121" />
+        <div class="profile--text profile-slide">
+          <h5>Green-Green-Black</h5>
+          <p>Green-Green-Black was born at the zoo the same month as her mate this year, Yellow-Yellow-Black. Last year, she laid a full nest of eggs but only three hatched. They are all still at the zoo as well. This year, she and Yellow-Yellow-Black were the first to mate and she was the first to lay eggs in May. Twenty-one of her babies were released at Mason Mountain Wildlife Management Area in early September.</p>
+        </div>
+      </div>
+    </div>
+    <button id="slide-previous" class="no-show">Previous</button>
+    <button id="slide-next">Next</button>
+  </div>
+
+  <p>First up, a young male and two older females. One of those females has been at the zoo since 2011, and was once selected as a model for TCU’s billboards and promotional materials.</p>
+  <p>“He gets two girlfriends this year,” Doege says, placing the three lizards in a sandy outdoor enclosure.</p>
+  <p>After exploring the enclosure’s boundaries, the male spies the TCU model.</p>
+  <p>He bobs his head up and down in quick succession. <em>Hey, girl.</em></p>
+  <p>No response.</p>
+  <p>He scrambles a little closer, then stops short. He bobs his head again. <em>What’s up?</em></p>
+  <p>Still, no response. He bobs again. <em>Wanna get out of here?</em></p>
+  <p>Finally, she bobs back. His cue. The male scrambles over, leaps on her back and grabs one of her namesake horns with his strong jaws.</p>
+  <p>Longer horns are appealing to male lizards, as it gives them something to hold onto during the act. The female bucks and spins, flips upside down and rolls as soon as the male jumps on her back.    “Is he too small for her?” Peltier asks.</p>
+  <p>“We’re giving him a shot,” Doege says.</p>
+
+  <div class="wide-block image-block grid grid--3-1">
+    <div class="grid-item grid-item--a">
+      {{img.jpg('mating', 'A male horned lizard bites the horn of a female during mating at the Fort Worth Zoo in Fort Worth Texas on April 11, 2018.', sizes='(min-width: 740px) 75vw, 95vw')}}
+      <p class="cutline cutline--large">Above: A male horned lizard bites the horn of a female before mating at the Fort Worth Zoo. Right: A clutch of horned lizard eggs outside an incubator. (Nathan Hunsinger/Staff Photographer)</p>
+      <p class="cutline cutline--mobile">A male horned lizard bites the horn of a female before mating at the Fort Worth Zoo. Right: A clutch of horned lizard eggs outside an incubator. (Nathan Hunsinger/Staff Photographer)</p>
+    </div>
+    <div class="grid-item grid-item--b">
+      {{img.jpg('eggs', 'A collection of horned lizard eggs wait to be incubated at Fort Worth Zoo in Fort Worth, Texas on May 29, 2018.', sizes='(min-width: 740px) 25vw, 95vw')}}
+      <p class="cutline cutline--mobile">A clutch of horned lizard eggs outside an incubator. (Nathan Hunsinger/Staff Photographer)</p>
+    </div>
+  </div>
+
+  <p>Just like online dating, sometimes the most compatible match on paper isn’t the best practical pair. A female in San Antonio might be the best match for a male in Fort Worth. In those circumstances, it’s up to Barber and Vicky Poole, the species studbook keeper, to evaluate the matches and make adjustments.</p>
+  <p>“We have so many animals and so many possibilities,” Poole says. “Every year we have to go through this. It’s the dating game.”</p>
+  <p>While the young male courts the TCU model, Doege introduces other pairs. Green-Green-Black, the sleepy lizard who woke from hibernation covered in sand, is paired with Yellow-Yellow-Black, a male who has fathered 15 hatchlings at the zoo. They mate right away.</p>
+  <p>It’ll be at least a month before there are any signs of eggs, and even then every nest may not be viable. Three hundred hatchlings is still the goal.</p>
+  <p>“If each of them lay 20 eggs,” Doege says after the lizards are all paired with their potential mates, “we have a shot.”</p>
+
+  {%include "adblock2.html" %}
+
+  <p class="subhead">New role for zoos</p>
+
+  <p>Zoos were once treated like exotic sideshows, places to view strange beasts from around the globe. Think of tigers in steel cages, elephants tethered with large chains.</p>
+  <p>In the late 20th century, however, there was a push among zoos to concentrate more on animal husbandry and welfare, Barber says. They became arks, places to collect and care for as many species as possible, especially as their natural habitats were in decline.</p>
+  <p>But zoos can only fit so many animals. Conservationists can support a finite number of projects at one time.</p>
+  <p>Consequently, the mind-set among many zoos has changed. They must engage in wild conservation as much as they collect animals and protect them in captivity. Zookeepers also work to make the environment better to protect those species.</p>
+  <p>“We’re not just amassing animals to keep them in captivity forever,” Barber said.</p>
+  <p>One of her first such projects at Omaha’s Henry Doorly Zoo in the early 1990s was to capture what were believed to be the only Wyoming toads in existence, a last-ditch effort that classified the species as “extinct-in-the-wild.”</p>
+  <p>In Omaha, she helped produce tadpoles for release near Laramie, Wyo., and supervised the toad’s studbook, part of the Association of Zoos & Aquariums’ species survival plan.</p>
+  <p>Barber still keeps a photo of the first adult Wyoming toad she spotted in the wild, long after they had been declared extinct. It was very likely an individual she had released as a tadpole years earlier.</p>
+  <p>“My love for toads started then,” she said.</p>
+
+  <div class="wide-block image-block">
+    <div class="grid grid--1-1">
+      <div class="grid-item grid-item--a">
+        {{img.jpg('muse3', 'TPWD wildlife biologist Cameron Martin inspects a horned lizard habitat at the Muse Wildlife Management Area in Brown County, Texas on May 11, 2018.', sizes='(min-width: 740px), 75vw, 95vw')}}
+        <p class="cutline cutline--mobile">Texas horned lizards outfitted with radio transmitters await release at Muse Wildlife Management area. (Nathan Hunsinger/Staff Photographer)</p>
+      </div>
+      <div class="grid-item grid-item--b">
+        {{img.jpg('muse1', '', sizes='(min-width: 740px), 25vw, 95vw')}}
+        <p class="cutline cutline--mobile">Texas Parks and Wildlife Department wildlife biologist Cameron Martin inspects a horned lizard habitat at the Muse Wildlife Management Area in Brown County, Texas. (Nathan Hunsinger/Staff Photographer)</p>
+      </div>
+    </div>
+    <p class="cutline cutline--large">Left: Texas horned lizards outfitted with radio transmitters await release at Muse Wildlife Management area. Right: Texas Parks and Wildlife Department wildlife biologist Cameron Martin inspects a horned lizard habitat at the Muse Wildlife Management Area in Brown County, Texas. (Nathan Hunsinger/Staff Photographer)
+</p>
+  </div>
+
+  <p>Today, the horned lizards are just one of her focuses. She regularly travels to Puerto Rico, where she’s helping to reintroduce the Puerto Rican crested toad. In the same room where the horned lizards are breeding, she’s overseeing an operation to support populations of rare Louisiana pine snakes and spot-tailed earless lizards.</p>
+  <p>She says there’s no playbook for this kind of work. As our planet changes and more species are shoved toward extinction, humans are learning how best to protect and reintroduce them to the wild on a case-by-case basis.</p>
+  <p>But not all toads are created equal.</p>
+  <p>One species may benefit from widespread support and research, while another might not succeed due to human conflicts over procedure and best practices.</p>
+  <p>That chatter can slow, and sometimes even halt, the effort to bring a species back.</p>
+  <p>To that extent, the Texas horned lizard is lucky.</p>
+  <p>Texas landowners flood Parks and Wildlife with calls asking to reintroduce the lizard on their land. TCU’s support with genetic research has helped diversify captive populations.</p>
+  <p>Still, everyone who’s had a hand in this project knows it will be nearly impossible to bring the lizards back to their original range.</p>
+  <p>In one of the earliest efforts to reintroduce hatchlings, half were killed by fire ants within 24 hours of release. This summer, a Parks and Wildlife project that released tagged lizards 75 miles southeast of Abilene ended early. No lizards were left to track by late August.</p>
+  <p>Even in good conditions, a high mortality rate among Texas horned lizards makes it all the more important to release hundreds of hatchlings at once.</p>
+  <p>“These projects are not things that may be successful at first,” Barber said. “Sometimes you get caught up and think, is this even going to happen in my lifetime?”</p>
+
+</section>
+<div class="image-block full-block" id="hatching1"></div>
+<section class="content-well">
+
+  <p class="subhead">Into the wild</p>
+  <p>For weeks after pairing day, Peltier and Doege watch the sandy enclosures at the zoo. They look for signs that the females have laid eggs, weighing them regularly.</p>
+  <p>On May 17, Green-Green-Black weighed 40.7 grams. A week later, she was down to 26.6 grams. She was the first to dig a nest.</p>
+  <p>Peltier and Doege transfer her 24 eggs to a clear deli cup with a thin layer of vermiculite gravel. Each clutch is placed inside an incubator behind the zoo’s mountains and deserts building, where you’ll see the horned lizards on display.</p>
+  <p>By late June, the zookeepers have found 135 eggs, and the tiny lizards begin hatching in late July.</p>
+  <p>Each is hardly the size of a penny as they slowly climb out of the paper-thin eggs over several days. Peltier measures them in millimeters as Doege assigns each a six-digit code of their own.</p>
+  <p>Green-Green-Black’s offspring don’t get nail polish dots right away, however. Most are headed to the wild, where the colorful dots would counteract their camouflage.</p>
+
+  <div class="inline-block image-block">
+    {{img.jpg('baby-release', 'A collection of horned lizard eggs wait to be incubated at Fort Worth Zoo in Fort Worth, Texas on May 29, 2018.', sizes='(min-width: 740px) 25vw, 95vw')}}
+    <p class="cutline cutline--large">Dallas Zoo herpetologist Bradley Lawrence releases a baby horned lizard at Mason Mountain Wildlife Management Area in Mason, Texas. (Nathan Hunsinger/Staff Photographer)</p>
+  </div>
+
+  <p>In the first week of September, it’s time to pack up the baby lizards.</p>
+  <p>Peltier and Doege count the hatchlings and label each container with a piece of neon green painter’s FrogTape.</p>
+  <p>Twenty-one of Green-Green-Black’s offspring are headed to Mason Mountain. In all, they pack 93 baby lizards in a styrofoam box cushioned by newspaper.</p>
+  <p>That’s far under the goal of 300.</p>
+  <p>Next year, they’ll have more juveniles at breeding age. More potential parents means more potential offspring. The bar is still set at 300 hatchlings for release in 2019.</p>
+  <p>On a cool and cloudy Wednesday morning, Doege and Peltier drive the lizards to Mason and carry the deli cups into the brush. They take turns placing the hatchlings carefully on the ground. Doege kneels and scoops Green-Green-Black’s offspring out of the deli cup two or three at a time.</p>
+
+  <div class="thinglink-embed inline-block">
+    <img style="max-width:100%" src="//cdn.thinglink.me/api/image/1096170903391174658/1024/10/scaletowidth#tl-1096170903391174658;1043138249'" class="alwaysThinglink"/><script async charset="utf-8" src="//cdn.thinglink.me/jse/embed.js"></script>
+    <p class="credit">Michael Hogue/Staff Artist</p>
+  </div>
+
+  <p>And that’s it.</p>
+  <p>Unceremoniously, they walk back out of the brush, leaving the little lizards behind.</p>
+  <p>“Enjoy the horned lizards,” Doege says to the Parks and Wildlife biologists. “We’ll make more next year.”</p>
+  <p>There’s just one experiment left, one that will give Parks and Wildlife a better idea if these lizards survive more than just a few days.</p>
+  <p>Ten lizards were held from the initial release group to be part of a new tracking test. Technology originally developed to find skiers after avalanches has been adapted for tracking small reptiles.</p>
+  <p>A few hours after the other lizards were released, Rains and Barber glue tiny trackers onto the hatchlings before releasing them in a clearing not far away. The antennas hang off their backs like extra-long tails, bobbing behind as they dart toward a patch of prickly pear.</p>
+  <p>The next morning, Rains returns to the clearing. He watches the ground with each step, keeping an eye out for any hatchlings underfoot.</p>
+  <p>He opens a big yellow and gray receiver, turning up the monitor to check for any sign of the lizards.</p>
+  <p>Almost immediately, the device emits a rapid <em>beep-beep-beep-beep</em> out of the static.</p>
+  <p>In the Hill Country brush, the horned lizard hatchlings are still there.</p>
+  <p><em><strong>CORRECTION, 10 a.m., Sept. 17, 2018:</strong> An earlier version of this story misspelled the first name of Jaimie Peltier.</em></p>
+
+  <p class="twitter-tag">Follow <a href="https://twitter.com/cscudder">Charles Scudder</a> and <a href="https://twitter.com/n8hunsinger">Nathan Hunsinger</a> on Twitter.</p>
+
+  {%include "adblock3.html" %}
+
+  <section class="credits clearfix">
+    <p>Author: <a href="mailto:cscudder@dallasnews.com">Charles Scudder</a></p>
+    <p>Editor: <a href="mailto:lsnyder@dallasnews.com">Leslie Snyder</a></p>
+    <p>Copy Editor: <a href="mailto:msheridan@dallasnews.com">Martha Sheridan</a></p>
+    <p>Photos: <a href="mailto:nhunsinger@dallasnews.com">Nathan Hunsinger</a></p>
+    <p>Photo Editor: <a href="mailto:mhamtil@dallasnews.com">Michael Hamtil</a></p>
+    <p>Design: Alma Washington and <a href="mailto:jhancock@dallasnews.com">John Hancock</a></p>
+  </section>
+<!-- end credits -->
+
+	<section class="more clearfix">
+		<h5>Read more from The Dallas Morning News</h5>
+    <a class="clearfix" href="https://interactives.dallasnews.com/2018/18-races-in-2018/">
+      <img src="images/_18races-share.jpg" alt="Illustration of key candidates in the 2018 midterms" />
+      <h6>18 races in 2018</h6>
+      <p>From Beto O’Rourke and Ted Cruz on down, here are Texas’ hottest contests for the November midterms.</p>
+    </a>
+		<a class="clearfix" href="https://interactives.dallasnews.com/2017/rural-royalty/">
+			<img src="images/_rural-share.jpg" alt="Miss Snake Charmer 2018 Cyera Pieper and Jaycee Travis Gardner pose for a photo with a live rattlesnake in the main pit at the Sweetwater Rattlesnake Roundup in the Nolan County Coliseum in Sweetwater." />
+			<h6>Rural Royalty</h6>
+			<p>From the Red to the Rio, they represent their communities with style and grace befitting local royalty.</p>
+		</a>
+		<a class="clearfix" href="https://interactives.dallasnews.com/2018/on-the-campaign-trail-with-lupe-valdez/">
+			<img src="images/_lupe-share.jpg" alt="Lupe Valdez takes a selfie with supporters" />
+			<h6>On the campaign trail with Lupe Valdez</h6>
+			<p>Former Dallas County sheriff has bootstrapped her run for Texas governor with marches, miles and modest hotels.</p>
+		</a>
+	</section>
+	<!-- end more -->
+
+
+    <div class="shareComments">
+        <div id="comments"></div>
+	</div>
+	<!-- end shareComments -->
+
+
+</section>
+<!-- end contentWell -->
+{%endblock%}
+
+
+
+
+{%block custom_foot%}
+	<script type="text/javascript"></script>
+{%endblock%}
+
+
+
+
+
+{%block custom_social_meta%}
+<script type="text/javascript">
+  var storyTitle = "{{tweetText}}", // headline in tweet card
+	storyURL = "{{url}}",
+	leadText = "{{shareText}}", //description in tweet card
+	storyIMG = "{{imgURL}}",
+	storyAuthor = "{% for author in authors %}{{author}}{{', ' if not loop.last}}{% endfor %}",
+	twitterTag = "{{sectionTwitter}}",
+	comments = true,
+	share = true;
+	OAS_sitepage = 'www.dallasnews.com/{{desk}}/{{section}}/';
+</script>
+{%endblock%}

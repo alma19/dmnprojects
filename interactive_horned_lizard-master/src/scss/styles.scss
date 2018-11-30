@@ -1,0 +1,457 @@
+@import 'header';
+@import 'footer';
+@import 'mixins';
+@import 'variables';
+@import 'base';
+@import 'components/drop-list';
+@import 'components/pullquotes';
+@import 'components/videos';
+
+
+$tcu: #4d1979;
+
+html.embedded, html {
+  // Applied when embedded using Pym.js
+  font-size: 10px;
+}
+
+body {
+  // This helps Pym.js more more accurately measure our <body>
+  &:before,
+  &:after {
+    content: " ";
+    display: table;
+  }
+}
+
+.content-well .credit {
+  text-align: right;
+  @include type(1.2rem, 1.5rem, 0);
+  font-weight: 300;
+}
+
+/*INTRO*/
+.interactive-intro {
+  font-family: $sans;
+  font-size: 1.7rem;
+  width: 100%;
+  margin: 4.8rem auto;
+  .interactive-title {
+    font-weight: bold;
+  }
+}
+
+#content-header {
+  position: relative;
+  margin-bottom: -15vw;
+  video {
+    width: 100%;
+  }
+  &:after {
+    @include psuedoElement(100%, 20px, absolute);
+    bottom: 0;
+    left: 0;
+    background: -moz-linear-gradient(top, rgba(255,255,255,0) 0%, rgba(255,255,255,.8) 25%, rgba(255,255,255,1) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, rgba(255,255,255,0) 0%,rgba(255,255,255,.8) 25%,rgba(255,255,255,1) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, rgba(255,255,255,0) 0%,rgba(255,255,255,.8) 25%,rgba(255,255,255,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */
+  }
+}
+
+#story-head {
+  animation-name: header;
+  animation-duration: 1s;
+  animation-delay: 1s;
+  animation-fill-mode: forwards;
+  top: 15vw;
+  position: relative;
+  opacity: 0;
+  padding: 20px 20px 20px;
+  background-color: rgba(white, .7);
+}
+
+@keyframes header {
+  from {
+    top: 15vw;
+    opacity: 0;
+  }
+  to {
+    top: 0;
+    opacity: 1;
+  }
+}
+
+@media (min-width: 1800px) {
+  #story-head {
+    padding-bottom: 2vw;
+  }
+}
+
+@media (max-width: 800px) {
+  #content-header {
+    margin-bottom: 0;
+  }
+  #story-head {
+    top: 0;
+    padding: 0;
+    margin-top: 2.4rem;
+  }
+  @keyframes header {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+}
+
+/*MAP STYLES*/
+#mapwrap{
+  position:relative;
+  margin-bottom: 5rem;
+}
+
+#map {
+  width: 100%;
+  height: 500px;
+
+  @media (max-width: 400px) {
+    height: 300px;
+  }
+}
+
+.mapboxgl-popup {
+  width: 160px;
+  font-family: $sans;
+  @include type(1.2rem, 1.5rem, .3rem);
+}
+.mapboxgl-popup-content{
+  padding: 10px 20px 10px 10px;
+}
+
+.mapboxgl-popup-close-button {
+  font-size: 2rem;
+}
+
+.mapboxgl-ctrl-compass {
+display: none !important;
+}
+
+
+
+.chatter {
+  margin-bottom: 1.2rem;
+  h5 {
+    font-weight: 700;
+  }
+  p {
+    font-weight: 300;
+  }
+}
+
+.full-block {
+  height: 66vw;
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  &:after {
+    font-family: $sans;
+    font-weight: 400;
+    @include type(1.3rem, 1.8rem, 0);
+    position: absolute;
+    top: calc(100% + 3px);
+    padding: 0 20px;
+    color: $black66;
+  }
+}
+
+body.ios .full-block {
+  background-attachment: scroll;
+}
+
+@media (max-width: 800px) {
+  .full-block {
+    background-attachment: scroll;
+  }
+}
+
+#release {
+  background-image: url('../images/release-2400.jpg');
+  background-position: center bottom;
+  &:after {
+    content: "Baby horned lizards are released at Mason Mountain Wildlife Management Area in Mason, Texas on Sept. 5, 2018. (Nathan Hunsinger/Staff Photographer)";
+  }
+}
+
+#lab {
+  background-image: url('../images/lab-2400.jpg');
+  background-position: right bottom;
+  &:after {
+    content: "Rachel Alenius analyzes DNA collected from the feces of South Texas horned lizards at TCU’s Winton-Scott Hall lab in Fort Worth. (Nathan Hunsinger/Staff Photographer)";
+  }
+}
+
+#hatching1 {
+  background-image: url('../images/hatching1-2400.jpg');
+  background-position: center top;
+  &:after {
+    content: "A Texas horned lizard pushes its head through an eggshell as it begins to hatch at the Fort Worth Zoo's Texas Native Reptile Center. (Tom Fox/Staff Photographer)";
+  }
+}
+
+@media (max-width: 800px) {
+  #release {
+    background-image: url('../images/release-1200.jpg');
+  }
+  #lab {
+    background-image: url('../images/lab-1200.jpg');
+  }
+  #hatching1 {
+    background-image: url('../images/hatching1-1200.jpg');
+  }
+}
+
+.grid {
+  display: grid;
+  grid-column-gap: 2.4rem;
+  grid-row-gap: 2.4rem;
+}
+
+.grid-item {
+  img {
+    margin-top: 2.4rem;
+    &:first-of-type {
+      margin-top: 0;
+    }
+  }
+}
+.grid--2-1 {
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-areas: 'a a b';
+}
+.grid--3-1 {
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-areas:
+    'a a a b';
+}
+.grid--1-1 {
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-areas:
+    'a b';
+}
+.grid-item--a {
+  grid-area: a;
+}
+.grid-item--b {
+  grid-area: b;
+}
+.cutline--mobile {
+  display: none;
+}
+
+@media (max-width: 740px) {
+  .grid {
+    display: block;
+  }
+  .grid-item {
+    margin-bottom: 4.8rem;
+    &:last-of-type {
+      margin-bottom: 0;
+    }
+    img {
+      margin-top: 4.8rem;
+      &:first-of-type {
+        margin-top: 0;
+      }
+    }
+  }
+  .cutline--mobile {
+    display: block;
+  }
+  .cutline--large {
+    display: none;
+  }
+}
+
+
+///////// LIZARD PROFILES ///////////
+
+#lizard-profiles {
+  overflow: hidden;
+  position: relative;
+  &:before {
+    @include psuedoElement(25%, 100%, absolute);
+    background-color: white;
+    top: 0;
+    left: 0;
+    z-index: 50;
+    background: -moz-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(255,255,255,.95) 65%, rgba(255,255,255,0) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(left, rgba(255,255,255,1) 0%,rgba(255,255,255,.95) 65%,rgba(255,255,255,0) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right, rgba(255,255,255,1) 0%,rgba(255,255,255,.95) 65%,rgba(255,255,255,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#00ffffff',GradientType=1 ); /* IE6-9 */
+    @media (max-width: 600px) {
+      width: 10%;
+    }
+    @media (max-width: 450px) {
+      width: 2.5%;
+    }
+  }
+  &:after {
+    @include psuedoElement(25%, 100%, absolute);
+    background-color: white;
+    top: 0;
+    right: 0;
+    z-index: 50;
+    background: -moz-linear-gradient(left, rgba(255,255,255,0) 0%, rgba(255,255,255,.95) 35%, rgba(255,255,255,1) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(left, rgba(255,255,255,0) 0%,rgba(255,255,255,.95) 35%,rgba(255,255,255,1) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right, rgba(255,255,255,0) 0%,rgba(255,255,255,.95) 35%,rgba(255,255,255,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', endColorstr='#ffffff',GradientType=1 ); /* IE6-9 */
+    @media (max-width: 600px) {
+      width: 10%;
+    }
+    @media (max-width: 450px) {
+      width: 2.5%;
+    }
+  }
+  button {
+    text-indent: -9999px;
+    width: 150px;
+    height: 150px;
+    background-color: initial;
+    @include rotate(45deg);
+    position: absolute;
+    top: 50%;
+    margin-top: -75px;
+    z-index: 60;
+    border: 1px solid $black66;
+    cursor: pointer;
+  }
+  #slide-previous {
+    left: 35px;
+    border-right: none;
+    border-top: none;
+  }
+  #slide-next {
+    right: 35px;
+    border-left: none;
+    border-bottom: none;
+    cursor: pointer;
+  }
+  @media (max-width: 600px) {
+    button {
+      width: 50px;
+      height: 50px;
+      margin-top: -25px;
+    }
+    #slide-previous {
+      left: 10px;
+    }
+    #slide-next {
+      right: 10px;
+    }
+  }
+}
+
+#slide-container {
+  width: calc(2000px + (24px * 4));
+  grid-template-columns: repeat(5, 1fr);
+  grid-column-gap: 24px;
+  position: relative;
+  @include transition(all, .25s, ease-out);
+  left: calc(600px - (24px * 4));
+  padding: 10px 0;
+  @media (max-width: 1555px) {
+    left: calc(50% - 200px);
+  }
+  @media (max-width: 740px) {
+    display: grid;
+  }
+  @media (max-width: 600px) {
+    width: calc(1200px + (24px * 4));
+    left: calc(50% - 120px);
+  }
+}
+
+.lizard-profile {
+  background-color: rgb(254,232,143);
+  border-radius: 10px;
+  font-family: $sans;
+  box-shadow: 2px 2px 4px rgba($black33, .15), 2px -2px 4px rgba($black33, .15), -2px 2px 4px rgba($black33, .15), -2px -2px 4px rgba($black33, .15);
+  transform: scale(0.9);
+  position: relative;
+  @include transition(all, .25s, ease-out);
+  h5 {
+    font-weight: 700;
+  }
+  p {
+    @include type(1.3rem, 1.8rem, 0);
+  }
+  img {
+    width: 100%;
+    margin-bottom: 0;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+  }
+  &.active {
+    transform: scale(1.0)
+  }
+}
+
+.profile--text {
+  color: $black33;
+  padding: 20px;
+  @include type(1.4rem, 1.8rem, 0);
+}
+
+.table-wrapper {
+  display: table;
+  height: 100%;
+}
+.table-content {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.circles {
+  display: inline-block;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
+.circle {
+  position: relative;
+  width: 2rem;
+  height: 2rem;
+  z-index: 30;
+  border-radius: 50%;
+  margin-right: 2px;
+  display: inline-block;
+}
+
+.green {
+  background-color: $chartGreen;
+}
+
+.pink {
+  background-color: #E88FA1;
+}
+
+.purple {
+  background-color: $chartPurple;
+}
+
+.yellow {
+  background-color: $chartYellow;
+}
+
+.black {
+  background-color: black;
+}
+
+.no-show {
+  display: none;
+}
