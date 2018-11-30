@@ -1,0 +1,260 @@
+  /*                       */
+ /* Default style imports */
+/*                       */
+
+@import 'base';
+
+
+// Should get Hancock to embed these in base, at some point:
+
+@import 'header';
+@import 'footer';
+
+
+  /*                         */
+ /* Project-specific styles */
+/*                         */
+
+// Enter your custom styles here.
+.interactive-intro {
+  font-family: $sans;
+  font-size: 1.7rem;
+  width: 90%;
+  margin: 0 auto;
+  text-align: center;
+  background-color: white;
+  z-index: 30;
+  padding: 2rem 0 1rem 0;
+  select {
+    margin-top: 1rem;
+    width: 100%;
+    max-width: 400px;
+  }
+}
+
+.race {
+  width: 90%;
+  max-width: 650px;
+  font-family: $sans;
+  padding-top: 4.8rem;
+  padding-bottom: 4.8rem;
+  margin: 0 auto;
+  border-bottom: 1px solid $black215;
+  &:last-of-type {
+    border-bottom: none;
+  }
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  grid-gap: 20px;
+  text-align: center;
+  width: 80%;
+  max-width: 450px;
+  margin: 0 auto;
+}
+
+.candidate-grid {
+  overflow: hidden;
+  .candidate {
+    top: 200px;
+    position: relative;
+    &.candidate--animated {
+      -webkit-animation: candidate;
+      -webkit-animation-duration: .5s;
+      -webkit-animation-iteration-count: 1;
+      -webkit-animation-fill-mode: forwards;
+      -webkit-animation-delay: .25s;
+      animation: candidate;
+      animation-duration: .5s;
+      animation-iteration-count: 1;
+      animation-fill-mode: forwards;
+      animation-delay: .25s;
+    }
+  }
+}
+
+@keyframes candidate {
+  from {top: 200px;}
+  to {top: 0px};
+}
+
+
+
+.race-name {
+  font-weight: bold;
+  font-family: $sans;
+  margin: 2rem 0 3rem 0;
+  text-align: center;
+  width: 100%;
+  max-width: 400px;
+  margin: 0 auto 2.4rem;
+  padding-bottom: .6rem;
+  border-bottom: 2px solid $black33;
+  position: relative;
+  div {
+    overflow: hidden;
+  }
+  h5 {
+    @include type(3rem, 3.6rem, 0);
+    position: relative;
+    top: 100px;
+    &.animate {
+      -webkit-animation-name: racename;
+      animation-name: racename;
+      -webkit-animation-duration: .4s;
+      animation-duration: .4s;
+      -webkit-animation-iteration-count: 1;
+      animation-iteration-count: 1;
+      -webkit-animation-fill-mode: forwards;
+      animation-fill-mode: forwards;
+      -webkit-animation-delay: .25s;
+      animation-delay: .25s;
+    }
+  }
+  &:after {
+    @include psuedoElement(1rem, 1rem, absolute);
+    border-right: 2px solid $black33;
+    border-bottom: 2px solid $black33;
+    left: 50%;
+    margin-left: -.5rem;
+    @include rotate(45deg);
+    background-color: white;
+    bottom: -.7rem;
+    border-radius: .2rem;
+  }
+}
+
+@keyframes racename {
+  from {top: 100px;}
+  to {top: 0px;}
+}
+
+
+.race-blurb {
+  margin: 1.2rem 0;
+  font-size: 1.7rem;
+  font-family: $serif;
+  line-height: 2.4rem;
+  text-align: center;
+}
+
+
+.candidate-pic {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+
+.dem {
+  background-color: $dmnblue;
+}
+
+.rep {
+  background-color: $chartRed;
+}
+
+.party-icon {
+    font-weight: bold;
+    font-size: 1.2rem;
+    width: 1.6rem;
+    height: 1.6rem;
+    display: inline-block;
+}
+
+.icon {
+  color: white;
+  border-radius: 50%;
+  width: 2.3rem;
+  height: 2.3rem;
+  line-height: 2.3rem;
+}
+
+.candidate-name {
+  margin-top: .5rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin-bottom: .6rem;
+}
+
+
+.incumbent {
+  // font-weight: bold;
+  color: $chartText;
+  @include type(1.3rem, 1.5rem, 0);
+}
+
+
+.story {
+  margin-top: 1.5rem;
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-align: center;
+
+  a {
+    color: $dmnblue;
+    text-decoration: none;
+  }
+  :hover {
+    text-decoration: underline;
+    }
+}
+
+@media only screen and (max-width: 1350px) {
+  .grid {
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+  }
+}
+
+@media only screen and (max-width: 400px ) {
+  .races {
+    margin: 2.5rem;
+  }
+  .race {
+    width: 100%;
+  }
+
+  .interactive-intro select {
+    width: 100%;
+  }
+}
+
+.subscribe-cta {
+ width: 100%;
+ max-width: 650px;
+ margin: 4.8rem auto 4.8rem;
+ padding: 4.8rem 0;
+ border-bottom: 1px solid $black215;
+ border-top: 1px solid $black215;
+ text-align: center;
+ h4 {
+   font-weight: bold;
+ }
+ p {
+   font-family: $sans;
+   @include type(1.4rem, 1.8rem, 2.4rem);
+ }
+ a {
+   background-color: $black245;
+   font-family: $sans;
+   color: $black33;
+   padding: 10px;
+   @include type(1.6rem, 2.4rem, 0);
+   @include transition(all, .25s, ease-out);
+   border-radius:3px;
+   border: 1px solid $black215;
+   &:visited {
+     color: white;
+   }
+   &:hover {
+     background-color: $dmnblue;
+     color: white;
+     text-decoration: none;
+   }
+ }
+}
+
+.subscribed .subscribe-cta {
+  display: none;
+}
