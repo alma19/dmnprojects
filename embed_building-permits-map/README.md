@@ -1,3 +1,9 @@
+Using mapbox, I created a choropleth map illustrating the number of residential building permits in the Dallas Fort Worth area. I was tasked with just making a simple map, but I took it upon myself allow users to explore single vs. multi-family permits, therefore giving readers a better understanding of the story. 
+
+[Interactive](http://interactives.dallasnews.com/embeds/2018/building-permits-map/)
+![building permits map](https://github.com/alma19/dmnprojects/blob/master/embed_building-permits-map/buildingpermits.png?raw=true)
+
+
 # building-permits-map
 
 This is an embeddable graphic built using the [`dmninteractives` Yeoman generator](https://github.com/DallasMorningNews/generator-dmninteractives). It's designed to be embedded using [Pym.js](http://blog.apps.npr.org/pym.js/) as a responsive `iframe`.
