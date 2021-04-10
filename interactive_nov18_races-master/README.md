@@ -1,4 +1,11 @@
-# interactive_interactive-18-races-2018
+# 18 Races to Wathc This November 
+
+I worked with the DMN politics team to create an interactive detailing 18 races to watch in preparation for the November midterms.  
+
+[Interactive](https://interactives.dallasnews.com/2018/18-races-in-2018/)
+![18races](https://github.com/alma19/dmnprojects/blob/master/interactive_nov18_races-master/18races.png?raw=true)
+
+
 
 This is an interactive presentation graphic built using the [`dmninteractives` Yeoman generator](https://github.com/DallasMorningNews/generator-dmninteractives).
 
