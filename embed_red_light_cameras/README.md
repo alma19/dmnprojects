@@ -1,3 +1,12 @@
+# Red Light Cameras Map
+
+Early in my internship I wanted to do a project with some red light camera data I found from the Texas department of transportation. The project didn’t work out at the time, but I was later approached by a reporter that heard through the grapevine that I had this data and wanted to work with me. After talking through some ideas we decided that I would map the red light cameras in the five most populous North Texas cities. 
+
+I scraped the data PDFs using Python and regular expressions. From there I geocoded the street intersections and created a Mapbox map with the results. 
+
+[Interactive](http://interactives.dallasnews.com/embeds/2018/red-lights-map/)
+![red light camera map](https://github.com/alma19/dmnprojects/blob/master/embed_red_light_cameras/redlightcamera.png?raw=true)
+
 # red-lights-map
 
 This is an embeddable graphic built using the [`dmninteractives` Yeoman generator](https://github.com/DallasMorningNews/generator-dmninteractives). It's designed to be embedded using [Pym.js](http://blog.apps.npr.org/pym.js/) as a responsive `iframe`.
