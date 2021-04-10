@@ -1,5 +1,7 @@
 # embed-liquor-laws
 
+[Interactive](https://www.dallasnews.com/news/curious-texas/2018/08/29/do-blue-laws-still-exist-in-the-lone-star-state-curious-texas-investigates/)
+
 This is an embeddable graphic built using the [`dmninteractives` Yeoman generator](https://github.com/DallasMorningNews/generator-dmninteractives). It's designed to be embedded using [Pym.js](http://blog.apps.npr.org/pym.js/) as a responsive `iframe`.
 
 ## Requirements
