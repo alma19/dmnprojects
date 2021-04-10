@@ -1,4 +1,9 @@
-# interactive_
+# Horned Lizard Map
+
+Using tutorials and strategic Googling, I taught myself to build a Python scraper to gather data on Texas horned lizard observations. I then used that data to build a Mapbox map to illustrate the disappearance of the Texas horned lizard from east Texas. 
+
+[Interactive](https://interactives.dallasnews.com/2018/the-disappearing-horny-toad/)
+[Scraper Code](https://github.com/alma19/dmnprojects/tree/master/scraper_horned_lizard)
 
 This is an interactive presentation graphic built using the [`dmninteractives` Yeoman generator](https://github.com/DallasMorningNews/generator-dmninteractives).
 
