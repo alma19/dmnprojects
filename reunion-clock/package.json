@@ -24,7 +24,7 @@
     "eslint-plugin-jsx-a11y": "^5.1.1",
     "eslint-plugin-react": "^7.10.0",
     "event-stream": "^3.3.4",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-awspublish": "^3.3.0",
     "gulp-confirm": "^1.0.4",
     "gulp-postcss": "^7.0.0",
